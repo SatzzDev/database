@@ -1,0 +1,182 @@
+{
+  "creator": "@krniwnstria",
+  "number": 82,
+  "name": "Al-Infitar",
+  "type": "Makkiyyah",
+  "translation_id": "(Yaitu) pada hari (ketika) seseorang sama sekali tidak berdaya (menolong) orang lain. Dan segala urusan pada hari itu dalam kekuasaan Allah.",
+  "translation_en": "It is the Day when a soul will not possess for another soul [power to do] a thing; and the command, that Day, is [entirely] with Allah.",
+  "jumlah_ayat": 19,
+  "ayat": [
+    {
+      "no": 1,
+      "arab": "إِذَا السَّمَاءُ انفَطَرَتْ",
+      "latin": "Izas samaaa'un fatarat",
+      "id": "Apabila langit terbelah,",
+      "en": "When the sky breaks apart",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5830",
+      "tafsir": "Ada empat peristiwa besar pada hari kiamat yang disebutkan di bagian awal surah ini, dari ayat 1 s.d. 4. Dua peristiwa yang pertama terjadi di langit dan sisanya di bumi. Apabila langit yang demikian besar dan kukuh terbelah, retak, kemudian digulung."
+    },
+    {
+      "no": 2,
+      "arab": "وَإِذَا الْكَوَاكِبُ انتَثَرَتْ",
+      "latin": "Wa izal kawaakibun tasarat",
+      "id": "dan apabila bintang-bintang jatuh berserakan,",
+      "en": "And when the stars fall, scattering,",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5831",
+      "tafsir": "Dan apabila bintang-bintang jatuh berserakan, keluar dari garis edarnya, dan berhamburan secara acak akibat hilangnya gaya tarik-menarik antar-benda angkasa."
+    },
+    {
+      "no": 3,
+      "arab": "وَإِذَا الْبِحَارُ فُجِّرَتْ",
+      "latin": "Wa izal bihaaru fujjirat",
+      "id": "dan apabila lautan dijadikan meluap,",
+      "en": "And when the seas are erupted",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5832",
+      "tafsir": "Dan apabila lautan dijadikan meluap, di mana batas antara satu laut dengan lainnya terbelah dan hancur sehingga air meluap. Air tawar dan asin pun menyatu, berkumpul menjadi lautan raksasa tak bertepi."
+    },
+    {
+      "no": 4,
+      "arab": "وَإِذَا الْقُبُورُ بُعْثِرَتْ",
+      "latin": "Wa izal qubooru bu'sirat",
+      "id": "dan apabila kuburan-kuburan dibongkar,",
+      "en": "And when the [contents of] graves are scattered,",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5833",
+      "tafsir": "Dan apabila kuburan-kuburan dibongkar sehingga mayat-mayat yang ada di dalamnya hidup kembali lalu berhamburan keluar tak tentu arah."
+    },
+    {
+      "no": 5,
+      "arab": "عَلِمَتْ نَفْسٌ مَّا قَدَّمَتْ وَأَخَّرَتْ",
+      "latin": "'Alimat nafsum maa qaddamat wa akhkharat",
+      "id": "(maka) setiap jiwa akan mengetahui apa yang telah dikerjakan dan yang dilalaikan(nya).",
+      "en": "A soul will [then] know what it has put forth and kept back.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5834",
+      "tafsir": "Maka pada saat itulah setiap jiwa akan mengetahui secara rinci amal baik atau buruk apa saja yang telah dikerjakan olehnya di dunia dan apa yang dilalaikan-nya. Dia kemudian akan mendapat balasan atas perbuatannya tersebut."
+    },
+    {
+      "no": 6,
+      "arab": "يَا أَيُّهَا الْإِنسَانُ مَا غَرَّكَ بِرَبِّكَ الْكَرِيمِ",
+      "latin": "Yaaa ayyuhal insaaanu maa gharraka bi Rabbikal kareem",
+      "id": "Wahai manusia! Apakah yang telah memperdayakan kamu (berbuat durhaka) terhadap Tuhanmu Yang Mahamulia,",
+      "en": "O mankind, what has deceived you concerning your Lord, the Generous,",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5835",
+      "tafsir": "Malaikat menyeru penuh heran, “Wahai manusia! Apakah yang telah memperdayakan kamu sehingga berbuat durhaka terhadap Tuhanmu Yang Mahamulia, padahal Dialah yang telah menciptakanmu, memeliharamu, mendidikmu, dan menjadikanmu makhluk terbaik?”"
+    },
+    {
+      "no": 7,
+      "arab": "الَّذِي خَلَقَكَ فَسَوَّاكَ فَعَدَلَكَ",
+      "latin": "Allazee khalaqaka fasaw waaka fa'adalak",
+      "id": "yang telah menciptakanmu lalu menyempurnakan kejadianmu dan menjadikan (susunan tubuh)mu seimbang,",
+      "en": "Who created you, proportioned you, and balanced you?",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5836",
+      "tafsir": "Mengapa kamu ingkar kepada Tuhan yang telah menciptakanmu dari tiada dalam ukuran yang tepat, lalu Dia menyempurnakan kejadianmu dengan anggota-anggota tubuh, dan Dia menjadikan susunan tubuh-mu seimbang?"
+    },
+    {
+      "no": 8,
+      "arab": "فِي أَيِّ صُورَةٍ مَّا شَاءَ رَكَّبَكَ",
+      "latin": "Feee ayye sooratim maa shaaa'a rakkabak",
+      "id": "dalam bentuk apa saja yang dikehendaki, Dia menyusun tubuhmu.",
+      "en": "In whatever form He willed has He assembled you.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5837",
+      "tafsir": "Dalam bentuk apa saja yang dikehendaki, Dia menyusun tubuhmu dengan sempurna. Tidak ada manusia yang sama persis dengan lainnya. Karena mempunyai bentuk tubuh yang sempurna, semestinya manusia bersyukur kepada Allah dan tidak bermaksiat bahkan menyekutukanNya."
+    },
+    {
+      "no": 9,
+      "arab": "وَإِنَّ عَلَيْكُمْ لَحَافِظِينَ",
+      "latin": "Wa inna 'alaikum lahaa fizeen",
+      "id": "Dan sesungguhnya bagi kamu ada (malaikat-malaikat) yang mengawasi (pekerjaanmu),",
+      "en": "And indeed, [appointed] over you are keepers,",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5839",
+      "tafsir": "Dan mengapa kamu mendustakan hari pembalasan, padahal sesungguhnya bagi kamu ada para malaikat yang mengawasi semua perbuatanmu."
+    },
+    {
+      "no": 10,
+      "arab": "كِرَامًا كَاتِبِينَ",
+      "latin": "Kiraaman kaatibeen",
+      "id": "yang mulia (di sisi Allah) dan yang mencatat (amal perbuatanmu),",
+      "en": "Noble and recording;",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5840",
+      "tafsir": "Mereka adalah makhluk yang mulia di sisi Allah karena kepatuhan dan ketaatan mereka, dan yang tidak pernah luput mencatat amal perbuatanmu, dari yang baik hingga yang buruk, dari yang kecil hingga yang besar."
+    },
+    {
+      "no": 11,
+      "arab": "كَلَّا بَلْ تُكَذِّبُونَ بِالدِّينِ",
+      "latin": "Kalla bal tukazziboona bid deen",
+      "id": "Sekali-kali jangan begitu! Bahkan kamu mendustakan hari pembalasan.",
+      "en": "No! But you deny the Recompense.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5838",
+      "tafsir": "Sekali-kali jangan begitu; janganlah kamu berbuat durhaka! Bahkan kamu mendustakan hari pembalasan meski bukti-bukti yang menerangkan keniscayaannya telah kamu saksikan dengan nyata."
+    },
+    {
+      "no": 12,
+      "arab": "يَعْلَمُونَ مَا تَفْعَلُونَ",
+      "latin": "Ya'lamoona ma taf'aloon",
+      "id": "mereka mengetahui apa yang kamu kerjakan.",
+      "en": "They know whatever you do.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5841",
+      "tafsir": "Para malaikat itu mencatat perbuatanmu dengan rinci dan mereka mengetahui apa saja yang kamu kerjakan."
+    },
+    {
+      "no": 13,
+      "arab": "إِنَّ الْأَبْرَارَ لَفِي نَعِيمٍ",
+      "latin": "Innal abraara lafee na'eem",
+      "id": "Sesungguhnya orang-orang yang berbakti benar-benar berada dalam (surga yang penuh) kenikmatan,",
+      "en": "Indeed, the righteous will be in pleasure,",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5842",
+      "tafsir": "Semua perbuatan manusia tercatat dalam buku catatan amal yang kelak akan diperlihatkan kepada mereka di akhirat. Sesungguhnya orang-orang yang banyak berbakti, beriman, dan beramal saleh, benar-benar berada dalam surga yang penuh kenikmatan tiada tara, tak terbayangkan, apalagi terbandingkan dengan kenikmatan duniawi."
+    },
+    {
+      "no": 14,
+      "arab": "وَإِنَّ الْفُجَّارَ لَفِي جَحِيمٍ",
+      "latin": "Wa innal fujjaara lafee jaheem",
+      "id": "dan sesungguhnya orang-orang yang durhaka benar-benar berada dalam neraka.",
+      "en": "And indeed, the wicked will be in Hellfire.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5843",
+      "tafsir": "Dan sesungguhnya orang-orang yang durhaka kepada Allah, enggan menaati-Nya, bahkan mengingkari, mendurhakai, dan menyekutukan-Nya, benar-benar berada dalam neraka yang penuh siksaan yang sangat mengerikan."
+    },
+    {
+      "no": 15,
+      "arab": "يَصْلَوْنَهَا يَوْمَ الدِّينِ",
+      "latin": "Yaslawnahaa Yawmad Deen",
+      "id": "Mereka masuk ke dalamnya pada hari pembalasan.",
+      "en": "They will [enter to] burn therein on the Day of Recompense,",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5844",
+      "tafsir": "Mereka yang durhaka itu masuk ke dalamnya pada hari pembalasan, di mana semua manusia harus mempertanggungjawabkan tiap detail perbuatannya."
+    },
+    {
+      "no": 16,
+      "arab": "وَمَا هُمْ عَنْهَا بِغَائِبِينَ",
+      "latin": "Wa maa hum 'anhaa bighaaa 'ibeen",
+      "id": "Dan mereka tidak mungkin keluar dari neraka itu.",
+      "en": "And never therefrom will they be absent.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5845",
+      "tafsir": "Dan mereka yang ingkar dan durhaka kepada Allah itu tidak mungkin keluar dari neraka itu dan tidak pula mati di dalamnya. Mereka menetap dan hidup di dalamnya selama-lamanya."
+    },
+    {
+      "no": 17,
+      "arab": "وَمَا أَدْرَاكَ مَا يَوْمُ الدِّينِ",
+      "latin": "Wa maaa adraaka maa Yawmud Deen",
+      "id": "Dan tahukah kamu apakah hari pembalasan itu?",
+      "en": "And what can make you know what is the Day of Recompense?",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5846",
+      "tafsir": "Menegaskan ketegangan hari kebangkitan, Allah bertanya, “Dan tahukah kamu apakah hari pembalasan itu?”"
+    },
+    {
+      "no": 18,
+      "arab": "ثُمَّ مَا أَدْرَاكَ مَا يَوْمُ الدِّينِ",
+      "latin": "Summa maaa adraaka maa Yawmud Deen",
+      "id": "Sekali lagi, tahukah kamu apakah hari pembalasan itu?",
+      "en": "Then, what can make you know what is the Day of Recompense?",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5847",
+      "tafsir": "Allah mengulangi sekali lagi pertanyaan-Nya guna memberi efek yang lebih menggetarkan jiwa, “Tahukah kamu apakah hari pembalasan itu?”"
+    },
+    {
+      "no": 19,
+      "arab": "يَوْمَ لَا تَمْلِكُ نَفْسٌ لِّنَفْسٍ شَيْئًا ۖ وَالْأَمْرُ يَوْمَئِذٍ لِّلَّهِ",
+      "latin": "Yawma laa tamliku nafsul linafsin shai'anw walamru yawma'izil lillaah",
+      "id": "(Yaitu) pada hari (ketika) seseorang sama sekali tidak berdaya (menolong) orang lain. Dan segala urusan pada hari itu dalam kekuasaan Allah.",
+      "en": "It is the Day when a soul will not possess for another soul [power to do] a thing; and the command, that Day, is [entirely] with Allah.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5848",
+      "tafsir": "Hari pembalasan itu adalah pada hari ketika seseorang sama sekali tidak berdaya menolong orang lain. Setiap orang harus mempertanggungjawabkan amalnya sendiri. Hanya iman dan amal saleh yang mampu menyelamatkan seseorang dari siksa neraka. Dan segala urusan pada hari itu dalam kekuasaan Allah. Dialah penguasa tunggal; tidak ada penguasa lain selain Dia."
+    }
+  ]
+}

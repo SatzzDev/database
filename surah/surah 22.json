@@ -1,0 +1,713 @@
+{
+  "creator": "@krniwnstria",
+  "number": 22,
+  "name": "Al-Hajj",
+  "type": "Madaniyyah",
+  "translation_id": "Dan berjihadlah kamu di jalan Allah dengan jihad yang sebenar-benarnya. Dia telah memilih kamu, dan Dia tidak menjadikan kesukaran untukmu dalam agama. (Ikutilah) agama nenek moyangmu Ibrahim. Dia (Allah) telah menamakan kamu orang-orang muslim sejak dahulu, dan (begitu pula) dalam (Al-Qur'an) ini, agar Rasul (Muhammad) itu menjadi saksi atas dirimu dan agar kamu semua menjadi saksi atas segenap manusia. Maka laksanakanlah salat; tunaikanlah zakat, dan berpegangteguhlah kepada Allah. Dialah Pelindungmu; Dia sebaik-baik pelindung dan sebaik-baik penolong.",
+  "translation_en": "And strive for Allah with the striving due to Him. He has chosen you and has not placed upon you in the religion any difficulty. [It is] the religion of your father, Abraham. Allah named you \"Muslims\" before [in former scriptures] and in this [revelation] that the Messenger may be a witness over you and you may be witnesses over the people. So establish prayer and give zakah and hold fast to Allah. He is your protector; and excellent is the protector, and excellent is the helper.",
+  "jumlah_ayat": 78,
+  "ayat": [
+    {
+      "no": 1,
+      "arab": "يَا أَيُّهَا النَّاسُ اتَّقُوا رَبَّكُمْ ۚ إِنَّ زَلْزَلَةَ السَّاعَةِ شَيْءٌ عَظِيمٌ",
+      "latin": "Yaaa ayyuhan naasuttaqoo Rabbakum; inna zalzalatas Saa'ati shai'un 'azeem",
+      "id": "Wahai manusia! Bertakwalah kepada Tuhanmu; sungguh, guncangan (hari) Kiamat itu adalah suatu (kejadian) yang sangat besar.",
+      "en": "O mankind, fear your Lord. Indeed, the convulsion of the [final] Hour is a terrible thing.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2596",
+      "tafsir": "Ayat ini mengimbau agar manusia mawas diri serta menjaga diri-nya dari azab Allah pada hari Kiamat dengan beriman dan bertakwa. Wahai manusia! Saatnya kamu menyimak pesan Allah, Bertakwalah kepada Tuhanmu dengan beriman dan melaksanakan perintah-Nya serta menjauhi larangan-Nya; sungguh, meskipun kamu belum mengalami, guncangan hari Kiamat itu adalah suatu kejadian yang sangat besar, menyebabkan manusia takut, panik dan tak tahu harus berbuat apa."
+    },
+    {
+      "no": 2,
+      "arab": "يَوْمَ تَرَوْنَهَا تَذْهَلُ كُلُّ مُرْضِعَةٍ عَمَّا أَرْضَعَتْ وَتَضَعُ كُلُّ ذَاتِ حَمْلٍ حَمْلَهَا وَتَرَى النَّاسَ سُكَارَىٰ وَمَا هُم بِسُكَارَىٰ وَلَٰكِنَّ عَذَابَ اللَّهِ شَدِيدٌ",
+      "latin": "Yawma tarawnahaa tazhalu kullu murdi'atin 'ammaaa arda'at wa tada'u kullu zaati hamlin hamlahaa wa tarannaasa sukaaraa wa maa hum bisukaaraa wa lakinaa 'azaabal laahi shadeed",
+      "id": "(Ingatlah) pada hari ketika kamu melihatnya (goncangan itu), semua perempuan yang menyusui anaknya akan lalai terhadap anak yang disusuinya, dan setiap perempuan yang hamil akan keguguran kandungannya, dan kamu melihat manusia dalam keadaan mabuk, padahal sebenarnya mereka tidak mabuk, tetapi azab Allah itu sangat keras.",
+      "en": "On the Day you see it every nursing mother will be distracted from that [child] she was nursing, and every pregnant woman will abort her pregnancy, and you will see the people [appearing] intoxicated while they are not intoxicated; but the punishment of Allah is severe.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2597",
+      "tafsir": "Ingatlah wahai manusia, pada hari ketika kamu melihatnya, goncangan dahsyat pada hari Kiamat itu, semua perempuan yang menyusui anaknya akan lalai terhadap anak yang disusuinya, karena terkejut dan panik; dan setiap perempuan yang hamil akan keguguran kandungannya, karena goncangan dahsyat itu; dan kamu melihat manusia dalam keadaan mabuk, seperti orang yang tidak sadar, padahal sebenarnya mereka tidak mabuk tetapi azab Allah yang terjadi pada hari Kiamat itu sangat keras dirasakan oleh orang-orang kafir."
+    },
+    {
+      "no": 3,
+      "arab": "وَمِنَ النَّاسِ مَن يُجَادِلُ فِي اللَّهِ بِغَيْرِ عِلْمٍ وَيَتَّبِعُ كُلَّ شَيْطَانٍ مَّرِيدٍ",
+      "latin": "Wa minan naasi mai yujaadilu fil laahi bighairi 'ilminw wa yattabi'u kullaa shaitaanim mareed",
+      "id": "Dan di antara manusia ada yang berbantahan tentang Allah tanpa ilmu dan hanya mengikuti para setan yang sangat jahat.",
+      "en": "And of the people is he who disputes about Allah without knowledge and follows every rebellious devil.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2598",
+      "tafsir": "Meskipun Allah telah menjelaskan azab yang sangat keras pada hari Kiamat bagi orang kafir dan mengajak manusia untuk bertakwa kepada-Nya, tetapi di antara manusia, yang kafir dan keras kepala, ada yang saling membantah tentang Allah, mengingkari agama Allah, tidak meyakini kehidupan sesudah mati, dan tidak meyakini adanya surga dan neraka, tanpa dilandasi ilmu yang benar; dan mereka mengingkari Allah itu hanya mengikuti bisikan para setan yang sangat jahat membujuk dan menipu manusia."
+    },
+    {
+      "no": 4,
+      "arab": "كُتِبَ عَلَيْهِ أَنَّهُ مَن تَوَلَّاهُ فَأَنَّهُ يُضِلُّهُ وَيَهْدِيهِ إِلَىٰ عَذَابِ السَّعِيرِ",
+      "latin": "Kutiba 'alaihi annahoo man tawallaahu fa annahoo yudil lauhoo wa yahdeehi ilaa 'azaabis sa'eer",
+      "id": "(Tentang setan), telah ditetapkan bahwa siapa yang berkawan dengan dia, maka dia akan menyesatkannya, dan membawanya ke azab neraka.",
+      "en": "It has been decreed for every devil that whoever turns to him - he will misguide him and will lead him to the punishment of the Blaze.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2599",
+      "tafsir": "Allah mengingatkan manusia tentang setan, Telah ditetapkan di Lauh Mahfuz, bahwa siapa yang berkawan dengannya dengan mengikuti bisikannya, maka dia akan menyesatkannya, dari jalan Allah yang lurus, dan membawanya dengan tidak sadar ke dalam azab neraka yang apinya senantiasa menyala."
+    },
+    {
+      "no": 5,
+      "arab": "يَا أَيُّهَا النَّاسُ إِن كُنتُمْ فِي رَيْبٍ مِّنَ الْبَعْثِ فَإِنَّا خَلَقْنَاكُم مِّن تُرَابٍ ثُمَّ مِن نُّطْفَةٍ ثُمَّ مِنْ عَلَقَةٍ ثُمَّ مِن مُّضْغَةٍ مُّخَلَّقَةٍ وَغَيْرِ مُخَلَّقَةٍ لِّنُبَيِّنَ لَكُمْ ۚ وَنُقِرُّ فِي الْأَرْحَامِ مَا نَشَاءُ إِلَىٰ أَجَلٍ مُّسَمًّى ثُمَّ نُخْرِجُكُمْ طِفْلًا ثُمَّ لِتَبْلُغُوا أَشُدَّكُمْ ۖ وَمِنكُم مَّن يُتَوَفَّىٰ وَمِنكُم مَّن يُرَدُّ إِلَىٰ أَرْذَلِ الْعُمُرِ لِكَيْلَا يَعْلَمَ مِن بَعْدِ عِلْمٍ شَيْئًا ۚ وَتَرَى الْأَرْضَ هَامِدَةً فَإِذَا أَنزَلْنَا عَلَيْهَا الْمَاءَ اهْتَزَّتْ وَرَبَتْ وَأَنبَتَتْ مِن كُلِّ زَوْجٍ بَهِيجٍ",
+      "latin": "Yaaa ayyuhan naasu in kuntum fee raibim minal ba'si fa innaa khalaqnaakum min turaabin summa min nutfatin summaa min 'alaqatin summa mim mud ghatim mukhal laqatinw wa ghairi mukhalla qatil linubaiyina lakum; wa nuqirru fil arhaami maa nashaaa'u ilaaa ajalim musam man summa nukhrijukum tiflan summa litablughooo ashud dakum wa minkum mai yutawaffa wa minkum mai yuraddu ilaaa arzalil 'umuri likailaa ya'lama mim ba'di 'ilmin shai'aa; wa taral arda haamidatan fa izaaa anzalnaa 'alaihal maaa'ah tazzat wa rabat wa ambatat min kulli zawjim baheej",
+      "id": "Wahai manusia! Jika kamu meragukan (hari) kebangkitan, maka sesungguhnya Kami telah menjadikan kamu dari tanah, kemudian dari setetes mani, kemudian dari segumpal darah, kemudian dari segumpal daging yang sempurna kejadiannya dan yang tidak sempurna, agar Kami jelaskan kepada kamu; dan Kami tetapkan dalam rahim menurut kehendak Kami sampai waktu yang sudah ditentukan, kemudian Kami keluarkan kamu sebagai bayi, kemudian (dengan berangsur-angsur) kamu sampai kepada usia dewasa, dan di antara kamu ada yang diwafatkan dan (ada pula) di antara kamu yang dikembalikan sampai usia sangat tua (pikun), sehingga dia tidak mengetahui lagi sesuatu yang telah diketahuinya. Dan kamu lihat bumi ini kering, kemudian apabila telah Kami turunkan air (hujan) di atasnya, hiduplah bumi itu dan menjadi subur dan menumbuhkan berbagai jenis pasangan (tetumbuhan) yang indah.",
+      "en": "O People, if you should be in doubt about the Resurrection, then [consider that] indeed, We created you from dust, then from a sperm-drop, then from a clinging clot, and then from a lump of flesh, formed and unformed - that We may show you. And We settle in the wombs whom We will for a specified term, then We bring you out as a child, and then [We develop you] that you may reach your [time of] maturity. And among you is he who is taken in [early] death, and among you is he who is returned to the most decrepit [old] age so that he knows, after [once having] knowledge, nothing. And you see the earth barren, but when We send down upon it rain, it quivers and swells and grows [something] of every beautiful kind.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2600",
+      "tafsir": "Wahai manusia! Hidup sesudah mati itu suatu keniscayaan. Jika kamu meragukan hari kebangkitan dari alam kubur, maka perhatikanlah perkembangan hidup kamu. Sesungguhnya Kami telah menjadikan kamu dari tanah, yakni saripati makanan yang berasal dari tanah. Kemudian dari setetes mani, yang sudah bercampur dengan sel telur. Kemudian dari segumpal darah, yang berkembang menjadi segumpal daging dalam beberapa minggu. Kemudian dari segumpal daging itu ada yang sempurna kejadian dan pertumbuhan-nya, tanpa cacat apa pun, dan ada yang tidak sempurna, karena ada cacat fisik maupun mental sejak dari kandungan, agar Kami jelaskan kepada kamu bahwa kamu berada dalam kekuasaan Kami. Dan Kami tetapkan kamu sewaktu embrio dalam rahim ibumu menurut kehendak Kami hingga tiap orang berbeda rentang waktu berada dalam kandungan ibunya sampai waktu yang sudah ditentukan, biasanya setelah 36 minggu. Kemudian Kami keluarkan kamu dari rahim ibu kamu sebagai bayi, kemudian dengan berangsur-angsur kamu tumbuh-kembang sampai kepada usia dewasa. Dan di antara kamu ada yang diwafatkan dalam usia muda, bahkan masih bayi; dan ada pula yang diberi umur panjang, serta dikembalikan kepada usia pikun karena sangat tua, sehingga dia tidak mengetahui lagi sesuatu yang telah diketahuinya karena penyakit ketuaannya. Dan ada contoh lain bagimu betapa mudah bagi Allah membangkitkan manusia dari alam kubur, kamu lihat bumi ini kering, karena kekurangan air di musim kemarau, kemudian apabila telah Kami turunkan air hujan di atasnya, maka hiduplah bumi yang kering kerontang itu dan menjadi subur dan bumi yang subur itu menumbuhkan berbagai jenis pasangan tetumbuhan yang indah. Demikianlah paparan empiris tentang argumentasi betapa mudah bagi Allah membangkitkan manusia dari alam kubur menuju mahsyar."
+    },
+    {
+      "no": 6,
+      "arab": "ذَٰلِكَ بِأَنَّ اللَّهَ هُوَ الْحَقُّ وَأَنَّهُ يُحْيِي الْمَوْتَىٰ وَأَنَّهُ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
+      "latin": "Zaalika bi annal laaha Huwal haqqu wa annahoo yuhyil mawtaa wa annahoo 'alaakulli shai'in Qadeer",
+      "id": "Yang demikian itu karena sungguh, Allah, Dialah yang hak dan sungguh, Dialah yang menghidupkan segala yang telah mati, dan sungguh, Dia Mahakuasa atas segala sesuatu.",
+      "en": "That is because Allah is the Truth and because He gives life to the dead and because He is over all things competent",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2601",
+      "tafsir": "Adapun yang demikian itu, membangkitkan manusia dari alam kubur, sangat mudah bagi Allah, karena sungguh Allah, Dialah yang hak, satu-satunya Tuhan yang berhak disembah, dan sungguh, Dialah Tuhan yang kekuasaan-Nya terasa dalam kehidupan ini, yaitu menghidupkan segala yang telah mati, dan sungguh, Dia, Tuhan, Yang Mahakuasa atas segala sesuatu, sehingga tak ada satu pun makhluk yang sanggup melawan kekuasaan-Nya."
+    },
+    {
+      "no": 7,
+      "arab": "وَأَنَّ السَّاعَةَ آتِيَةٌ لَّا رَيْبَ فِيهَا وَأَنَّ اللَّهَ يَبْعَثُ مَن فِي الْقُبُورِ",
+      "latin": "Wa annas Saa'ata aatiya tul laa raiba feeha wa annal laaha yab'asuman fil quboor",
+      "id": "Dan sungguh, (hari) Kiamat itu pasti datang, tidak ada keraguan padanya; dan sungguh, Allah akan membangkitkan siapa pun yang di dalam kubur.",
+      "en": "And [that they may know] that the Hour is coming - no doubt about it - and that Allah will resurrect those in the graves.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2602",
+      "tafsir": "Dan ketahuilah, wahai manusia, sesungguhnya hari Kiamat itu pasti datang, meskipun Allah merahasiakan waktunya. Oleh karena itu, tidak ada keraguan padanya, karena Kiamat itu ketetapan Allah; dan sungguh, pada hari Kiamat itu Allah akan membangkitkan semua yang berada di dalam kubur untuk dikumpulkan di Mahsyar."
+    },
+    {
+      "no": 8,
+      "arab": "وَمِنَ النَّاسِ مَن يُجَادِلُ فِي اللَّهِ بِغَيْرِ عِلْمٍ وَلَا هُدًى وَلَا كِتَابٍ مُّنِيرٍ",
+      "latin": "Wa minan naasi mai yujaadilu fil laahi bighairi 'ilminw wa laa hudanw wa laa Kitaabim Muneer",
+      "id": "Dan di antara manusia ada yang berbantahan tentang Allah tanpa ilmu, tanpa petunjuk dan tanpa kitab (wahyu) yang memberi penerangan.",
+      "en": "And of the people is he who disputes about Allah without knowledge or guidance or an enlightening book [from Him],",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2603",
+      "tafsir": "Manusia ada yang bertindak melampaui batas. Allah menegaskan, bahwa di antara manusia ada yang berbantah tentang Allah, mengingkari agama-Nya, tidak meyakini kehidupan sesudah mati, dan tidak meyakini adanya akhirat tanpa ilmu yang benar dan meyakinkan, juga tanpa petunjuk dari Allah, dan tanpa sumber dari kitab wahyu yang disampaikan kepada para rasul yang memberi penerangan dari kegelapan."
+    },
+    {
+      "no": 9,
+      "arab": "ثَانِيَ عِطْفِهِ لِيُضِلَّ عَن سَبِيلِ اللَّهِ ۖ لَهُ فِي الدُّنْيَا خِزْيٌ ۖ وَنُذِيقُهُ يَوْمَ الْقِيَامَةِ عَذَابَ الْحَرِيقِ",
+      "latin": "Saaniya 'itfihee liyudilla 'an sabeelil laahi lahoo fiddun yaa khizyunw wa nuzeequhoo Yawmal Qiyaamati 'azaabal lhareeq",
+      "id": "Sambil memalingkan lambungnya (dengan congkak) untuk menyesatkan manusia dari jalan Allah. Dia mendapat kehinaan di dunia, dan pada hari Kiamat Kami berikan kepadanya rasa azab neraka yang membakar.",
+      "en": "Twisting his neck [in arrogance] to mislead [people] from the way of Allah. For him in the world is disgrace, and We will make him taste on the Day of Resurrection the punishment of the Burning Fire [while it is said],",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2604",
+      "tafsir": "Manusia yang mengingkari Allah dengan hatinya yang gelap, sambil memalingkan lambungnya dengan congkak berusaha dengan segala cara untuk menyesatkan manusia dari jalan Allah. Dia sebenarnya mendapat kehinaan di dunia karena hidup tanpa kecerdasan emosi dan kecerdasan spiritual hingga hidupnya dibiarkan tanpa bimbingan Allah; dan pada hari Kiamat sebagai balasan atas kekufurannya, Kami berikan kepadanya rasa azab neraka yang membakar hingga kulitnya hangus, kemudian kulitnya diperbarui supaya terus bisa merasakan azab yang membakar."
+    },
+    {
+      "no": 10,
+      "arab": "ذَٰلِكَ بِمَا قَدَّمَتْ يَدَاكَ وَأَنَّ اللَّهَ لَيْسَ بِظَلَّامٍ لِّلْعَبِيدِ",
+      "latin": "Zaalika bimaa qaddamat yadaaka wa annal laaha laisa bizallaamil lil'abeed",
+      "id": "(Akan dikatakan kepadanya), “Itu karena perbuatan yang dilakukan dahulu oleh kedua tanganmu, dan Allah sekali-kali tidak menzalimi hamba-hamba-Nya.",
+      "en": "\"That is for what your hands have put forth and because Allah is not ever unjust to [His] servants.\"",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2605",
+      "tafsir": "Pada hari Kiamat akan dikatakan kepada orang kafir, “Hukuman itu diberikan kepada kamu, karena perbuatan yang dilakukan dahulu oleh kedua tanganmu, menolak agama Allah dan berusaha menyesatkan manusia dari jalan Allah, dan Allah sekali-kali tidak menzalimi hamba-hamba-Nya dengan menghukum mereka yang tidak bersalah."
+    },
+    {
+      "no": 11,
+      "arab": "وَمِنَ النَّاسِ مَن يَعْبُدُ اللَّهَ عَلَىٰ حَرْفٍ ۖ فَإِنْ أَصَابَهُ خَيْرٌ اطْمَأَنَّ بِهِ ۖ وَإِنْ أَصَابَتْهُ فِتْنَةٌ انقَلَبَ عَلَىٰ وَجْهِهِ خَسِرَ الدُّنْيَا وَالْآخِرَةَ ۚ ذَٰلِكَ هُوَ الْخُسْرَانُ الْمُبِينُ",
+      "latin": "Wa minan naasi mai ya'budul laaha 'alaa harfin fa in asaabahoo khairunit maanna bihee wa in asaabat hu fitnatunin qalaba 'alaa wajhihee khasirad dunyaa wal aakhirah; zaalika huwal khusraanul mubeen",
+      "id": "Dan di antara manusia ada yang menyembah Allah hanya di tepi; maka jika dia memperoleh kebajikan, dia merasa puas, dan jika dia ditimpa suatu cobaan, dia berbalik ke belakang. Dia rugi di dunia dan di akhirat. Itulah kerugian yang nyata.",
+      "en": "And of the people is he who worships Allah on an edge. If he is touched by good, he is reassured by it; but if he is struck by trial, he turns on his face [to the other direction]. He has lost [this] world and the Hereafter. That is what is the manifest loss.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2606",
+      "tafsir": "Di antara umat Islam, ada yang beragama secara total, tetapi ada pula yang beragama di pinggirannya saja. Dan di antara manusia ada yang menyembah Allah hanya di tepi, karena rasa beragamanya tidak meresap ke dalam hati dan tidak mengakar ke dalam jiwa. Maka jika dia memperoleh kebajikan duniawi karena keislamannya, dia merasa puas, dan sebaliknya jika dia ditimpa suatu cobaan, baik dirinya maupun keluarganya, dia segera berbalik ke belakang, kembali kepada agama lama. Dia menjadi orang murtad, sehingga mendapat ke-rugi-an di dunia, karena dinilai tidak punya pendirian dan kerugian di akhirat, karena kekal di dalam neraka. Kerugian di akhirat itulah kerugian yang nyata."
+    },
+    {
+      "no": 12,
+      "arab": "يَدْعُو مِن دُونِ اللَّهِ مَا لَا يَضُرُّهُ وَمَا لَا يَنفَعُهُ ۚ ذَٰلِكَ هُوَ الضَّلَالُ الْبَعِيدُ",
+      "latin": "Yad'oo min doonil laahi maa laa yadurruhoo wa maa laa yanfa'uh' zaalika huwad dalaalul ba'ed",
+      "id": "Dia menyeru kepada selain Allah sesuatu yang tidak dapat mendatangkan bencana dan tidak (pula) memberi manfaat kepadanya. Itulah kesesatan yang jauh.",
+      "en": "He invokes instead of Allah that which neither harms him nor benefits him. That is what is the extreme error.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2607",
+      "tafsir": "Dia, orang-orang yang murtad kembali menyeru kepada selain Allah, baik benda, manusia, roh leluhur, jin maupun setan, yang semuanya merupakan sesuatu yang tidak dapat mendatangkan bencana, baik bagi dirinya maupun lingkungan sosialnya, dan tidak pula semua yang disembah itu memberi manfaat kepadanya. Mengambil kekufuran dan melepaskan iman dengan murtad itulah kesesatan yang jauh dari kebenaran."
+    },
+    {
+      "no": 13,
+      "arab": "يَدْعُو لَمَن ضَرُّهُ أَقْرَبُ مِن نَّفْعِهِ ۚ لَبِئْسَ الْمَوْلَىٰ وَلَبِئْسَ الْعَشِيرُ",
+      "latin": "Yad'oo laman darruhooo aqrabu min naf'ih; labi'salmawlaa wa labi'sal 'asheer",
+      "id": "Dia menyeru kepada sesuatu yang (sebenarnya) bencananya lebih dekat daripada manfaatnya. Sungguh, itu seburuk-buruk penolong dan sejahat-jahat kawan.",
+      "en": "He invokes one whose harm is closer than his benefit - how wretched the protector and how wretched the associate.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2608",
+      "tafsir": "Dia, orang kafir dan orang murtad itu, menyeru dalam ritual dan doanya kepada suatu sembahan yang sebenarnya bencananya dalam persembahan itu, lebih dekat daripada manfaatnya. Sungguh, jika mereka menyadari bahwa sembahan selain Allah itu adalah seburuk-buruk penolong karena menolong kepada kebinasaan, dan sejahat-jahat kawan karena berkawan dengan yang mencelakakan."
+    },
+    {
+      "no": 14,
+      "arab": "إِنَّ اللَّهَ يُدْخِلُ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ ۚ إِنَّ اللَّهَ يَفْعَلُ مَا يُرِيدُ",
+      "latin": "Innal laaha yudkhilul laeena aamanoo wa 'amilus saalihaati jannaatin tajree min tahtihal anhaar; innal laaha yaf'alu maa yureed",
+      "id": "(Sungguh,) Allah akan memasukkan orang-orang yang beriman dan mengerjakan kebajikan ke dalam surga-surga yang mengalir di bawahnya sungai-sungai. Sungguh, Allah berbuat apa yang Dia kehendaki.",
+      "en": "Indeed, Allah will admit those who believe and do righteous deeds to gardens beneath which rivers flow. Indeed, Allah does what He intends.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2609",
+      "tafsir": "Berbeda dengan perlakuan Allah terhadap orang kafir dan murtad di atas, sungguh, Allah akan memasukkan orang-orang yang beriman yang menjaga imannya hingga akhir hayat dan mengerjakan kebajikan dengan ikhlas ke dalam surga-surga yang mengalir di bawahnya sungai-sungai sebagai kenikmatan yang tiada terhingga. Sungguh, Allah berbuat apa yang Dia kehendaki kepada hamba-hamba-Nya dengan adil."
+    },
+    {
+      "no": 15,
+      "arab": "مَن كَانَ يَظُنُّ أَن لَّن يَنصُرَهُ اللَّهُ فِي الدُّنْيَا وَالْآخِرَةِ فَلْيَمْدُدْ بِسَبَبٍ إِلَى السَّمَاءِ ثُمَّ لْيَقْطَعْ فَلْيَنظُرْ هَلْ يُذْهِبَنَّ كَيْدُهُ مَا يَغِيظُ",
+      "latin": "Man kaana yazunnu allai yansurahul laahu fid dunyaa wal aakhirati fal yamdud bisababin ilas samaaa'i summal yaqta' falyanzur hal yuzhibanna kaiduhoo maa yagheez",
+      "id": "Barangsiapa menyangka bahwa Allah tidak akan menolongnya (Muhammad) di dunia dan di akhirat, maka hendaklah dia merentangkan tali ke langit-langit, ) lalu menggantung (diri), kemudian pikirkanlah apakah tipu dayanya itu dapat melenyapkan apa yang menyakitkan hatinya.",
+      "en": "Whoever should think that Allah will not support [Prophet Muhammad] in this world and the Hereafter - let him extend a rope to the ceiling, then cut off [his breath], and let him see: will his effort remove that which enrages [him]?",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2610",
+      "tafsir": "Pada ayat di atas Allah menerangkan sikap orang murtad dan hu-kuman atas mereka, serta balasan bagi orang beriman. Pada ayat ini Allah mempersilakan orang kafir yang tidak menyukai perkembangan Islam untuk menghentikan pertolongan-Nya. Barang siapa menyangka atau berpendapat bahwa Allah tidak akan menolongnya, Muhammad, di dunia dengan memperoleh kebebasan dari tekanan mereka di Mekah serta menemukan tempat yang tepat untuk menyebarkan Islam di Madinah, dan mendapat balasan kebaikan di akhirat, maka hendaklah dia merentangkan tali ke langit, lalu menggantung dirinya di langit, kemudian dari ketinggian itu berusahalah menghentikan pertolongan Allah kepada Rasul-Nya. Kemudian, lalu pikirkanlah apakah langkah tersebut dapat melenyapkan apa yang menyakitkan hatinya, pesatnya perkembangan Islam atas pertolongan Allah kepada kaum muslim."
+    },
+    {
+      "no": 16,
+      "arab": "وَكَذَٰلِكَ أَنزَلْنَاهُ آيَاتٍ بَيِّنَاتٍ وَأَنَّ اللَّهَ يَهْدِي مَن يُرِيدُ",
+      "latin": "Wa kazaalika anzalnaahu aayaatim baiyinaatinw wa annal laaha yahdee mai yureed",
+      "id": "Dan demikianlah Kami telah menurunkannya (Al-Qur'an) yang merupakan ayat-ayat yang nyata; sesungguhnya Allah memberikan petunjuk kepada siapa yang Dia kehendaki.",
+      "en": "And thus have We sent the Qur'an down as verses of clear evidence and because Allah guides whom He intends.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2611",
+      "tafsir": "Dan demikianlah Kami telah menurunkannya, Al-Qur’an, kepada Nabi Muhammad, meskipun orang-orang kafir tidak menyukainya, sebab Al-Qur’an itu yang merupakan ayat-ayat yang nyata, mudah dipahami, masuk akal, dan menyentuh hati bagi orang yang akal dan hatinya terbuka. Sesungguhnya Allah memberikan petunjuk dengan memudahkan memahami Al-Qur’an kepada siapa saja di antara umat manusia yang Dia kehendaki."
+    },
+    {
+      "no": 17,
+      "arab": "إِنَّ الَّذِينَ آمَنُوا وَالَّذِينَ هَادُوا وَالصَّابِئِينَ وَالنَّصَارَىٰ وَالْمَجُوسَ وَالَّذِينَ أَشْرَكُوا إِنَّ اللَّهَ يَفْصِلُ بَيْنَهُمْ يَوْمَ الْقِيَامَةِ ۚ إِنَّ اللَّهَ عَلَىٰ كُلِّ شَيْءٍ شَهِيدٌ",
+      "latin": "Innal lazeena aamanoo wallazeena haadoo was saabi'eena wan nasaaraa wal Majoosa wallazeena ashrakooo innal laaha yafsilu bainahum yawmal qiyaamah; innal laaha 'alaa kulli shai'in shaheed",
+      "id": "Sesungguhnya orang-orang beriman, orang Yahudi, orang Sabiin, orang Nasrani, orang Majusi dan orang musyrik, Allah pasti memberi keputusan di antara mereka pada hari Kiamat. Sungguh, Allah menjadi saksi atas segala sesuatu.",
+      "en": "Indeed, those who have believed and those who were Jews and the Sabeans and the Christians and the Magians and those who associated with Allah - Allah will judge between them on the Day of Resurrection. Indeed Allah is, over all things, Witness.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2612",
+      "tafsir": "Dalam kehidupan dunia perbedaan agama dan keyakinan itu kadang-kadang tidak terlihat pengaruhnya terhadap keberhasilan dan kegagalan hidup, tetapi berbeda dengan di akhirat. Sesungguhnya orang-orang beriman, orang Yahudi, orang Sabiin, orang Nasrani, orang Majusi dan orang musyrik, nasib mereka di akhirat berbeda. Allah pasti memberi keputusan di antara mereka pada hari Kiamat, orang beriman mendapat rida Allah dan masuk surga, sedangkan orang-orang yang tidak ber-iman mendapat murka Allah dan masuk neraka. Sungguh, Allah menjadi saksi atas segala sesuatu yang terjadi pada diri mereka selama hidup di dunia."
+    },
+    {
+      "no": 18,
+      "arab": "أَلَمْ تَرَ أَنَّ اللَّهَ يَسْجُدُ لَهُ مَن فِي السَّمَاوَاتِ وَمَن فِي الْأَرْضِ وَالشَّمْسُ وَالْقَمَرُ وَالنُّجُومُ وَالْجِبَالُ وَالشَّجَرُ وَالدَّوَابُّ وَكَثِيرٌ مِّنَ النَّاسِ ۖ وَكَثِيرٌ حَقَّ عَلَيْهِ الْعَذَابُ ۗ وَمَن يُهِنِ اللَّهُ فَمَا لَهُ مِن مُّكْرِمٍ ۚ إِنَّ اللَّهَ يَفْعَلُ مَا يَشَاءُ ۩",
+      "latin": "Alam tara annal laaha yasjudu lahoo man fis samaawaati wa man fil ardi wash shamsu walqamaru wan nu joomu wal jibaalu wash shajaru wad dawaaabbu wa kaseerum minan naasi wa kaseerun haqqa 'alaihil 'azaab; wa mai yuhinil laahu famaa lahoo mim mukrim; innallaaha yaf'alu maa yashaaa",
+      "id": "Tidakkah engkau tahu bahwa siapa yang ada di langit dan siapa yang ada di bumi bersujud kepada Allah, juga matahari, bulan, bintang, gunung-gunung, pohon-pohon, hewan-hewan yang melata dan banyak di antara manusia? Tetapi banyak (manusia) yang pantas mendapatkan azab. Barangsiapa dihinakan Allah, tidak seorang pun yang akan memuliakannya. Sungguh, Allah berbuat apa saja yang Dia kehendaki.",
+      "en": "Do you not see that to Allah prostrates whoever is in the heavens and whoever is on the earth and the sun, the moon, the stars, the mountains, the trees, the moving creatures and many of the people? But upon many the punishment has been justified. And he whom Allah humiliates - for him there is no bestower of honor. Indeed, Allah does what He wills.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2613",
+      "tafsir": "Apakah kamu tidak memperhatikan semua yang ada di langit dan semua yang ada di bumi bersujud kepada Allah, tunduk dan patuh kepada hukum alam ciptaan-Nya, seperti matahari, bulan, dan bintang yang setia beredar pada porosnya. Dan juga gunung-gunung, pepohonan, dan hewan-hewan melata, semuanya menjalani kehidupan secara alamiah mematuhi hukum alam yang berlaku. Dan demikian juga, banyak di antara manusia yang mematuhi hukum Allah karena kesadarannya, tetapi lebih banyak lagi manusia yang pantas mendapatkan azab Allah di dunia maupun akhirat, karena sikapnya yang menolak agama Allah. Barang siapa dihinakan Allah, karena sikap mereka yang lebih hina dari binatang, maka terhadap manusia yang bersikap demikian, tidak seorang pun yang akan memuliakannya selain Allah. Sungguh, Allah berbuat apa saja yang Dia kehendaki, memuliakan yang layak dimuliakan atau menghinakan yang menutup diri dari petunjuk Allah."
+    },
+    {
+      "no": 19,
+      "arab": "۞ هَٰذَانِ خَصْمَانِ اخْتَصَمُوا فِي رَبِّهِمْ ۖ فَالَّذِينَ كَفَرُوا قُطِّعَتْ لَهُمْ ثِيَابٌ مِّن نَّارٍ يُصَبُّ مِن فَوْقِ رُءُوسِهِمُ الْحَمِيمُ",
+      "latin": "Haazaani khasmaanikh tasamoo fee Rabbihim fal lazeena kafaroo qutti'at lahum siyaabum min naar; yusabbu min fawqi ru'oosihimul hameem",
+      "id": "Inilah dua golongan (golongan mukmin dan kafir) yang bertengkar, mereka bertengkar mengenai Tuhan mereka. Maka bagi orang kafir akan dibuatkan pakaian-pakaian dari api (neraka) untuk mereka. Ke atas kepala mereka akan disiramkan air yang mendidih.",
+      "en": "These are two adversaries who have disputed over their Lord. But those who disbelieved will have cut out for them garments of fire. Poured upon their heads will be scalding water",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2614",
+      "tafsir": "Pada ayat 17 Surah al-Èajj disebutkan enam golongan manusia, orang beriman, Yahudi, Nasrani, Sabiin, Majusi, dan orang-orang musyrik. Mereka sebenarnya terbagi dua. Inilah dua golongan, mukmin dan kafir, yang bertengkar tentang keyakinan. Mereka bertengkar mengenai Tuhan mereka. Maka bagi orang kafir yang menolak prinsip tauhid dari lima golongan di atas, akan dibuatkan untuk mereka di akhirat pakaian-pakaian dari api neraka yang membalut tubuh mereka. Selain itu, ke atas kepala mereka di dalam neraka itu akan disiramkan air yang mendidih hingga tubuh mereka terkelupas."
+    },
+    {
+      "no": 20,
+      "arab": "يُصْهَرُ بِهِ مَا فِي بُطُونِهِمْ وَالْجُلُودُ",
+      "latin": "Yusharu bihee maa fee butoonihim waljulood",
+      "id": "Dengan (air mendidih) itu akan dihancurluluhkan apa yang ada dalam perut dan kulit mereka.",
+      "en": "By which is melted that within their bellies and [their] skins.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2615",
+      "tafsir": "Dengan air mendidih yang disiramkan ke atas kepala orang-orang kafir itu akan dihancurluluhkan apa yang ada dalam perut dan kulit mereka; kemudian setiap kulit mereka hancur, maka Allah memperbaruinya agar mereka terus merasakan azab Allah. Dan juga azab untuk mereka adalah cambuk-cambuk dari besi untuk memukuli mereka hingga hancur luluh."
+    },
+    {
+      "no": 21,
+      "arab": "وَلَهُم مَّقَامِعُ مِنْ حَدِيدٍ",
+      "latin": "Wa lahum maqaami'u min hadeed",
+      "id": "Dan (azab) untuk mereka cambuk-cambuk dari besi.",
+      "en": "And for [striking] them are maces of iron.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2616",
+      "tafsir": "Dengan air mendidih yang disiramkan ke atas kepala orang-orang kafir itu akan dihancurluluhkan apa yang ada dalam perut dan kulit mereka; kemudian setiap kulit mereka hancur, maka Allah memperbaruinya agar mereka terus merasakan azab Allah. Dan juga azab untuk mereka adalah cambuk-cambuk dari besi untuk memukuli mereka hingga hancur luluh."
+    },
+    {
+      "no": 22,
+      "arab": "كُلَّمَا أَرَادُوا أَن يَخْرُجُوا مِنْهَا مِنْ غَمٍّ أُعِيدُوا فِيهَا وَذُوقُوا عَذَابَ الْحَرِيقِ",
+      "latin": "Kullamaa araadooo any yakhrujoo minhaa min ghammin u'eedoo feeha wa zooqoo 'azaabal hareeq",
+      "id": "Setiap kali mereka hendak keluar darinya (neraka) karena tersiksa, mereka dikembalikan (lagi) ke dalamnya. (Kepada mereka dikatakan), “Rasakanlah azab yang membakar ini!”",
+      "en": "Every time they want to get out of Hellfire from anguish, they will be returned to it, and [it will be said], \"Taste the punishment of the Burning Fire!\"",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2617",
+      "tafsir": "Setiap kali mereka, para penghuni neraka, berusaha hendak keluar darinya, yakni neraka, karena tersiksa oleh api yang membalut tubuh, air yang mendidih, dan cambuk yang menghancurkan badan, mereka segera dikembalikan lagi ke dalamnya, karena tidak ada jalan untuk keluar dari neraka, apa lagi kembali ke dunia. Lalu kepada mereka akan dikatakan, “Rasakanlah azab yang membakar ini sebagai balasan atas kekufuran kamu di dunia!”"
+    },
+    {
+      "no": 23,
+      "arab": "إِنَّ اللَّهَ يُدْخِلُ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ يُحَلَّوْنَ فِيهَا مِنْ أَسَاوِرَ مِن ذَهَبٍ وَلُؤْلُؤًا ۖ وَلِبَاسُهُمْ فِيهَا حَرِيرٌ",
+      "latin": "Innal laaha yudkhilul lazeena aamanoo wa 'amilus saalihaati jannaatin tajree min tahtihal anhaaru yuhallawna feehaa min asaawira min zahabinw wa lu'lu'aa; wa libaasuhum feehaa hareer",
+      "id": "Sungguh, Allah akan memasukkan orang-orang yang beriman dan mengerjakan kebajikan ke dalam surga-surga yang mengalir di bawahnya sungai-sungai. Di sana mereka diberi perhiasan gelang-gelang emas dan mutiara, dan pakaian mereka dari sutera.",
+      "en": "Indeed, Allah will admit those who believe and do righteous deeds to gardens beneath which rivers flow. They will be adorned therein with bracelets of gold and pearl, and their garments therein will be silk.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2618",
+      "tafsir": "Berbeda dengan nasib orang-orang kafir di akhirat, sungguh, Allah akan memasukkan orang-orang yang beriman yang tidak murtad dan mengerjakan kebajikan yang bermanfaat bagi dirinya dan orang banyak ke dalam surga-surga yang mengalir di bawahnya sungai-sungai yang merupakan kenikmatan abadi. Di sana mereka diberi perhiasan gelang-gelang emas dan mutiara, dan pakaian mereka terbuat dari sutera, simbol kebahagiaan dan kenikmatan. Mereka juga mendapat keridaan Allah dan perjum-paan dengan-Nya merupakan kenikmatan tertinggi."
+    },
+    {
+      "no": 24,
+      "arab": "وَهُدُوا إِلَى الطَّيِّبِ مِنَ الْقَوْلِ وَهُدُوا إِلَىٰ صِرَاطِ الْحَمِيدِ",
+      "latin": "Wa hudooo ilat taiyibi minal qawli wa hudooo ilaaa siraatil hameed",
+      "id": "Dan mereka diberi petunjuk kepada ucapan-ucapan yang baik dan diberi petunjuk (pula) kepada jalan (Allah) yang terpuji.",
+      "en": "And they had been guided [in worldly life] to good speech, and they were guided to the path of the Praiseworthy.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2619",
+      "tafsir": "Dan mereka, para penghuni surga diberi petunjuk dan bimbingan kepada ucapan-ucapan yang baik dan santun, serta diberi petunjuk dan bimbingan pula kepada jalan Allah yang Maha Terpuji, berjumpa dan melihat-Nya, karena selama di dunia berakhlak mulia dan berhati bersih."
+    },
+    {
+      "no": 25,
+      "arab": "إِنَّ الَّذِينَ كَفَرُوا وَيَصُدُّونَ عَن سَبِيلِ اللَّهِ وَالْمَسْجِدِ الْحَرَامِ الَّذِي جَعَلْنَاهُ لِلنَّاسِ سَوَاءً الْعَاكِفُ فِيهِ وَالْبَادِ ۚ وَمَن يُرِدْ فِيهِ بِإِلْحَادٍ بِظُلْمٍ نُّذِقْهُ مِنْ عَذَابٍ أَلِيمٍ",
+      "latin": "Innal lazeena kafaroo wa yasuddoona 'an sabeelil laahi wal Masjidil Haraamil lazee ja'alnaahu linnaasi sawaaa'anil 'aakifu feehi walbaad; wa mai yurid feehi bi ilhaadim bizulmin nuziqhu min 'azaabin aleem",
+      "id": "Sungguh, orang-orang kafir dan yang menghalangi (manusia) dari jalan Allah dan dari Masjidilharam yang telah Kami jadikan terbuka untuk semua manusia, baik yang bermukim di sana maupun yang datang dari luar dan siapa saja yang bermaksud melakukan kejahatan secara zalim di dalamnya, niscaya akan Kami rasakan kepadanya siksa yang pedih.",
+      "en": "Indeed, those who have disbelieved and avert [people] from the way of Allah and [from] al-Masjid al-Haram, which We made for the people - equal are the resident therein and one from outside; and [also] whoever intends [a deed] therein of deviation [in religion] or wrongdoing - We will make him taste of a painful punishment.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2620",
+      "tafsir": "Sungguh, orang-orang kafir Mekah seperti Abu Sufyan bin Èarb dan kawan-kawannya yang menghalangi manusia dari jalan Allah untuk memeluk Islam dan menghalangi Rasulullah dan para sahabat melaksanakan ibadah umrah di Masjidilharam yang telah Kami jadikan terbuka untuk semua manusia yang beriman, baik yang bermukim di sana maupun yang datang dari luar daerah yang jauh; dan siapa saja yang berada di Masjidilharam yang bermaksud melakukan kejahatan seperti membunuh, mengintimidasi, menghalangi manusia masuk Islam, dan berbuat kerusuhan secara zalim di dalamnya, niscaya akan Kami rasakan kepadanya siksa yang pedih di akhirat berupa api yang terus membakar, air mendidih, dan cambuk yang menghancurluluhkan tubuh."
+    },
+    {
+      "no": 26,
+      "arab": "وَإِذْ بَوَّأْنَا لِإِبْرَاهِيمَ مَكَانَ الْبَيْتِ أَن لَّا تُشْرِكْ بِي شَيْئًا وَطَهِّرْ بَيْتِيَ لِلطَّائِفِينَ وَالْقَائِمِينَ وَالرُّكَّعِ السُّجُودِ",
+      "latin": "Wa iz bawwaanaa li Ibraaheema makaanal Baiti allaa tushrik bee shai'anw wa tahhir Baitiya litaaa'ifeena walqaaa' imeena warrukka 'is sujood",
+      "id": "Dan (ingatlah), ketika Kami tempatkan Ibrahim di tempat Baitullah (dengan mengatakan), “Janganlah engkau mempersekutukan Aku dengan apa pun dan sucikanlah rumah-Ku bagi orang-orang yang tawaf, dan orang yang beribadah dan orang yang rukuk dan sujud.",
+      "en": "And [mention, O Muhammad], when We designated for Abraham the site of the House, [saying], \"Do not associate anything with Me and purify My House for those who perform Tawaf and those who stand [in prayer] and those who bow and prostrate.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2621",
+      "tafsir": "Dan ingatlah, ketika Kami tempatkan Ibrahim yang lahir di Kaldea dan menetap di Palestina berada di tempat Baitullah, lalu bersama put-ranya, Ismail, meninggikan fondasi Kakbah. Kami menyatakan kepada Ibrahim, “Janganlah engkau mempersekutukan Aku dengan suatu apa pun, karena menyekutukan Allah itu kezaliman yang dahsyat. Dan sucikanlah rumah-Ku, Kakbah, dari berhala, kemusyrikan, dan perilaku tidak terpuji, serta peruntukkanlah Kakbah itu bagi orang-orang yang tawaf, orang-orang yang beribadah, dan orang yang rukuk dan sujud kepada Allah guna mendekatkan diri dan menyucikan jiwa."
+    },
+    {
+      "no": 27,
+      "arab": "وَأَذِّن فِي النَّاسِ بِالْحَجِّ يَأْتُوكَ رِجَالًا وَعَلَىٰ كُلِّ ضَامِرٍ يَأْتِينَ مِن كُلِّ فَجٍّ عَمِيقٍ",
+      "latin": "Wa azzin fin naasi bil Hajji yaatooka rijaalanw wa 'alaa kulli daamiriny yaateena min kulli fajjin 'ameeq",
+      "id": "Dan serulah manusia untuk mengerjakan haji, niscaya mereka akan datang kepadamu dengan berjalan kaki, atau mengendarai setiap unta yang kurus, mereka datang dari segenap penjuru yang jauh.",
+      "en": "And proclaim to the people the Hajj [pilgrimage]; they will come to you on foot and on every lean camel; they will come from every distant pass -",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2622",
+      "tafsir": "Dan serulah manusia, wahai Ibrahim, untuk mengerjakan haji mengunjungi Baitullah guna melaksanakan rangkaian manasik haji setelah engkau meninggikan fondasi Kakbah dan membebaskannya dari kemusyrikan, niscaya mereka akan datang kepada seruan-mu sesuai kemampuannya, dengan berjalan kaki bagi yang berjarak dekat, atau mengendarai setiap kuda atau unta yang kurus, karena jauhnya perjalanan menuju Kakbah hingga kehabisan bekal. Mereka datang untuk menunaikan ibadah haji dari segenap penjuru dunia, baik yang dekat maupun yang jauh."
+    },
+    {
+      "no": 28,
+      "arab": "لِّيَشْهَدُوا مَنَافِعَ لَهُمْ وَيَذْكُرُوا اسْمَ اللَّهِ فِي أَيَّامٍ مَّعْلُومَاتٍ عَلَىٰ مَا رَزَقَهُم مِّن بَهِيمَةِ الْأَنْعَامِ ۖ فَكُلُوا مِنْهَا وَأَطْعِمُوا الْبَائِسَ الْفَقِيرَ",
+      "latin": "Li yashhadoo manaafi'a lahum wa yazkurus mal laahi feee ayyaamimma'loomaatin 'alaa maa razaqahum mim baheematil an'aami fakuloo minhaa wa at'imul baaa'isal faqeer",
+      "id": "Agar mereka menyaksikan berbagai manfaat untuk mereka dan agar mere-ka menyebut nama Allah pada beberapa hari yang telah ditentukan atas rezeki yang diberikan Dia kepada mereka berupa hewan ternak. Maka makanlah sebagian darinya dan (sebagian lagi) berikanlah untuk dimakan orang-orang yang sengsara dan fakir.",
+      "en": "That they may witness benefits for themselves and mention the name of Allah on known days over what He has provided for them of [sacrificial] animals. So eat of them and feed the miserable and poor.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2623",
+      "tafsir": "Dengan memenuhi seruan Nabi Ibrahim, mengunjungi Baitullah guna menunaikan ibadah haji, kaum muslim mendapat keuntungan dunia akhirat, yakni agar mereka menyaksikan berbagai manfaat untuk mereka, terutama menguatkan perasaan bersaudara di antara umat muslim, dan agar mereka menyebut nama Allah pada beberapa hari yang telah ditentukan dalam rangkaian manasik haji seperti berkurban dengan mengumandangkan takbir pada hari raya haji atau hari Tasyriq, yaitu tanggal 10, 11, 12, dan 13 Zulhijah atas rezeki yang Dia berikan kepada mereka berupa hewan ternak. Maka makanlah sebagian darinya, sebagai tanda bersyukur dan sebagian lagi berikanlah untuk dimakan orang-orang yang sengsara dan fakir sebagai tanda peduli dan berbagi dengan kaum duafa hingga perasaan gembira itu dirasakan bersama."
+    },
+    {
+      "no": 29,
+      "arab": "ثُمَّ لْيَقْضُوا تَفَثَهُمْ وَلْيُوفُوا نُذُورَهُمْ وَلْيَطَّوَّفُوا بِالْبَيْتِ الْعَتِيقِ",
+      "latin": "Summal yaqdoo tafasahum wal yoofoo nuzoorahum wal yattawwafoo bil Baitil 'Ateeq",
+      "id": "Kemudian, hendaklah mereka menghilangkan kotoran (yang ada di badan) mereka, menyempurnakan nazar-nazar mereka dan melakukan tawaf sekeliling rumah tua (Baitullah).",
+      "en": "Then let them end their untidiness and fulfill their vows and perform Tawaf around the ancient House.\"",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2624",
+      "tafsir": "Setelah wukuf dilakukan, bermalam di Muzdalifah dan melontar jumrah usai dilaksanakan, maka kemudian para tamu Allah hendaklah menghilangkan kotoran yang ada di badan mereka dengan tahalul awal, memotong rambut, kemudian hendaklah mereka menyempurnakan nazar-nazar mereka, jika mereka bernazar, dan melakukan tawaf ifadah sekeliling rumah tua, Baitullah, yang dibangun sejak zaman Adam, kemudian melakukan tahalul kedua yang membolehkan melakukan semua larangan berihram."
+    },
+    {
+      "no": 30,
+      "arab": "ذَٰلِكَ وَمَن يُعَظِّمْ حُرُمَاتِ اللَّهِ فَهُوَ خَيْرٌ لَّهُ عِندَ رَبِّهِ ۗ وَأُحِلَّتْ لَكُمُ الْأَنْعَامُ إِلَّا مَا يُتْلَىٰ عَلَيْكُمْ ۖ فَاجْتَنِبُوا الرِّجْسَ مِنَ الْأَوْثَانِ وَاجْتَنِبُوا قَوْلَ الزُّورِ",
+      "latin": "Zaalika wa mai yu'azzim hurumaatil laahi fahuwa khairul lahoo 'inda Rabbih; wa uhillat lakumul an'aamu illaa maa yutlaa 'alaikum fajtanibur rijsa minal awsaani wajtaniboo qawlaz zoor",
+      "id": "Demikianlah (perintah Allah). Dan barang siapa mengagungkan apa yang terhormat di sisi Allah (hurumat) maka itu lebih baik baginya di sisi Tuhannya. Dan dihalalkan bagi kamu semua hewan ternak, kecuali yang diterangkan kepadamu (keharamannya), maka jauhilah olehmu (penyembahan) berhala-berhala yang najis itu dan jauhilah perkataan dusta.",
+      "en": "That [has been commanded], and whoever honors the sacred ordinances of Allah - it is best for him in the sight of his Lord. And permitted to you are the grazing livestock, except what is recited to you. So avoid the uncleanliness of idols and avoid false statement,",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2625",
+      "tafsir": "Demikianlah perintah Allah kepada kaum muslim untuk melak-sanakan ibadah haji. Dan Barang siapa mengagungkan apa yang terhormat di sisi Allah dengan melaksanakan rangkaian manasik haji dan menjauhi semua larangan ketika berihram, baik ihram untuk haji maupun umrah, maka sikap yang demikian itu lebih baik baginya, tamu Allah, di sisi Tuhannya. Dan dihalalkan bagi kamu semua hewan ternak, baik ketika menunaikan ibadah haji maupun tidak sedang berhaji, kecuali yang diterangkan kepadamu keharamannya di dalam Al-Qur’an dan Sunah. Maka, jauhilah olehmu, wahai orang-orang beriman, penyembahan berhala-berhala yang najis itu karena tidak sesuai dengan kesucian dan kemurnian tauhid yang diajarkan para nabi dan rasul; dan jauhilah perkataan dusta, baik ketika berihram untuk haji atau umrah, lebih-lebih ketika sudah menyandang predikat haji."
+    },
+    {
+      "no": 31,
+      "arab": "حُنَفَاءَ لِلَّهِ غَيْرَ مُشْرِكِينَ بِهِ ۚ وَمَن يُشْرِكْ بِاللَّهِ فَكَأَنَّمَا خَرَّ مِنَ السَّمَاءِ فَتَخْطَفُهُ الطَّيْرُ أَوْ تَهْوِي بِهِ الرِّيحُ فِي مَكَانٍ سَحِيقٍ",
+      "latin": "Hunafaaa'a lillaahi ghaira mushrikeena bih; wa mai yushrik billaahi faka annamaa kharra minas samaaa'i fatakh tafuhut tairu aw tahwee bihir reehu bee makaanin saheeq",
+      "id": "(Beribadahlah) dengan ikhlas kepada Allah, tanpa mempersekutukan-Nya. Barangsiapa mempersekutukan Allah, maka seakan-akan dia jatuh dari langit lalu disambar oleh burung, atau diterbangkan angin ke tempat yang jauh.",
+      "en": "Inclining [only] to Allah, not associating [anything] with Him. And he who associates with Allah - it is as though he had fallen from the sky and was snatched by the birds or the wind carried him down into a remote place.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2626",
+      "tafsir": "Menunaikan ibadah haji ke Baitullah hendaklah dengan landasan tauhid yang lurus, niat beribadah dengan ikhlas kepada Allah, semata-mata mengharapkan keridaan-Nya, tanpa mempersekutukan-Nya dengan sesuatu apa pun. Barang siapa mempersekutukan Allah, kapan dan di mana pun, selama menunaikan ibadah haji maupun sebelumnya, maka seakan-akan dia jatuh dari langit, karena terputus dari tali Allah hingga ibadahnya tidak diterima, lalu disambar oleh burung hingga dirinya makin jauh dari Allah, atau diterbangkan angin ke tempat yang jauh seperti layang-layang putus."
+    },
+    {
+      "no": 32,
+      "arab": "ذَٰلِكَ وَمَن يُعَظِّمْ شَعَائِرَ اللَّهِ فَإِنَّهَا مِن تَقْوَى الْقُلُوبِ",
+      "latin": "Zaalika wa mai yu'azzim sha'aaa'iral laahi fa innahaa min taqwal quloob",
+      "id": "Demikianlah (perintah Allah). Dan barangsiapa mengagungkan syiar-syiar Allah, maka sesungguhnya hal itu timbul dari ketakwaan hati.",
+      "en": "That [is so]. And whoever honors the symbols of Allah - indeed, it is from the piety of hearts.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2627",
+      "tafsir": "Demikianlah perintah Allah agar seorang muslim menunaikan ibadah haji dengan landasan tauhid yang lurus. Barang siapa mengagungkan syiar-syiar Allah dengan menyempurnakan manasik haji yang dilakukan pada tempat-tempat mengerjakannya dengan hati yang bersih, semata-mata mengharap keridaan-Nya, maka sesungguhnya hal itu, hanya akan terlaksana bila menunaikan ibadah haji timbul dari ketakwaan hati."
+    },
+    {
+      "no": 33,
+      "arab": "لَكُمْ فِيهَا مَنَافِعُ إِلَىٰ أَجَلٍ مُّسَمًّى ثُمَّ مَحِلُّهَا إِلَى الْبَيْتِ الْعَتِيقِ",
+      "latin": "Lakum feehaa manaafi'u ilaaa ajalim musamman summa mahilluhaaa ilal Baitil 'Ateeq",
+      "id": "Bagi kamu padanya (hewan hadyu) ada beberapa manfaat, sampai waktu yang ditentukan, kemudian tempat penyembelihannya adalah di sekitar Baitul Atiq (Baitullah).",
+      "en": "For you the animals marked for sacrifice are benefits for a specified term; then their place of sacrifice is at the ancient House.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2628",
+      "tafsir": "Bagi kamu yang sedang menunaikan ibadah haji, padanya, yakni pada hewan hadyu yang disembelih sebagai pengganti (dam) pekerjaan wajib haji yang ditinggalkan; atau sebagai denda karena melanggar hal-hal yang terlarang mengerjakannya di dalam ibadah haji, ada beberapa manfaat yang bisa diambil seperti untuk dikendarai, diambil susunya, dan sebagainya, hingga waktu yang ditentukan, yakni hingga hari nahar, tanggal 10 Zulhijah, kemudian tempat penyembelihannya adalah di sekitar Baitul Atiq, Baitullah, di kawasan tanah haram."
+    },
+    {
+      "no": 34,
+      "arab": "وَلِكُلِّ أُمَّةٍ جَعَلْنَا مَنسَكًا لِّيَذْكُرُوا اسْمَ اللَّهِ عَلَىٰ مَا رَزَقَهُم مِّن بَهِيمَةِ الْأَنْعَامِ ۗ فَإِلَٰهُكُمْ إِلَٰهٌ وَاحِدٌ فَلَهُ أَسْلِمُوا ۗ وَبَشِّرِ الْمُخْبِتِينَ",
+      "latin": "Wa likulli ummatin ja'alnaa mansakal liyazkurus mal laahi 'alaa maa razaqahum mim baheematil an'aam; failaahukum ilaahunw Waahidun falahooo aslimoo; wa bashshiril mukhbiteen",
+      "id": "Dan bagi setiap umat telah Kami syariatkan penyembelihan (kurban), agar mereka menyebut nama Allah atas rezeki yang dikaruniakan Allah kepada mereka berupa hewan ternak. Maka Tuhanmu ialah Tuhan Yang Maha Esa, karena itu berserahdirilah kamu kepada-Nya. Dan sampaikanlah (Muhammad) kabar gembira kepada orang-orang yang tunduk patuh (kepada Allah),",
+      "en": "And for all religion We have appointed a rite [of sacrifice] that they may mention the name of Allah over what He has provided for them of [sacrificial] animals. For your god is one God, so to Him submit. And, [O Muhammad], give good tidings to the humble [before their Lord]",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2629",
+      "tafsir": "Dan bagi setiap umat di antara umat para nabi terdahulu telah Kami syariatkan penyembelihan hewan kurban guna mendekatkan diri kepada Allah, agar mereka menyebut nama Allah saat menyembelih hewan kurban, atas rezeki yang dikaruniakan Allah kepada mereka berupa hewan ternak yang dikurbankan. Maka mantapkanlah dalam ucapan, pikiran, dan perasaan bahwa Tuhanmu ialah Tuhan Yang Maha Esa, tidak ada sekutu bagi-Nya, karena itu berserahdirilah kamu kepada-Nya dengan salat yang khusyuk. Dan sampaikanlah olehmu, Muhammad, kabar gembira kepada orang-orang yang tunduk patuh kepada Allah bahwa mereka akan mendapat surga."
+    },
+    {
+      "no": 35,
+      "arab": "الَّذِينَ إِذَا ذُكِرَ اللَّهُ وَجِلَتْ قُلُوبُهُمْ وَالصَّابِرِينَ عَلَىٰ مَا أَصَابَهُمْ وَالْمُقِيمِي الصَّلَاةِ وَمِمَّا رَزَقْنَاهُمْ يُنفِقُونَ",
+      "latin": "Allazeena izaa zukiral laahu wajilat quloobuhum wassaabireena 'alaa maaa asaabahum walmuqeemis Salaati wa mimmaa razaqnaahum yunfiqoon",
+      "id": "(yaitu) orang-orang yang apabila disebut nama Allah hati mereka bergetar, orang yang sabar atas apa yang menimpa mereka, dan orang yang melaksanakan salat dan orang yang menginfakkan sebagian rezeki yang Kami karuniakan kepada mereka.",
+      "en": "Who, when Allah is mentioned, their hearts are fearful, and [to] the patient over what has afflicted them, and the establishers of prayer and those who spend from what We have provided them.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2630",
+      "tafsir": "Mereka yang mantap ketauhidan dan ketundukannya kepada Allah adalah orang-orang yang apabila disebut nama Allah hati mereka bergetar karena kerinduan mereka kepada-Nya; orang-orang yang sabar atas apa yang menimpa mereka, meskipun terasa pahit dan memberatkan punggung mereka; dan orang-orang yang melaksanakan salat wajib dan sunah dengan khusyuk; dan orang-orang yang menginfakkan sebagian rezeki yang Kami karuniakan kepada mereka, baik waktu lapang maupun waktu kekurangan."
+    },
+    {
+      "no": 36,
+      "arab": "وَالْبُدْنَ جَعَلْنَاهَا لَكُم مِّن شَعَائِرِ اللَّهِ لَكُمْ فِيهَا خَيْرٌ ۖ فَاذْكُرُوا اسْمَ اللَّهِ عَلَيْهَا صَوَافَّ ۖ فَإِذَا وَجَبَتْ جُنُوبُهَا فَكُلُوا مِنْهَا وَأَطْعِمُوا الْقَانِعَ وَالْمُعْتَرَّ ۚ كَذَٰلِكَ سَخَّرْنَاهَا لَكُمْ لَعَلَّكُمْ تَشْكُرُونَ",
+      "latin": "Walbudna ja'alnaahaa lakum min sha'aaa'iril laahi lakum feehaa khairun fazkurusmal laahi 'alaihaa sawaaff; fa izaa wajabat junoobuhaa fakuloo minhaa wa at'imul qaani'a walmu'tarr; kazaalika sakhkharnaahaa lakum la'allakum tashkuroon",
+      "id": "Dan unta-unta itu Kami jadikan untuk-mu bagian dari syiar agama Allah, kamu banyak memperoleh kebaikan padanya. Maka sebutlah nama Allah (ketika kamu akan menyembelihnya) dalam keadaan berdiri (dan kaki-kaki telah terikat). Kemudian apabila telah rebah (mati), maka makanlah sebagiannya dan berilah makanlah orang yang merasa cukup dengan apa yang ada padanya (tidak meminta-minta) dan orang yang meminta. Demikianlah Kami tundukkan (unta-unta itu) untukmu, agar kamu bersyukur.",
+      "en": "And the camels and cattle We have appointed for you as among the symbols of Allah; for you therein is good. So mention the name of Allah upon them when lined up [for sacrifice]; and when they are [lifeless] on their sides, then eat from them and feed the needy and the beggar. Thus have We subjected them to you that you may be grateful.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2631",
+      "tafsir": "Dan unta-unta yang digemukkan dan diberi kalung untuk dikurbankan itu Kami jadikan untuk kamu, para tamu Allah, sebagai bagian dari syiar agama Allah, dalam pelaksanaan ibadah haji; kamu banyak memperoleh kebaikan padanya untuk alat transportasi, mengangkut barang, mengambil susu, dan berkurban. Maka sebutlah nama Allah ketika kamu akan menyembelihnya dalam keadaan unta-unta itu berdiri, karena lazimnya unta disembelih dalam posisi berdiri, dan kaki-kaki-nya telah terikat dengan kuat. Kemudian apabila unta-unta itu telah rebah, selesai disembelih, maka makanlah oleh kamu sebagian dagingnya dan beri makanlah dengan daging unta itu orang-orang fakir dan miskin yang merasa cukup dengan apa yang ada padanya, yang tidak meminta-minta karena menjaga kehormatan dirinya, dan orang-orang fakir dan miskin yang meminta-minta karena kebutuhan mendesak untuk menjaga kelangsungan hidupnya. Demikianlah Kami tundukkan unta-unta itu untukmu, hingga unta-unta itu tidak berontak ketika kamu akan menyembelihnya agar kamu bersyukur kepada Allah atas karunia-Nya yang diberikan kepada kamu."
+    },
+    {
+      "no": 37,
+      "arab": "لَن يَنَالَ اللَّهَ لُحُومُهَا وَلَا دِمَاؤُهَا وَلَٰكِن يَنَالُهُ التَّقْوَىٰ مِنكُمْ ۚ كَذَٰلِكَ سَخَّرَهَا لَكُمْ لِتُكَبِّرُوا اللَّهَ عَلَىٰ مَا هَدَاكُمْ ۗ وَبَشِّرِ الْمُحْسِنِينَ",
+      "latin": "Lany yanaalal laaha luhoo muhaa wa laa dimaaa'uhaa wa laakiny yanaaluhut taqwaa minkum; kazaalika sakhkharhaa lakum litukabbirul laaha 'alaa ma hadaakum; wa bashshirul muhsineen",
+      "id": "Daging (hewan kurban) dan darahnya itu sekali-kali tidak akan sampai kepada Allah, tetapi yang sampai kepada-Nya adalah ketakwaan kamu. Demi-kianlah Dia menundukkannya untuk-mu agar kamu mengagungkan Allah atas petunjuk yang Dia berikan kepadamu. Dan sampaikanlah kabar gembira kepada orang-orang yang berbuat baik.",
+      "en": "Their meat will not reach Allah, nor will their blood, but what reaches Him is piety from you. Thus have We subjected them to you that you may glorify Allah for that [to] which He has guided you; and give good tidings to the doers of good.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2632",
+      "tafsir": "Allah menjelaskan bahwa daging hewan kurban dan darahnya itu sekali-kali tidak akan sampai kepada Allah, karena kurban itu bukan sesajen dan Allah tidak membutuhkan darah dan daging, tetapi yang sampai kepada-Nya adalah ketakwaan kamu, yaitu sikap kamu melawan rasa cinta terhadap harta dan kikir dengan berkurban, peduli, dan berbagi kepada fakir miskin dan duafa guna mendekatkan diri kepada Allah. Demikianlah salah satu tujuan Dia menundukkannya untuk kamu dengan menjinakkan unta-unta itu untuk disembelih agar kamu mengagungkan Allah dengan mengumandangkan takbir ketika menyembelih hewan kurban itu atas petunjuk yang Dia berikan kepadamu dengan mensyariatkan tata cara berkurban, tujuan, dan waktunya. Dan sampaikanlah, oleh kamu Muhammad kabar gembira kepada orang-orang yang berbuat baik yang beriman, berkurban, serta peduli dan berbagi terhadap fakir miskin dan duafa dengan tujuan mengharap keridaan Allah."
+    },
+    {
+      "no": 38,
+      "arab": "۞ إِنَّ اللَّهَ يُدَافِعُ عَنِ الَّذِينَ آمَنُوا ۗ إِنَّ اللَّهَ لَا يُحِبُّ كُلَّ خَوَّانٍ كَفُورٍ",
+      "latin": "Innal laaha yudaafi' 'anil lazeena aamanoo; innal laaha laa yuhibbu kulla khawwaanin kafoor",
+      "id": "Sesungguhnya Allah membela orang yang beriman. Sungguh, Allah tidak menyukai setiap orang yang berkhianat dan kufur nikmat.",
+      "en": "Indeed, Allah defends those who have believed. Indeed, Allah does not like everyone treacherous and ungrateful.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2633",
+      "tafsir": "Orang-orang kafir Mekah dengan segala cara berusaha menghalangi tersebarnya ajaran Islam. Pada ayat ini dijelaskan bahwa sesungguhnya Allah membela orang yang beriman dengan menguatkan hati mereka untuk bersabar, memiliki daya tahan, menghadapi segala cobaan dan rintangan yang dilakukan orang-orang kafir Mekah tersebut. Sungguh, Allah tidak menyukai setiap orang beriman yang berkhianat terhadap agama, sesama orang beriman, serta perjuangan Islam; dan Allah pun sangat tidak menyukai orang-orang yang kufur atas nikmat-Nya."
+    },
+    {
+      "no": 39,
+      "arab": "أُذِنَ لِلَّذِينَ يُقَاتَلُونَ بِأَنَّهُمْ ظُلِمُوا ۚ وَإِنَّ اللَّهَ عَلَىٰ نَصْرِهِمْ لَقَدِيرٌ",
+      "latin": "Uzina lillazeena yuqaataloona bi annahum zulimoo; wa innal laaha 'alaa nasrihim la Qaderr",
+      "id": "Diizinkan (berperang) kepada orang-orang yang diperangi, karena sesungguhnya mereka dizalimi. Dan sung-guh, Allah Mahakuasa menolong mereka itu,",
+      "en": "Permission [to fight] has been given to those who are being fought, because they were wronged. And indeed, Allah is competent to give them victory.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2634",
+      "tafsir": "Selama 13 tahun di Mekah Allah membela orang yang beriman dengan menguatkan hati mereka untuk bersabar dalam menghadapi hinaan, boikot, pengusiran dan percobaan pembunuhan yang dilakukan orang-orang kafir. Kini, setelah hijrah ke Madinah, diizinkan kepada orang-orang yang diperangi untuk berperang guna membela diri dan kehormatan agama dalam Perang Badar, karena sesungguhnya mereka dizalimi selama di Mekah. Dan sungguh, Allah Mahakuasa menolong mereka itu pada Perang Badar dengan menurunkan para malaikat untuk mengalahkan orang-orang kafir Mekah."
+    },
+    {
+      "no": 40,
+      "arab": "الَّذِينَ أُخْرِجُوا مِن دِيَارِهِم بِغَيْرِ حَقٍّ إِلَّا أَن يَقُولُوا رَبُّنَا اللَّهُ ۗ وَلَوْلَا دَفْعُ اللَّهِ النَّاسَ بَعْضَهُم بِبَعْضٍ لَّهُدِّمَتْ صَوَامِعُ وَبِيَعٌ وَصَلَوَاتٌ وَمَسَاجِدُ يُذْكَرُ فِيهَا اسْمُ اللَّهِ كَثِيرًا ۗ وَلَيَنصُرَنَّ اللَّهُ مَن يَنصُرُهُ ۗ إِنَّ اللَّهَ لَقَوِيٌّ عَزِيزٌ",
+      "latin": "Allazeena ukhrijoo min diyaarihim bighairi haqqin illaaa any yaqooloo rabbunallaah; wa law laa daf'ul laahin naasa ba'dahum biba'dil lahuddimat sawaami'u wa biya'unw wa salawaatunw wa masaajidu yuzkaru feehasmul laahi kaseeraa; wa layansurannal laahu mai yansuruh; innal laaha la qawiyyun 'Azeez",
+      "id": "(yaitu) orang-orang yang diusir dari kampung halamannya tanpa alasan yang benar, hanya karena mereka berkata, “Tuhan kami ialah Allah.” Seandainya Allah tidak menolak (keganasan) sebagian manusia dengan sebagian yang lain, tentu telah dirobohkan biara-biara Nasrani, gereja-gereja, rumah-rumah ibadah orang Yahudi dan masjid-masjid, yang di dalamnya banyak disebut nama Allah. Allah pasti akan menolong orang yang menolong (agama)-Nya. Sungguh, Allah Mahakuat, Mahaperkasa.",
+      "en": "[They are] those who have been evicted from their homes without right - only because they say, \"Our Lord is Allah.\" And were it not that Allah checks the people, some by means of others, there would have been demolished monasteries, churches, synagogues, and mosques in which the name of Allah is much mentioned. And Allah will surely support those who support Him. Indeed, Allah is Powerful and Exalted in Might.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2635",
+      "tafsir": "Orang-orang beriman yang diizinkan untuk berperang itu adalah orang-orang yang diusir dari kampung halamannya di Mekah tanpa alasan yang benar, baik menurut akal sehat maupun nurani. Alasan satu-satunya dari tindakan tersebut adalah hanya karena mereka berkata, “Tuhan kami ialah Allah,” lalu istikamah dalam keyakinannya. Seandainya Allah tidak menolak keganasan sebagian manusia kepada sebagian yang lain yang menumpahkan darah dan saling menghancurkan, dengan diizinkan berperang kepada orang-orang beriman guna membela diri dan menyadarkan penyerang untuk menghentikan serangannya dan bersedia hidup berdampingan dengan toleran, tentu telah dirobohkan biara-biara Nasrani, gereja-gereja, rumah-rumah ibadah orang Yahudi dan masjid-masjid yang di dalamnya banyak disebut nama Allah akibat keganasan perang. Allah pasti akan menolong orang yang menolong agama-Nya dengan mencegah perang dan memperjuangkan perdamaian. Sungguh, Allah Mahakuat, Mahaperkasa atas segala sesuatu."
+    },
+    {
+      "no": 41,
+      "arab": "الَّذِينَ إِن مَّكَّنَّاهُمْ فِي الْأَرْضِ أَقَامُوا الصَّلَاةَ وَآتَوُا الزَّكَاةَ وَأَمَرُوا بِالْمَعْرُوفِ وَنَهَوْا عَنِ الْمُنكَرِ ۗ وَلِلَّهِ عَاقِبَةُ الْأُمُورِ",
+      "latin": "Allazeena im makkan naahum fil ardi aqaamus Salaata wa aatawuz Zakaata wa amaroo bilma'roofi wa nahaw 'anil munkar; wa lillaahi 'aaqibatul umoor",
+      "id": "(Yaitu) orang-orang yang jika Kami beri kedudukan di bumi, mereka melaksanakan salat, menunaikan zakat, dan menyuruh berbuat yang makruf dan mencegah dari yang mungkar; dan kepada Allah-lah kembali segala urusan.",
+      "en": "[And they are] those who, if We give them authority in the land, establish prayer and give zakah and enjoin what is right and forbid what is wrong. And to Allah belongs the outcome of [all] matters.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2636",
+      "tafsir": "Para sahabat Nabi yang diusir dari kampung halamannya hanya karena mereka meyakini tidak ada tuhan selain Allah itu adalah orang-orang yang jika Kami beri kedudukan kepada mereka di bumi dengan menjadi umara, mereka akan menggunakan kekuasaannya untuk mengajak umat melaksanakan salat berjamaah, di masjid, awal waktu; menunaikan zakat, infak, dan sedekah dengan manajemen yang baik untuk kesejahteraan umat, dan menyuruh berbuat yang makruf kepada seluruh lapisan masyarakat dan mencegah dari yang mungkar dari siapa saja yang mengindikasikan melanggar hukum dan menyimpang dari aturan yang berlaku; dan kepada Allah-lah kembali segala urusan dengan seadil-adilnya mengenai nasib manusia di akhirat."
+    },
+    {
+      "no": 42,
+      "arab": "وَإِن يُكَذِّبُوكَ فَقَدْ كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍ وَعَادٌ وَثَمُودُ",
+      "latin": "Wa iny yukazzibooka faqad kazzabat qablahum qawmu Nooinw wa Aadunw wa Samood",
+      "id": "Dan jika mereka (orang-orang musyrik) mendustakan engkau (Muhammad), begitu pulalah kaum-kaum yang sebelum mereka, kaum Nuh, ‘Ad, dan Samud (juga telah mendustakan rasul-rasul-Nya),",
+      "en": "And if they deny you, [O Muhammad] - so, before them, did the people of Noah and 'Aad and Thamud deny [their prophets],",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2637",
+      "tafsir": "Dan jika mereka, orang-orang musyrik yang kaya dan berkuasa di Mekah, mendustakan ajaran engkau, Muhammad, yang bersumber dari wahyu Allah, maka sungguh begitulah sikap kaum sebelum mereka, mendustakan ajaran yang dibawa oleh para nabi mereka seperti kaum Nuh, ‘Ad, dan Samud, dan demikian juga sifat dan karakter kaum Ibrahim dan kaum Lut yang secara terbuka menantang dan mendustakan ajaran para nabi yang diutus kepada mereka."
+    },
+    {
+      "no": 43,
+      "arab": "وَقَوْمُ إِبْرَاهِيمَ وَقَوْمُ لُوطٍ",
+      "latin": "Wa qawmu Ibraaheema wa qawmu Loot",
+      "id": "dan (demikian juga) kaum Ibrahim dan kaum Lut,",
+      "en": "And the people of Abraham and the people of Lot",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2638",
+      "tafsir": "Dan jika mereka, orang-orang musyrik yang kaya dan berkuasa di Mekah, mendustakan ajaran engkau, Muhammad, yang bersumber dari wahyu Allah, maka sungguh begitulah sikap kaum sebelum mereka, mendustakan ajaran yang dibawa oleh para nabi mereka seperti kaum Nuh, ‘Ad, dan Samud, dan demikian juga sifat dan karakter kaum Ibrahim dan kaum Lut yang secara terbuka menantang dan mendustakan ajaran para nabi yang diutus kepada mereka."
+    },
+    {
+      "no": 44,
+      "arab": "وَأَصْحَابُ مَدْيَنَ ۖ وَكُذِّبَ مُوسَىٰ فَأَمْلَيْتُ لِلْكَافِرِينَ ثُمَّ أَخَذْتُهُمْ ۖ فَكَيْفَ كَانَ نَكِيرِ",
+      "latin": "Wa as haabu Madyana wa kuzziba Moosaa fa amlaitu lilkaafireena summa akhaztuhum fakaifa kaana nakeer",
+      "id": "dan penduduk Madyan. Dan Musa (juga) telah didustakan, namun Aku beri tenggang waktu kepada orang-orang kafir, kemudian Aku siksa mereka, maka betapa hebatnya siksaan-Ku.",
+      "en": "And the inhabitants of Madyan. And Moses was denied, so I prolonged enjoyment for the disbelievers; then I seized them, and how [terrible] was My reproach.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2639",
+      "tafsir": "Dan demikian pula penduduk Madyan telah menustakan ajaran Nabi Syu‘aib. Dan ajaran Nabi Musa juga telah didustakan oleh Firaun dan Bani Israil, maka Aku telah memberikan tenggang waktu kepada orang-orang kafir dengan memanjangkan umur mereka di dunia, kemudian Aku menyiksa mereka di akhirat dengan merasakan azab-Ku di dalam neraka, maka betapa hebatnya siksaan-Ku yang dirasakan oleh mereka yang menolak ajaran-Ku yang dibawa oleh para rasul."
+    },
+    {
+      "no": 45,
+      "arab": "فَكَأَيِّن مِّن قَرْيَةٍ أَهْلَكْنَاهَا وَهِيَ ظَالِمَةٌ فَهِيَ خَاوِيَةٌ عَلَىٰ عُرُوشِهَا وَبِئْرٍ مُّعَطَّلَةٍ وَقَصْرٍ مَّشِيدٍ",
+      "latin": "Faka ayyim min qaryatin ahlaknaahaa wa hiya zaalimatun fahiya khaawiyatun 'alaa 'urooshihaa wa bi'rim mu'at talatinw wa qasrim masheed",
+      "id": "Maka betapa banyak negeri yang telah Kami binasakan karena (penduduk)nya dalam keadaan zalim, sehingga runtuh bangunan-bangunannya dan (betapa banyak pula) sumur yang telah ditinggalkan dan istana yang tinggi (ti-dak ada penghuninya).",
+      "en": "And how many a city did We destroy while it was committing wrong - so it is [now] fallen into ruin - and [how many] an abandoned well and [how many] a lofty palace.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2640",
+      "tafsir": "Allah menurunkan adzabnya kepada umat-umat terdahulu yang telah mendustakan dan mengingkari ajaran para rasul-Nya yang diutus kepada mereka. \"Maka, betapa banyak negeri yang telah Kami binasakan, karena penduduknya dalam keadaan zalim terhadap diri mereka sendiri dengan tidak beriman dan bertindak sewenang-wenang terhadap para rasul, menghina, mendustakan, dan membunuh mereka, lalu kami mengazab mereka sehingga runtuhlah bangunan-bangunannya; dan betapa banyak pula sumur yang telah ditinggalkan, karena penduduk negeri itu telah binasa; dan istana yang tinggi, mewah dan indah telah menjadi rumah tua yang tidak ada penghuninya,\" demikian Allah menjelaskan."
+    },
+    {
+      "no": 46,
+      "arab": "أَفَلَمْ يَسِيرُوا فِي الْأَرْضِ فَتَكُونَ لَهُمْ قُلُوبٌ يَعْقِلُونَ بِهَا أَوْ آذَانٌ يَسْمَعُونَ بِهَا ۖ فَإِنَّهَا لَا تَعْمَى الْأَبْصَارُ وَلَٰكِن تَعْمَى الْقُلُوبُ الَّتِي فِي الصُّدُورِ",
+      "latin": "Afalam yaseeroo fil ardi fatakoona lahum quloobuny ya'qiloona bihaaa aw aazaanuny yasm'oona bihaa fa innahaa laa ta'mal absaaru wa laakin ta'mal quloobul latee fissudoor",
+      "id": "Maka tidak pernahkah mereka berjalan di bumi, sehingga hati (akal) mereka dapat memahami, telinga mereka dapat mendengar? Sebenarnya bukan mata itu yang buta, tetapi yang buta ialah hati yang di dalam dada.",
+      "en": "So have they not traveled through the earth and have hearts by which to reason and ears by which to hear? For indeed, it is not eyes that are blinded, but blinded are the hearts which are within the breasts.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2641",
+      "tafsir": "Allah lalu bertanya kepada orang-orang yang menolak ajaran Allah yang dibawa Rasulullah, \"Maka apakah mereka tidak pernah berjalan di bumi menyaksikan peninggalan umat terdahulu atau mengkajinya secara mendalam sehingga kalbu, kecerdasan emosi, dan spiritual mereka dapat memahami atau merenungkan ajaran Al-Qur’an atau telinga mereka dapat mendengar ajakan Rasul untuk beriman kepada Allah?\" Mata, telinga, dan pikiran mereka tertutup. Oleh sebab itu, sejatinya bukan mata lahiriah mereka itu yang buta sehingga tidak dapat melihat bukti-bukti kebenaran ajaran Rasulullah, tetapi yang buta adalah mata hati mereka yang ada di dalam dada mereka."
+    },
+    {
+      "no": 47,
+      "arab": "وَيَسْتَعْجِلُونَكَ بِالْعَذَابِ وَلَن يُخْلِفَ اللَّهُ وَعْدَهُ ۚ وَإِنَّ يَوْمًا عِندَ رَبِّكَ كَأَلْفِ سَنَةٍ مِّمَّا تَعُدُّونَ",
+      "latin": "Wa yasta'juloonaka bil'azaabi wa lany yukhlifal laahu wa'dah; wa inna yawman 'inda Rabbika ka'alfi sanatim mimmaa ta'uddoon",
+      "id": "Dan mereka meminta kepadamu (Muhammad) agar azab itu disegerakan, padahal Allah tidak akan menyalahi janji-Nya. Dan sesungguhnya sehari di sisi Tuhanmu adalah seperti seribu tahun menurut perhitunganmu.",
+      "en": "And they urge you to hasten the punishment. But Allah will never fail in His promise. And indeed, a day with your Lord is like a thousand years of those which you count.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2642",
+      "tafsir": "Karena mata hati mereka buta dan telinga mereka tertutup, dan mereka dengan sombong dan menantang meminta kepadamu, Muhammad, agar azab yang dijanjikan kepada orang-orang kafir itu disegerakan di dunia ini. Mereka tidak mengetahui bahwa Allah tidak akan pernah menyalahi janji-Nya bahwa azab yang pedih bagi orang-orang kafir itu akan diberikan di akhirat. Dan sungguh, jika mereka menyadari bahwa sehari di sisi Tuhanmu di akhirat seperti seribu tahun menurut perhitunganmu di dunia sehingga merasakan azab sehari saja di dalam neraka sebanding dengan seribu tahun di dunia. Betapa dah-syatnya azab Allah, mengapa mereka menantang?"
+    },
+    {
+      "no": 48,
+      "arab": "وَكَأَيِّن مِّن قَرْيَةٍ أَمْلَيْتُ لَهَا وَهِيَ ظَالِمَةٌ ثُمَّ أَخَذْتُهَا وَإِلَيَّ الْمَصِيرُ",
+      "latin": "Wa ka ayyim min qaryatin amlaitu lahaa wa hiya zaalimatun summa akhaztuhaa wa ilaiyal maseer",
+      "id": "Dan berapa banyak negeri yang Aku tangguhkan (penghancuran)nya, karena penduduknya berbuat zalim, kemudian Aku azab mereka, dan hanya kepada-Kulah tempat kembali (segala sesuatu).",
+      "en": "And for how many a city did I prolong enjoyment while it was committing wrong. Then I seized it, and to Me is the [final] destination.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2643",
+      "tafsir": "Tantangan orang kafir agar disegerakan pemberian azab bagi me-reka dijawab Allah dengan berfirman, \"Dan perhatikanlah, berapa banyak negeri yang Aku tangguhkan penghancurannya, meskipun penduduknya meminta agar azab yang dijanjikan itu disegerakan. Karena penduduknya berbuat zalim, tidak beriman, menghina, dan mengusir utusan Allah, kemudian Aku azab mereka saat mereka merasa aman dari azab-Ku. Dan hanya kepada-Kulah tempat kembali setiap orang dalam kehidupan sesudah mati, baik yang beriman maupun yang kufur."
+    },
+    {
+      "no": 49,
+      "arab": "قُلْ يَا أَيُّهَا النَّاسُ إِنَّمَا أَنَا لَكُمْ نَذِيرٌ مُّبِينٌ",
+      "latin": "Qul yaaa ayyuhan naasu innamaaa ana lakum nazeerum mubeen",
+      "id": "Katakanlah (Muhammad), “Wahai manusia! Sesungguhnya aku (diutus) kepadamu sebagai pemberi peringatan yang nyata.”",
+      "en": "Say, \"O people, I am only to you a clear warner.\"",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2644",
+      "tafsir": "Orang-orang musyrik Mekah, sebagaimana disebutkan pada ayat di atas, mengolok-olok Rasulullah dengan meminta disegerakan datangnya azab. Pada ayat ini disebutkan bahwa tugas beliau adalah menyampaikan peringatan. Katakanlah olehmu, Muhammad, “Wahai manusia! Urusan menurunkan azab itu wewenang Allah. Sesungguhnya aku diutus kepadamu dan seluruh manusia hingga hari Kiamat sebagai pemberi peringatan yang nyata bahwa beriman akan mendapatkan rida Allah, sedangkan mendustakan akan mendapatkan murka-Nya.”"
+    },
+    {
+      "no": 50,
+      "arab": "فَالَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُم مَّغْفِرَةٌ وَرِزْقٌ كَرِيمٌ",
+      "latin": "Fallazeena aamanoo wa 'amilu saalihaati lahum maghfiratunw wa rizqun kareem",
+      "id": "Maka orang-orang yang beriman dan mengerjakan kebajikan, mereka memperoleh ampunan dan rezeki yang mulia.",
+      "en": "And those who have believed and done righteous deeds - for them is forgiveness and noble provision.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2645",
+      "tafsir": "Maka orang-orang yang beriman kepada Allah dan Rasul-Nya, serta mengharumkan Islam dan mengerjakan kebajikan yang bermanfaat bagi manusia dan kemanusiaan, mereka akan memperoleh ampunan dari Allah atas dosa-dosa yang dilakukannya dan akan memperoleh rezeki yang mulia di akhirat dengan dimasukkan ke dalam surga, tempat penuh kenikmatan."
+    },
+    {
+      "no": 51,
+      "arab": "وَالَّذِينَ سَعَوْا فِي آيَاتِنَا مُعَاجِزِينَ أُولَٰئِكَ أَصْحَابُ الْجَحِيمِ",
+      "latin": "Wallazeena sa'aw feee Aayaatinaa mu'aajizeena ulaaa ika As-haabul jaheem",
+      "id": "Tetapi orang-orang yang berusaha menentang ayat-ayat Kami dengan maksud melemahkan (kemauan untuk beriman), mereka itu adalah penghuni-penghuni neraka Jahim.",
+      "en": "But the ones who strove against Our verses, [seeking] to cause failure - those are the companions of Hellfire.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2646",
+      "tafsir": "Tetapi orang-orang yang berusaha menentang ayat-ayat Kami dengan segala cara dengan maksud melemahkan niat dan dorongan penduduk Mekah yang akan beriman kepada Allah dan Rasul-Nya, maka mereka itu di akhirat adalah calon penghuni neraka Jahim."
+    },
+    {
+      "no": 52,
+      "arab": "وَمَا أَرْسَلْنَا مِن قَبْلِكَ مِن رَّسُولٍ وَلَا نَبِيٍّ إِلَّا إِذَا تَمَنَّىٰ أَلْقَى الشَّيْطَانُ فِي أُمْنِيَّتِهِ فَيَنسَخُ اللَّهُ مَا يُلْقِي الشَّيْطَانُ ثُمَّ يُحْكِمُ اللَّهُ آيَاتِهِ ۗ وَاللَّهُ عَلِيمٌ حَكِيمٌ",
+      "latin": "Wa maaa arsalnaa min qablika mir Rasoolinnw wa laa Nabiyyin illaaa izaaa tamannaaa alqash Shaitaanu feee umniy yatihee fa yansakhul laahu maa yulqish Shaitaanu summa yuhkimul laahu aayaatih; wallaahu 'Aleemun Hakeem",
+      "id": "Dan Kami tidak mengutus seorang rasul dan tidak (pula) seorang nabi sebelum engkau (Muhammad), mela-inkan apabila dia mempunyai suatu keinginan, setan pun memasukkan godaan-godaan ke dalam keinginannya itu. Tetapi Allah menghilangkan apa yang dimasukkan setan itu, dan Allah akan menguatkan ayat-ayat-Nya. Dan Allah Maha Mengetahui, Mahabijaksana,",
+      "en": "And We did not send before you any messenger or prophet except that when he spoke [or recited], Satan threw into it [some misunderstanding]. But Allah abolishes that which Satan throws in; then Allah makes precise His verses. And Allah is Knowing and Wise.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2647",
+      "tafsir": "Setelah dijelaskan bagaimana orang kafir menantang ayat-ayat Allah, pada ayat ini dijelaskan usaha setan melemahkan ayat-Nya, ketika ayat itu diwahyukan kepada para nabi dan rasul. Dan Kami tidak mengutus seorang rasul pun di antara rasul-rasul Allah, dan tidak pula seorang nabi sebelum engkau Muhammad, melainkan apabila dia mempunyai suatu keinginan untuk memberi peringatan kepada orang-orang kafir, mereka segera mengikuti bacaan Nabi dengan tambahan kata-kata yang membenarkan keyakinan mereka melalui usaha setan memasukkan kata-kata sesat ke dalam bacaan itu. Akan tetapi usaha ini tidak akan pernah berhasil. karena Allah segera menghilangkan apa yang dimasukkan setan itu dengan cepat; dan Allah akan menguatkan ayat-ayat-Nya pada jiwa Rasulullah dengan melindungi beliau dari kemungkinan menyampaikan kata-kata setan. Dan Allah Maha Mengetahui atas segala sesuatu, lagi Mahabijaksana dalam semua perbuatan-Nya."
+    },
+    {
+      "no": 53,
+      "arab": "لِّيَجْعَلَ مَا يُلْقِي الشَّيْطَانُ فِتْنَةً لِّلَّذِينَ فِي قُلُوبِهِم مَّرَضٌ وَالْقَاسِيَةِ قُلُوبُهُمْ ۗ وَإِنَّ الظَّالِمِينَ لَفِي شِقَاقٍ بَعِيدٍ",
+      "latin": "Liyaj'ala maa yulqish Shaitaanu fitnatal lillazeena fee quloobihim maradunw walqaasiyati quloobuhum; wa innaz zaalimeena lafee shiqaaqim ba'eed",
+      "id": "Dia (Allah) ingin menjadikan godaan yang ditimbulkan setan itu, sebagai cobaan bagi orang-orang yang dalam hatinya ada penyakit dan orang yang berhati keras. Dan orang-orang yang zalim itu benar-benar dalam permu-suhan yang jauh,",
+      "en": "[That is] so He may make what Satan throws in a trial for those within whose hearts is disease and those hard of heart. And indeed, the wrongdoers are in extreme dissension.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2648",
+      "tafsir": "Allah mengizinkan setan menyisipkan kata-kata sesat ke dalam ayat-ayat-Nya ketika diwahyukan, karena Dia ingin menjadikan kata-kata sesat yang ditimbulkan setan itu sebagai cobaan yang bisa menyesatkan, bagi orang-orang yang lemah iman yaitu bagi orang-orang yang dalam hatinya ada penyakit kemunafikan dan orang yang berhati keras sehingga tertutup dari cahaya Allah. Dan sungguh orang-orang yang zalim itu, karena meyakini kata-kata setan itu bagian dari wahyu Allah, benar-benar dalam permusuhan terhadap Allah dan Rasul-Nya yang jauh dari kebenaran."
+    },
+    {
+      "no": 54,
+      "arab": "وَلِيَعْلَمَ الَّذِينَ أُوتُوا الْعِلْمَ أَنَّهُ الْحَقُّ مِن رَّبِّكَ فَيُؤْمِنُوا بِهِ فَتُخْبِتَ لَهُ قُلُوبُهُمْ ۗ وَإِنَّ اللَّهَ لَهَادِ الَّذِينَ آمَنُوا إِلَىٰ صِرَاطٍ مُّسْتَقِيمٍ",
+      "latin": "Wa liya'lamal lazeena ootul 'ilma annahul haqqu mir Rabbika fa yu'minoo bihee fatukhbita ahoo quloobuhum; wa innal laaha lahaadil lazeena aamanoo ilaa Siraatim Mustaqeem",
+      "id": "dan agar orang-orang yang telah diberi ilmu, meyakini bahwa (Al-Qur'an) itu benar dari Tuhanmu lalu mereka beriman dan hati mereka tunduk kepadanya. Dan sungguh, Allah pemberi petunjuk bagi orang-orang yang beriman kepada jalan yang lurus.",
+      "en": "And so those who were given knowledge may know that it is the truth from your Lord and [therefore] believe in it, and their hearts humbly submit to it. And indeed is Allah the Guide of those who have believed to a straight path.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2649",
+      "tafsir": "Penjelasan Allah di dua ayat di atas bertujuan agar orang-orang yang telah diberi ilmu akal dan ilmu kalbu meyakini bahwa Al-Qur’an itu benar dari Tuhanmu, tidak akan pernah bisa disusupi kata-kata setan; lalu mereka beriman kepada Al-Qur’an dengan mantap; dan hati mereka pun tunduk kepadanya tanpa ada keraguan sedikit pun. Dan sungguh, Allah adalah Maha Pemberi Petunjuk bagi orang-orang beriman kepada jalan yang lurus, agama Islam yang hanif, karena pikiran, perasaan, dan ruhaninya tercerahkan dengan cahaya Allah."
+    },
+    {
+      "no": 55,
+      "arab": "وَلَا يَزَالُ الَّذِينَ كَفَرُوا فِي مِرْيَةٍ مِّنْهُ حَتَّىٰ تَأْتِيَهُمُ السَّاعَةُ بَغْتَةً أَوْ يَأْتِيَهُمْ عَذَابُ يَوْمٍ عَقِيمٍ",
+      "latin": "Wa laa yazaalul lazeena kafaroo fee miryatim minhu hattaa taatiyahumus Saa'atu baghtatan aw yaatiyahum 'azaabu Yawmin 'aqeem",
+      "id": "Dan orang-orang kafir itu senantiasa ragu mengenai hal itu (Al-Qur'an), hingga saat (kematiannya) datang kepada mereka dengan tiba-tiba, atau azab hari Kiamat yang datang kepada mereka.",
+      "en": "But those who disbelieve will not cease to be in doubt of it until the Hour comes upon them unexpectedly or there comes to them the punishment of a barren Day.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2650",
+      "tafsir": "Berbeda dengan orang-orang yang diberi ilmu, lalu beriman kepada Al-Qur’an dengan mantap, bahwa orang-orang kafir itu senantiasa ragu mengenai Al-Qur’an dengan keraguan yang terus-menerus hingga saat kematian datang kepada mereka dengan tiba-tiba, atau bahkan keraguan mereka itu terbawa hingga merasakan azab hari Kiamat yang datang kepada mereka dengan cepat."
+    },
+    {
+      "no": 56,
+      "arab": "الْمُلْكُ يَوْمَئِذٍ لِّلَّهِ يَحْكُمُ بَيْنَهُمْ ۚ فَالَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ فِي جَنَّاتِ النَّعِيمِ",
+      "latin": "Almulku Yawma'izil lillaahi yahkumu bainahum; fallazeena aamanoo wa 'amilus saalihaati fee jannaatin Na'eem",
+      "id": "Kekuasaan pada hari itu ada pada Allah, Dia memberi keputusan di an-tara mereka. Maka orang-orang yang beriman dan mengerjakan kebajikan berada dalam surga-surga yang penuh kenikmatan.",
+      "en": "[All] sovereignty that Day is for Allah; He will judge between them. So they who believed and did righteous deeds will be in the Gardens of Pleasure.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2651",
+      "tafsir": "Pada ayat ini ditegaskan, baik orang yang beriman kepada Al-Qur’an maupun yang kufur, pada hari Kiamat kehilangan kekuasaannya. Kekuasaan pada hari itu hanya ada pada Allah. Pada hari itu dengan keadilan-Nya, Dia memberi keputusan di antara mereka yang beriman dan yang kufur dengan seadil-adilnya. Maka orang-orang yang beriman dan mengerjakan kebajikan selama hidupnya di dunia berada dalam surga-surga yang penuh kenikmatan yang kekal selama-lamanya."
+    },
+    {
+      "no": 57,
+      "arab": "وَالَّذِينَ كَفَرُوا وَكَذَّبُوا بِآيَاتِنَا فَأُولَٰئِكَ لَهُمْ عَذَابٌ مُّهِينٌ",
+      "latin": "Wallazeena kafaroo wa kazzaboo bi Aayaatinaa fa ulaaa'ika lahum 'azaabum muheen",
+      "id": "Dan orang-orang kafir dan yang men-dustakan ayat-ayat Kami, maka mere-ka akan merasakan azab yang meng-hinakan.",
+      "en": "And they who disbelieved and denied Our signs - for those there will be a humiliating punishment.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2652",
+      "tafsir": "Sedangkan orang-orang yang kafir kepada Allah dan Rasul-Nya dan orang-orang yang mendustakan ayat-ayat Kami dengan mengolok-olokkannya, maka mereka di akhirat akan merasakan azab yang menghinakan dan mereka kekal selama-lamanya."
+    },
+    {
+      "no": 58,
+      "arab": "وَالَّذِينَ هَاجَرُوا فِي سَبِيلِ اللَّهِ ثُمَّ قُتِلُوا أَوْ مَاتُوا لَيَرْزُقَنَّهُمُ اللَّهُ رِزْقًا حَسَنًا ۚ وَإِنَّ اللَّهَ لَهُوَ خَيْرُ الرَّازِقِينَ",
+      "latin": "Wallazeena haajaroo fee sabeelil laahi summa qutilooo law maatoo la yarzuqan nahumul laahu rizqan hasanaa; wa innal laaha la Huwa khairur raaziqeen",
+      "id": "Dan orang-orang yang berhijrah di jalan Allah, kemudian mereka terbunuh atau mati, sungguh, Allah akan memberikan kepada mereka rezeki yang baik (surga). Dan sesungguhnya Allah adalah pemberi rezeki yang terbaik.",
+      "en": "And those who emigrated for the cause of Allah and then were killed or died - Allah will surely provide for them a good provision. And indeed, it is Allah who is the best of providers.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2653",
+      "tafsir": "Pada ayat yang lalu diterangkan bahwa Allah selalu menjaga Rasul, kemurnian Al-Qur’an, dan memberi balasan yang adil di akhirat. Pada ayat ini dijelaskan balasan bagi orang yang meninggal ketika hijrah pada jalan Allah. Dan orang-orang beriman yang berhijrah di jalan Allah, mengubah pola hidup yang buruk dengan pola hidup Islami, kemudian mereka terbunuh ketika memperjuangkan perubahan itu atau mati secara normal; sungguh, Allah akan memberikan kepada mereka, baik yang terbunuh maupun yang meninggal biasa, rezeki yang baik, berupa surga de-ngan segala kenikmatannya, yang kekal. Dan sesungguhnya Allah adalah pemberi rezeki yang terbaik kepada siapa saja di antara hamba-hamba-Nya yang beriman dan berhijrah pada jalan Allah."
+    },
+    {
+      "no": 59,
+      "arab": "لَيُدْخِلَنَّهُم مُّدْخَلًا يَرْضَوْنَهُ ۗ وَإِنَّ اللَّهَ لَعَلِيمٌ حَلِيمٌ",
+      "latin": "La yudkhilan nahum mud khalany yardawnah; wa innal laaha la 'Aleemun Haleem",
+      "id": "Sungguh, Dia (Allah) pasti akan memasukkan mereka ke tempat masuk (surga) yang mereka sukai. Dan sesungguhnya Allah Maha Mengetahui, Maha Penyantun.",
+      "en": "He will surely cause them to enter an entrance with which they will be pleased, and indeed, Allah is Knowing and Forbearing.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2654",
+      "tafsir": "Rezeki baik yang disebut ayat di atas adalah surga. Sungguh, Allah pasti akan memasukkan mereka, orang beriman yang berhijrah pada jalan-Nya, ke tempat masuk, yakni surga dengan segala kenikmatannya yang mereka sukai. Dan sesungguhnya Allah Maha Mengetahui segala sesuatu, Maha Penyantun kepada hamba-hamba-Nya yang beriman."
+    },
+    {
+      "no": 60,
+      "arab": "۞ ذَٰلِكَ وَمَنْ عَاقَبَ بِمِثْلِ مَا عُوقِبَ بِهِ ثُمَّ بُغِيَ عَلَيْهِ لَيَنصُرَنَّهُ اللَّهُ ۗ إِنَّ اللَّهَ لَعَفُوٌّ غَفُورٌ",
+      "latin": "Zaalika wa man 'aaqaba bimisli maa 'ooqiba bihee summa bughiya 'alaihi la yansurannahul laah; innal laaha la 'Afuwwun Ghafoor",
+      "id": "Demikianlah, dan barangsiapa membalas seimbang dengan (kezaliman) penganiayaan yang pernah dia derita kemudian dia dizalimi (lagi), pasti Allah akan menolongnya. Sungguh, Allah Maha Pemaaf, Maha Pengampun.",
+      "en": "That [is so]. And whoever responds [to injustice] with the equivalent of that with which he was harmed and then is tyrannized - Allah will surely aid him. Indeed, Allah is Pardoning and Forgiving.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2655",
+      "tafsir": "Orang beriman boleh melakukan perlawanan atau pembelaan diri jika dizalimi. Demikianlah, Allah mengizinkan kepada orang-orang beriman untuk membela diri dengan adil, dan barang siapa membalas perlakuan zalim sebanding dengan kezaliman atau penganiayaan yang pernah dia derita di masa lalu, kemudian dia dizalimi lagi, karena mempertahankan hak, pasti Allah akan menolongnya di dunia maupun di akhirat. Sungguh, Allah Maha Pemaaf kepada hamba-hamba-Nya yang memaafkan kesalahan orang lain, Maha Pengampun kepada mereka yang bertobat."
+    },
+    {
+      "no": 61,
+      "arab": "ذَٰلِكَ بِأَنَّ اللَّهَ يُولِجُ اللَّيْلَ فِي النَّهَارِ وَيُولِجُ النَّهَارَ فِي اللَّيْلِ وَأَنَّ اللَّهَ سَمِيعٌ بَصِيرٌ",
+      "latin": "Zaalika bi annal laaha yoolijul laila fin nahaari wa yoolijun nahaara fil laili wa annal laaha Samee'um Baseer",
+      "id": "Demikianlah karena Allah (kuasa) memasukkan malam ke dalam siang dan memasukkan siang ke dalam malam dan sungguh, Allah Maha Mendengar, Maha Melihat.",
+      "en": "That is because Allah causes the night to enter the day and causes the day to enter the night and because Allah is Hearing and Seeing.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2656",
+      "tafsir": "Untuk memberi pertolongan kepada orang-orang beriman yang dizalimi pasti akan ditepati. Demikianlah, janji Allah, karena Allah berkuasa memasukkan malam ke dalam siang sehingga siang di musim panas lebih panjang, dan memasukkan siang ke dalam malam sehingga malam lebih panjang di musim dingin; dan sungguh, Allah Maha Mendengar doa setiap hamba dan Maha Melihat keberadaan seluruh makhluk-Nya."
+    },
+    {
+      "no": 62,
+      "arab": "ذَٰلِكَ بِأَنَّ اللَّهَ هُوَ الْحَقُّ وَأَنَّ مَا يَدْعُونَ مِن دُونِهِ هُوَ الْبَاطِلُ وَأَنَّ اللَّهَ هُوَ الْعَلِيُّ الْكَبِيرُ",
+      "latin": "Zaalika bi annal laaha Huwal haqqu wa anna maa yad'oona min doonihee huwal baatilu wa annal laaha Huwal 'Aliyyul kabeer",
+      "id": "Demikianlah (kebesaran Allah) karena Allah, Dialah (Tuhan) Yang Hak. Dan apa saja yang mereka seru selain Dia, itulah yang batil, dan sungguh Allah, Dialah Yang Mahatinggi, Mahabesar.",
+      "en": "That is because Allah is the Truth, and that which they call upon other than Him is falsehood, and because Allah is the Most High, the Grand.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2657",
+      "tafsir": "Demikianlah, Allah memperlihatkan kekuasaan-Nya memasukkan malam ke dalam siang dan memasukkan siang ke dalam malam, karena Allah, Dialah Tuhan yang Hak sehingga hanya Dia yang berhak disembah. Dan sungguh apa saja yang mereka seru selain Dia yang dianggap tuhan dan disembah, itulah tuhan dan persembahan yang batil, salah, sesat, dan jauh dari kebenaran; dan sungguh Allah, Dialah Yang Mahatinggi dari semua tuhan-tuhan yang dianggap tinggi oleh manusia; Mahabesar, kekuasaan-Nya atas segala sesuatu."
+    },
+    {
+      "no": 63,
+      "arab": "أَلَمْ تَرَ أَنَّ اللَّهَ أَنزَلَ مِنَ السَّمَاءِ مَاءً فَتُصْبِحُ الْأَرْضُ مُخْضَرَّةً ۗ إِنَّ اللَّهَ لَطِيفٌ خَبِيرٌ",
+      "latin": "Alam tara annal laaha anzala minas samaaa'i maaa'an fatusbihul ardu mukhdarrah; innal laaha Lateefun Khabeer",
+      "id": "Tidakkah engkau memperhatikan, bahwa Allah menurunkan air (hujan) dari langit, sehingga bumi menjadi hijau? Sungguh, Allah Mahahalus, Maha Mengetahui.",
+      "en": "Do you not see that Allah has sent down rain from the sky and the earth becomes green? Indeed, Allah is Subtle and Acquainted.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2658",
+      "tafsir": "Tidakkah engkau memperhatikan fenomena alam semesta, termasuk siklus air yang terjadi dalam kehidupan kita, bahwa Allah menurunkan air hujan dari langit, kemudian sebagian air itu tersimpan pada pepohonan sehingga bumi menjadi hijau? Sungguh, Allah Mahahalus kasih sayang-Nya dengan menyediakan oksigen dan protein nabati yang diperlukan seluruh makhluk hidup, Maha Mengetahui segala sesuatu, termasuk yang paling dibutuhkan mereka."
+    },
+    {
+      "no": 64,
+      "arab": "لَّهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۗ وَإِنَّ اللَّهَ لَهُوَ الْغَنِيُّ الْحَمِيدُ",
+      "latin": "Lahoo ma fis samaawaati wa ma fil ard; wa innal laaha la Huwal Ghaniyyul Hameed",
+      "id": "Milik-Nyalah apa yang ada di langit dan apa yang ada di bumi. Dan Allah benar-benar Mahakaya, Maha Terpuji.",
+      "en": "To Him belongs what is in the heavens and what is on the earth. And indeed, Allah is the Free of need, the Praiseworthy.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2659",
+      "tafsir": "Oleh karena itu, Allah benar-benar Tuhan Yang Mengelola dan Maha Berkuasa atas jagat raya. Milik-Nyalah apa yang ada di langit dan apa yang ada di bumi sehingga tidak satu pun peristiwa yang terjadi di keduanya di luar kekuasaan-Nya. Dan Allah benar-benar Mahakaya, karena Dia pemilik mutlak langit dan bumi dengan segala isinya, Maha Terpuji, karena Dia sangat lembut kepada makhluk-Nya dan sangat teratur ciptaan-Nya."
+    },
+    {
+      "no": 65,
+      "arab": "أَلَمْ تَرَ أَنَّ اللَّهَ سَخَّرَ لَكُم مَّا فِي الْأَرْضِ وَالْفُلْكَ تَجْرِي فِي الْبَحْرِ بِأَمْرِهِ وَيُمْسِكُ السَّمَاءَ أَن تَقَعَ عَلَى الْأَرْضِ إِلَّا بِإِذْنِهِ ۗ إِنَّ اللَّهَ بِالنَّاسِ لَرَءُوفٌ رَّحِيمٌ",
+      "latin": "Alam tara annal laaha sakhkhara lakum maa fil ardi wal fulka tajree fil bahri bi amrihee wa yumsikus samaaa'a an taqa'a 'alal ardi illaa biiznih; innal laaha binnaasi la Ra'oofur Raheem",
+      "id": "Tidakkah engkau memperhatikan bahwa Allah menundukkan bagimu (manusia) apa yang ada di bumi dan kapal yang berlayar di lautan dengan perintah-Nya. Dan Dia menahan (benda-benda) langit agar tidak jatuh ke bumi, melainkan dengan izin-Nya? Sungguh, Allah Maha Pengasih, Maha Penyayang kepada manusia.",
+      "en": "Do you not see that Allah has subjected to you whatever is on the earth and the ships which run through the sea by His command? And He restrains the sky from falling upon the earth, unless by His permission. Indeed Allah, to the people, is Kind and Merciful.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2660",
+      "tafsir": "Disamping mengajak Nabi untuk memperhatikan dan memikirkan proses turunnya hujan dari langit, Allah juga mengajak Nabi untuk memperhatikan kekuasaan-Nya yang lain dengan bertanya, \"Tidakkah engkau, Muhammad, memperhatikan dengan nalar dan kalbu bahwa Allah menundukkan bagimu, manusia, apa yang ada di perut bumi, maupun yang di permukaannya, di darat maupun laut, berbagai jenis hewan, tumbuh-tumbuhan, dan berbagai jenis makhluk hidup bagi kepentingan kamu. Dan apakah kamu tidak memperhatikan kapal yang berlayar di lautan, terapung meskipun membawa beban yang berat menempuh jarak ribuan mil dengan mematuhi perintah-Nya, hukum alam ciptaan Allah? Dan, apakah kamu tidak memperhatikan bahwa Dia, Allah, menahan benda-benda langit, matahari, bulan, bintang, dan berbagai planet agar tidak jatuh ke bumi, yang akan menghancurkan kehidupan manusia, kecuali dengan izin-Nya? Sungguh, Allah Maha Penyantun kepada seluruh makhluk, Maha Penyayang kepada manusia yang beriman dengan memasukkan mereka ke dalam surga.\""
+    },
+    {
+      "no": 66,
+      "arab": "وَهُوَ الَّذِي أَحْيَاكُمْ ثُمَّ يُمِيتُكُمْ ثُمَّ يُحْيِيكُمْ ۗ إِنَّ الْإِنسَانَ لَكَفُورٌ",
+      "latin": "Wa Huwal lazee ahyaakum summa yumeetukum summma yuheekum; innal insaana lakafoor",
+      "id": "Dan Dialah yang menghidupkan kamu, kemudian mematikan kamu, kemudian menghidupkan kamu kembali (pada hari kebangkitan). Sungguh, manusia itu sangat kufur nikmat.",
+      "en": "And He is the one who gave you life; then He causes you to die and then will [again] give you life. Indeed, mankind is ungrateful.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2661",
+      "tafsir": "Allah tidak hanya menjadikan alam sebagai fasilitas bagi hidup dan kehidupan manusia dan menahan benda-benda langit agar tidak berjatuhan, tetapi juga menegaskan, “Dan Dia-lah yang menghidupkan kamu dengan meniupkan roh ke dalam dirimu, ketika kamu masih berupa janin, lalu kamu tumbuh dan berkembang; kemudian mematikan kamu dengan mencabut roh dari diri kamu, kemudian menghidupkan kamu kembali dalam kehidupan baru pada hari kebangkitan. Sungguh, manusia itu sangat kufur dan menutup diri dari nikmat Allah."
+    },
+    {
+      "no": 67,
+      "arab": "لِّكُلِّ أُمَّةٍ جَعَلْنَا مَنسَكًا هُمْ نَاسِكُوهُ ۖ فَلَا يُنَازِعُنَّكَ فِي الْأَمْرِ ۚ وَادْعُ إِلَىٰ رَبِّكَ ۖ إِنَّكَ لَعَلَىٰ هُدًى مُّسْتَقِيمٍ",
+      "latin": "Likulli ummatin ja'alnaa mansakan hum naasikoohu falaa yunaazi 'unnaka fil amr; wad'u ilaa Rabbika innaka la 'alaa hudam mustaqeem",
+      "id": "Bagi setiap umat telah Kami tetapkan syariat tertentu yang (harus) mereka amalkan, maka tidak sepantasnya mereka berbantahan dengan engkau dalam urusan (syariat) ini dan serulah (mereka) kepada Tuhanmu. Sungguh, engkau (Muhammad) berada di jalan yang lurus.",
+      "en": "For every religion We have appointed rites which they perform. So, [O Muhammad], let the disbelievers not contend with you over the matter but invite them to your Lord. Indeed, you are upon straight guidance.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2662",
+      "tafsir": "Bagi setiap umat, seperti Yahudi dan Nasrani, telah Kami tetapkan melalui para utusan Allah cara beribadah yang harus mereka amalkan guna mendekatkan diri kepada-Nya. Maka tidak sepantasnya mereka, kaum Yahudi dan Nasrani, berbantahan dengan engkau, Muhammad, dalam urusan cara beribadah kepada Allah ini; dan serulah kaum Yahudi dan Nasrani itu kepada Tuhanmu untuk beriman kepada Al-Qur’an. Sungguh, engkau Muhammad, berada di jalan yang lurus, baik dalam bidang akidah, ibadah (syariah), maupun akhlak."
+    },
+    {
+      "no": 68,
+      "arab": "وَإِن جَادَلُوكَ فَقُلِ اللَّهُ أَعْلَمُ بِمَا تَعْمَلُونَ",
+      "latin": "Wa in jaadalooka faqulil laahu a'lamu bimaa ta'maloon",
+      "id": "Dan jika mereka membantah engkau, maka katakanlah, “Allah lebih tahu tentang apa yang kamu kerjakan.”",
+      "en": "And if they dispute with you, then say, \"Allah is most knowing of what you do.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2663",
+      "tafsir": "Dan jika mereka, kaum Yahudi dan Nasrani, membantah engkau, Muhammad, ketika engkau mengajarkan tauhid yang lurus, ibadah yang sempurna, dan akhlak yang mulia; maka katakanlah kepada ahli kitab, Yahudi dan Nasrani yang membantah kamu itu, “Allah lebih tahu tentang apa yang kamu kerjakan,” karena Allah benar-benar mengetahui yang tampak maupun yang tersembunyi."
+    },
+    {
+      "no": 69,
+      "arab": "اللَّهُ يَحْكُمُ بَيْنَكُمْ يَوْمَ الْقِيَامَةِ فِيمَا كُنتُمْ فِيهِ تَخْتَلِفُونَ",
+      "latin": "Allaahu yahkumu bainakum Yawmal Qiyaamati feemaa kuntum feehi takhtalifoon",
+      "id": "Allah akan mengadili di antara kamu pada hari Kiamat tentang apa yang dahulu kamu memperselisihkannya.",
+      "en": "Allah will judge between you on the Day of Resurrection concerning that over which you used to differ.\"",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2664",
+      "tafsir": "Allah tidak hanya mengetahui perbuatan kamu yang tampak maupun yang tersembunyi, tetapi juga mengadili di antara kamu pada hari Kiamat sehingga terungkap siapa yang salah dan siapa yang benar tentang apa yang dahulu, seperti waktu kamu hidup bersama Rasulullah di Madinah, kamu perselisihkan tentang kebenaran Al-Qur’an sebagai wahyu Allah dan kerasulan Nabi Muhammad."
+    },
+    {
+      "no": 70,
+      "arab": "أَلَمْ تَعْلَمْ أَنَّ اللَّهَ يَعْلَمُ مَا فِي السَّمَاءِ وَالْأَرْضِ ۗ إِنَّ ذَٰلِكَ فِي كِتَابٍ ۚ إِنَّ ذَٰلِكَ عَلَى اللَّهِ يَسِيرٌ",
+      "latin": "Alam ta'lam annal laaha ya'lamu maa fis samaaa'i wal ard; inna zaalika fee kitaab; inna zaalika 'alal laahi yaseer",
+      "id": "Tidakkah engkau tahu bahwa Allah mengetahui apa yang di langit dan di bumi? Sungguh, yang demikian itu sudah terdapat dalam sebuah Kitab (Lauh Mahfuzh). Sesungguhnya yang demikian itu sangat mudah bagi Allah.",
+      "en": "Do you not know that Allah knows what is in the heaven and earth? Indeed, that is in a Record. Indeed that, for Allah, is easy.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2665",
+      "tafsir": "Tidakkah engkau, Muhammad, tahu dengan ilmu yakin bahwa Allah mengetahui apa yang di langit, seperti malaikat dan benda-benda langit, dan seluruh makhluk Allah yang berada di bumi, baik yang kasat mata maupun tersembunyi bagi manusia? Sungguh, yang demikian itu bahwa Allah mengetahui secara detil dan terperinci semua ciptaan-Nya di langit maupun di bumi, sudah terdapat dalam sebuah Kitab induk yang tersimpan di Lauh Mahfuzh Sesungguhnya yang demikian itu, tercatatnya data seluruh ciptaan Allah pada sebuah buku induk, sangat mudah bagi Allah, karena Allah Tuhan Yang Memelihara seluruh alam."
+    },
+    {
+      "no": 71,
+      "arab": "وَيَعْبُدُونَ مِن دُونِ اللَّهِ مَا لَمْ يُنَزِّلْ بِهِ سُلْطَانًا وَمَا لَيْسَ لَهُم بِهِ عِلْمٌ ۗ وَمَا لِلظَّالِمِينَ مِن نَّصِيرٍ",
+      "latin": "Wa ya'budoona min doonil laahi maa lam yunazzil bihee sultaananw wa maa laisa lahum bihee 'ilm; wa maa lizzaalimeena min naseer",
+      "id": "Dan mereka menyembah selain Allah, tanpa dasar yang jelas tentang itu, dan mereka tidak mempunyai pengetahuan (pula) tentang itu. Bagi orang-orang yang zalim tidak ada seorang penolong pun.",
+      "en": "And they worship besides Allah that for which He has not sent down authority and that of which they have no knowledge. And there will not be for the wrongdoers any helper.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2666",
+      "tafsir": "Dan mereka, orang-orang kafir itu, menyembah tuhan selain Allah dengan bangga, tanpa merasa bersalah, tanpa dasar yang jelas tentang itu, baik yang bersumber dari akal sehat, nurani, apa lagi dari wahyu; dan mereka pun tidak mempunyai pengetahuan yang menjadi dasar penyembahan tuhan selain Allah itu. Allah menegaskan bahwa bagi orang-orang yang zalim, yakni orang-orang yang menyembah tuhan selain Allah, akan kekal di dalam neraka. Tidak ada seorang penolong pun yang dapat menyelamatkan mereka dari azab yang pedih itu."
+    },
+    {
+      "no": 72,
+      "arab": "وَإِذَا تُتْلَىٰ عَلَيْهِمْ آيَاتُنَا بَيِّنَاتٍ تَعْرِفُ فِي وُجُوهِ الَّذِينَ كَفَرُوا الْمُنكَرَ ۖ يَكَادُونَ يَسْطُونَ بِالَّذِينَ يَتْلُونَ عَلَيْهِمْ آيَاتِنَا ۗ قُلْ أَفَأُنَبِّئُكُم بِشَرٍّ مِّن ذَٰلِكُمُ ۗ النَّارُ وَعَدَهَا اللَّهُ الَّذِينَ كَفَرُوا ۖ وَبِئْسَ الْمَصِيرُ",
+      "latin": "Wa izaa tutlaa 'laihim Aayaatunaa baiyinaatin ta'rifu fee wujoohil lazeena kafarul munkara yakaadoona yastoona bil lazeena yatloona 'alaihim Aayaatinaa; qul afa unab bi'ukum bisharrim min zaalikum; an Naaru wa 'adahal laahul lazeena kafaroo wa bi'sal maseer",
+      "id": "Dan apabila dibacakan di hadapan mereka ayat-ayat Kami yang terang, niscaya engkau akan melihat (tanda-tanda) keingkaran pada wajah orang-orang yang kafir itu. Hampir-hampir mereka menyerang orang-orang yang membacakan ayat-ayat Kami kepada mereka. Katakanlah (Muhammad), “Apakah akan aku kabarkan kepada-mu (mengenai sesuatu) yang lebih buruk dari itu, (yaitu) neraka?” Allah telah mengancamkannya (neraka) kepada orang-orang kafir. Dan (neraka itu) seburuk-buruk tempat kembali.",
+      "en": "And when Our verses are recited to them as clear evidences, you recognize in the faces of those who disbelieve disapproval. They are almost on the verge of assaulting those who recite to them Our verses. Say, \"Then shall I inform you of [what is] worse than that? [It is] the Fire which Allah has promised those who disbelieve, and wretched is the destination.\"",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2667",
+      "tafsir": "Orang-orang kafir tidak hanya menyembah tuhan selain Allah, tetapi juga apabila dibacakan di hadapan mereka, oleh Nabi atau para sahabat, ayat-ayat Kami yang berisi ajaran tauhid, ibadah, dan akhlak yang terang, karena rasional atau masuk akal, niscaya engkau akan melihat tanda-tanda keingkaran pada wajah orang-orang yang kafir itu terhadap ajaran tauhid, ibadah, dan akhlak. Kemarahan mereka kepada orang yang membacakan ayat itu demikian dahsyat. Hampir-hampir mereka menyerang para mubalig, orang-orang yang membacakan ayat-ayat Kami kepada mereka sehingga mengancam keselamatan mereka. Katakanlah, wahai Muhammad kepada orang-orang kafir itu, “Apakah kamu bersedia mendengarkan, akan aku kabarkan kepada kamu sesuatu yang lebih buruk dari itu, yaitu neraka?” Allah telah menjadikan neraka ancaman yang membahayakan kepada orang-orang kafir. Dan neraka itu seburuk-buruk tempat kembali di akhirat."
+    },
+    {
+      "no": 73,
+      "arab": "يَا أَيُّهَا النَّاسُ ضُرِبَ مَثَلٌ فَاسْتَمِعُوا لَهُ ۚ إِنَّ الَّذِينَ تَدْعُونَ مِن دُونِ اللَّهِ لَن يَخْلُقُوا ذُبَابًا وَلَوِ اجْتَمَعُوا لَهُ ۖ وَإِن يَسْلُبْهُمُ الذُّبَابُ شَيْئًا لَّا يَسْتَنقِذُوهُ مِنْهُ ۚ ضَعُفَ الطَّالِبُ وَالْمَطْلُوبُ",
+      "latin": "Yaaa ayyuhan naasu duriba masalun fastami'oo lah; innal lazeena tad'oona min doonil laahi lai yakhluqoo zubaabanw wa lawijtama'oo lahoo wa iny yaslub humuz zubbabu shai'al laa yastan qizoohu minh; da'ufat taalibu walmatloob",
+      "id": "Wahai manusia! Telah dibuat suatu perumpamaan. Maka dengarkanlah! Sesungguhnya segala yang kamu seru selain Allah tidak dapat menciptakan seekor lalat pun, walaupun mereka bersatu untuk menciptakannya. Dan jika lalat itu merampas sesuatu dari mereka, mereka tidak akan dapat merebutnya kembali dari lalat itu. Sama lemahnya yang menyembah dan yang disembah.",
+      "en": "O people, an example is presented, so listen to it. Indeed, those you invoke besides Allah will never create [as much as] a fly, even if they gathered together for that purpose. And if the fly should steal away from them a [tiny] thing, they could not recover it from him. Weak are the pursuer and pursued.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2668",
+      "tafsir": "Allah menjelaskan bagaimana kualitas tuhan-tuhan selain Allah yang disembah oleh orang-orang kafir. Wahai manusia! Perhatikanlah dengan cermat, telah dibuat suatu perumpamaan yang harus dijadikan renungan oleh kamu. Maka dengarkanlah dengan saksama! Sesungguhnya semua tuhan selain Allah yang kamu seru dalam ritual kamu tidak dapat menciptakan seekor lalat pun, yang menunjukkan ketidakpantasan tuhan-tuhan selain Allah itu dijadikan tuhan, walaupun mereka bersatu dalam sebuah tim untuk menciptakannya. Dan jika lalat itu merampas sesuatu dari mereka, mereka tuhan-tuhan selain Allah itu tidak akan dapat merebutnya kembali dari lalat itu, karena patung-patung yang disembah itu benda mati. Sama lemahnya yang menyembah dan yang disembah, karena keduanya sama-sama makhluk Allah yang tidak mampu menciptakan apapun baik makhluk hidup maupun benda mati."
+    },
+    {
+      "no": 74,
+      "arab": "مَا قَدَرُوا اللَّهَ حَقَّ قَدْرِهِ ۗ إِنَّ اللَّهَ لَقَوِيٌّ عَزِيزٌ",
+      "latin": "Maa qadrul laaha haqqa qadrih; innal laaha la Qawiyyun 'Azeez",
+      "id": "Mereka tidak mengagungkan Allah dengan sebenar-benarnya. Sungguh, Allah Mahakuat, Mahaperkasa.",
+      "en": "They have not appraised Allah with true appraisal. Indeed, Allah is Powerful and Exalted in Might.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2669",
+      "tafsir": "Manusia yang menyembah tuhan selain Allah sejatinya mereka tidak mengagungkan Allah dengan sebenar-benarnya, bahkan merendahkan-Nya dengan tidak mengibadati-Nya. Sesungguhnya Allah benar-benar Mahakuat meskipun tidak dijadikan tuhan oleh mereka dan Mahaperkasa untuk mengalahkan tuhan-tuhan selain Dia."
+    },
+    {
+      "no": 75,
+      "arab": "اللَّهُ يَصْطَفِي مِنَ الْمَلَائِكَةِ رُسُلًا وَمِنَ النَّاسِ ۚ إِنَّ اللَّهَ سَمِيعٌ بَصِيرٌ",
+      "latin": "Allahu yastafee minal malaaa'ikati Rusulanw wa minan naas; innal laaha Samee'um Baseer",
+      "id": "Allah memilih para utusan(-Nya) dari malaikat dan dari manusia. Sesungguhnya Allah Maha Mendengar, Maha Melihat.",
+      "en": "Allah chooses from the angels messengers and from the people. Indeed, Allah is Hearing and Seeing.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2670",
+      "tafsir": "Allah memilih para utusan-Nya dari malaikat untuk menyampaikan wahyu kepada para nabi dan rasul, dan juga memilih dari manusia, sejak Nabi Adam hingga Nabi Muhammad, karena kasih sayang-Nya kepada manusia untuk menjelaskan kepada mereka bahwa sesungguhnya tidak ada tuhan selain Allah dan tidak layak beribadah kecuali kepada-Nya. Sesungguhnya Allah Maha Mendengar semua pembi-caraan makhluk, baik yang terucap maupun yang tersimpan dalam hati; Maha Melihat seluruh ciptaan-Nya, baik yang di langit maupun di perut bumi."
+    },
+    {
+      "no": 76,
+      "arab": "يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ ۗ وَإِلَى اللَّهِ تُرْجَعُ الْأُمُورُ",
+      "latin": "Ya'lamu maa baina aydeehim wa maa khalfahum; wa ilal laahi turja'ul umoor",
+      "id": "Dia (Allah) mengetahui apa yang di hadapan mereka dan apa yang di belakang mereka. Dan hanya kepada Allah dikembalikan segala urusan.",
+      "en": "He knows what is [presently] before them and what will be after them. And to Allah will be returned [all] matters.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2671",
+      "tafsir": "Allah tidak hanya Maha Mendengar dan Maha Melihat, tetapi Dia juga mengetahui apa yang di hadapan mereka, yang belum terjadi, karena pengetahuan Allah tidak terikat oleh ruang dan waktu, dan mengetahui pula apa yang di belakang mereka, yang sudah terjadi di masa silam. Oleh karena itu, manusia harus meyakini dengan penuh keinsafan bahwa hanya kepada Allah dikembalikan segala urusan, karena sesungguhnya Allah yang mengurus seluruh alam dan seluruh manusia akan kembali menghadap Allah di akhirat."
+    },
+    {
+      "no": 77,
+      "arab": "يَا أَيُّهَا الَّذِينَ آمَنُوا ارْكَعُوا وَاسْجُدُوا وَاعْبُدُوا رَبَّكُمْ وَافْعَلُوا الْخَيْرَ لَعَلَّكُمْ تُفْلِحُونَ ۩",
+      "latin": "Yaaa ayyuhal lazeena aamanur ka'oo wasjudoo wa'budoo Rabbakum waf'alul khaira la'allakum tuflihoon",
+      "id": "Wahai orang-orang yang beriman! Rukuklah, sujudlah, dan sembahlah Tuhanmu; dan berbuatlah kebaikan, agar kamu beruntung.",
+      "en": "O you who have believed, bow and prostrate and worship your Lord and do good - that you may succeed.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2672",
+      "tafsir": "Orang beriman diperintahkan untuk beribadah kepada Allah Yang Maha Mengetahui keadaan manusia. Wahai orang-orang yang beriman, karena kamu sudah membenarkan dan meyakini bahwa sesungguhnya tidak ada tuhan selain Allah, maka rukuklah, sujudlah, dan beribadahlah kepada Tuhanmu dengan melaksanakan salat wajib dan berbagai salat sunah, dan sebagai dampak ketekunan beribadah tersebut, maka berbuatlah kebaikan kepada sesama manusia agar kamu beruntung dalam kehidupan pribadi, keluarga dan masyarakat."
+    },
+    {
+      "no": 78,
+      "arab": "وَجَاهِدُوا فِي اللَّهِ حَقَّ جِهَادِهِ ۚ هُوَ اجْتَبَاكُمْ وَمَا جَعَلَ عَلَيْكُمْ فِي الدِّينِ مِنْ حَرَجٍ ۚ مِّلَّةَ أَبِيكُمْ إِبْرَاهِيمَ ۚ هُوَ سَمَّاكُمُ الْمُسْلِمِينَ مِن قَبْلُ وَفِي هَٰذَا لِيَكُونَ الرَّسُولُ شَهِيدًا عَلَيْكُمْ وَتَكُونُوا شُهَدَاءَ عَلَى النَّاسِ ۚ فَأَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ وَاعْتَصِمُوا بِاللَّهِ هُوَ مَوْلَاكُمْ ۖ فَنِعْمَ الْمَوْلَىٰ وَنِعْمَ النَّصِيرُ",
+      "latin": "Wa jaahidoo fil laahi haqqa jihaadih; Huwaj tabaakum wa maa ja'ala 'alaikum fid deeni min haraj; Millata abeekum Ibraaheem; Huwa sammaakumul muslimeena min qablu wa fee haaza li yakoonar Rasoolu shaheedan 'alaikum wa takoonoo shuhadaaa'a 'alan naas; fa aqeemus salaata wa aatuz zakaata wa'tasimoo billaahi Huwa mawlaakum fani'mal mawlaa wa ni'man naseer",
+      "id": "Dan berjihadlah kamu di jalan Allah dengan jihad yang sebenar-benarnya. Dia telah memilih kamu, dan Dia tidak menjadikan kesukaran untukmu dalam agama. (Ikutilah) agama nenek moyangmu Ibrahim. Dia (Allah) telah menamakan kamu orang-orang muslim sejak dahulu, dan (begitu pula) dalam (Al-Qur'an) ini, agar Rasul (Muhammad) itu menjadi saksi atas dirimu dan agar kamu semua menjadi saksi atas segenap manusia. Maka laksanakanlah salat; tunaikanlah zakat, dan berpegangteguhlah kepada Allah. Dialah Pelindungmu; Dia sebaik-baik pelindung dan sebaik-baik penolong.",
+      "en": "And strive for Allah with the striving due to Him. He has chosen you and has not placed upon you in the religion any difficulty. [It is] the religion of your father, Abraham. Allah named you \"Muslims\" before [in former scriptures] and in this [revelation] that the Messenger may be a witness over you and you may be witnesses over the people. So establish prayer and give zakah and hold fast to Allah. He is your protector; and excellent is the protector, and excellent is the helper.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2673",
+      "tafsir": "Setelah dijelaskan pada ayat di atas bahwa untuk meraih keberuntungan, orang beriman diperintahkan untuk beribadah kepada Allah dan berbuat baik kepada sesama manusia, pada ayat ini dijelaskan bahwa untuk meraih keberuntungan, orang beriman diperintahkan untuk berjihad pada jalan Allah. Untuk meraih keberuntungan itu, beribadahlah kamu, wahai orang-orang yang beriman, dan berjihadlah kamu di jalan Allah, yakni mencurahkan seluruh potensi dan kemampuan untuk mengharumkan Islam dan kaum muslim dengan jihad yang sebenar-benarnya, perjuangan yang total dalam menggali seluruh potensi dan kemampuan. Dia telah memilih kamu, wahai Muhammad untuk menjadi nabi dan rasul pamungkas; dan Dia, Allah, tidak menjadikan kesukaran untukmu dalam agama, yakni dalam melaksanakan ajaran Islam ini, karena Islam menekankan prinsip memudahkan, meminimalkan beban, dan bertahap dalam menetapkan syariah, hukum agama. Memeluk Islam dan menjadi muslim itu merupakan kelanjutan dari agama nenek moyangmu Ibrahim, yakni meyakini tidak ada tuhan selain Allah dan tidak beribadah kecuali kepada-Nya. Dia (Allah) telah menamakan kamu, orang-orang yang meyakini prinsip tauhid itu, adalah orang-orang muslim, berserah diri kepada Allah, sejak dahulu, dan begitu pula kamu dinamakan muslim dalam Al-Qur’an ini, agar Rasul, Nabi Muhammad itu menjadi saksi atas diri kamu semua dalam mengamalkan ajaran Islam dan agar kamu semua menjadi saksi atas segenap manusia dalam mewujudkan prinsip tidak ada tuhan selain Allah dan tidak beribadah kecuali kepada-Nya. Maka, sejalan dengan prinsip tersebut, laksanakanlah salat dengan baik dan benar sesuai syarat dan rukunnya, serta tepat waktu; tunaikanlah zakat dengan sempurna, dan berpegangteguhlah kepada Allah dalam pikiran dan perasaan. Dialah Pelindungmu dari segala bencana dunia-akhirat; Dia sebaik-baik pelindung dan sebaik-baik penolong bagi manusia dan seluruh makhluk."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "database-siesta",
+  "version": "1.0.0",
+  "description": "Database For My whatsApp Bot",
+  "main": "app.js",
+  "type":"module",
+  "scripts": {
+    "start": "nodemon --ext js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SatzzDev/database.git"
+  },
+  "keywords": [
+    "wa",
+    "bot",
+    "bot",
+    "wa",
+    "satzzdev",
+    "kurniawansatria",
+    "satganzdevs",
+    "satzzdevs",
+    "siesta",
+    "siesta-md",
+    "wabot",
+    "siesta"
+  ],
+  "author": "SatzzDev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SatzzDev/database/issues"
+  },
+  "homepage": "https://github.com/SatzzDev/database#readme",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "cheerio": "^1.0.0",
+    "cli-spinners": "^3.2.0",
+    "fake-useragent": "^1.0.1",
+    "form-data": "^4.0.1"
+  }
+}

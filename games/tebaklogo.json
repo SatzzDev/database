@@ -1,0 +1,316 @@
+{
+  "creator": "@krniwnstria",
+  "total_soal": 62,
+  "result": [
+    {
+      "index": 1,
+      "name": "Pou",
+      "image": "https://telegra.ph/file/7b49aec21f70b240a483c.jpg"
+    },
+    {
+      "index": 2,
+      "name": "Clash of Clans",
+      "image": "https://telegra.ph/file/a92eaee86b47f19806547.jpg"
+    },
+    {
+      "index": 3,
+      "name": "Clash Royale",
+      "image": "https://telegra.ph/file/c60b6fa2035fd6e5c064e.jpg"
+    },
+    {
+      "index": 4,
+      "name": "Boom Beach",
+      "image": "https://telegra.ph/file/864b17bfd136c4e2ef66a.jpg"
+    },
+    {
+      "index": 5,
+      "name": "Hay Day",
+      "image": "https://telegra.ph/file/395b7c8b5f3a214812da7.jpg"
+    },
+    {
+      "index": 6,
+      "name": "Counter Strike",
+      "image": "https://telegra.ph/file/6f58e93b1aa4d6277a644.jpg"
+    },
+    {
+      "index": 7,
+      "name": "Grand Theft Auto San Andreas",
+      "image": "https://telegra.ph/file/bc8041c20a8282da8671c.jpg"
+    },
+    {
+      "index": 8,
+      "name": "Genshin Impact",
+      "image": "https://telegra.ph/file/6910bff16aa14fb5f7257.jpg"
+    },
+    {
+      "index": 9,
+      "name": "Honkai Impact",
+      "image": "https://telegra.ph/file/e76dd40947ff1f9cd7db0.jpg"
+    },
+    {
+      "index": 10,
+      "name": "Subway Surfers",
+      "image": "https://telegra.ph/file/3b01abbc61ca28b32ff49.jpg"
+    },
+    {
+      "index": 11,
+      "name": "Temple Run",
+      "image": "https://telegra.ph/file/97c99233469661995a0fe.jpg"
+    },
+    {
+      "index": 12,
+      "name": "My Talking Tom",
+      "image": "https://telegra.ph/file/dda127295cd5777e80345.png"
+    },
+    {
+      "index": 13,
+      "name": "Talking Angela",
+      "image": "https://telegra.ph/file/6a512b0c962237ffebbac.jpg"
+    },
+    {
+      "index": 14,
+      "name": "Piano Tiles 2",
+      "image": "https://telegra.ph/file/e91627db813bf4c01295c.png"
+    },
+    {
+      "index": 15,
+      "name": "Henry Stickmin",
+      "image": "https://telegra.ph/file/4e073a376d85c8369cd41.jpg"
+    },
+    {
+      "index": 16,
+      "name": "Lost Saga",
+      "image": "https://telegra.ph/file/06a8c2dc6905264fc7acc.jpg"
+    },
+    {
+      "index": 17,
+      "name": "Iron Saga",
+      "image": "https://telegra.ph/file/68267e6a03f2dca25e8dd.jpg"
+    },
+    {
+      "index": 18,
+      "name": "Minecraft",
+      "image": "https://telegra.ph/file/2980bc88b801cf8190de0.jpg"
+    },
+    {
+      "index": 19,
+      "name": "Resident Evil 4",
+      "image": "https://telegra.ph/file/fab8d8372f24a930c54b8.jpg"
+    },
+    {
+      "index": 20,
+      "name": "Grand Theft Auto Vice City",
+      "image": "https://telegra.ph/file/93cc65f55baaf2840d73b.jpg"
+    },
+    {
+      "index": 21,
+      "name": "Grand Theft Auto V",
+      "image": "https://telegra.ph/file/ef2e5bc27c62ffd22d105.jpg"
+    },
+    {
+      "index": 22,
+      "name": "Guitar Hero",
+      "image": "https://telegra.ph/file/cfe8895f719582486e637.jpg"
+    },
+    {
+      "index": 23,
+      "name": "Bully",
+      "image": "https://telegra.ph/file/3b6a7610c87abad4bca3d.jpg"
+    },
+    {
+      "index": 24,
+      "name": "League of Legends",
+      "image": "https://telegra.ph/file/b75e2142588fe6d567207.jpg"
+    },
+    {
+      "index": 25,
+      "name": "Dota 2",
+      "image": "https://telegra.ph/file/d1c5903328ca1eb9e7100.jpg"
+    },
+    {
+      "index": 26,
+      "name": "Mobile Legends Bang Bang",
+      "image": "https://telegra.ph/file/3fec7da7c6762cb9989b4.jpg"
+    },
+    {
+      "index": 27,
+      "name": "Point Blank",
+      "image": "https://telegra.ph/file/0b698504c9ed88fffae51.jpg"
+    },
+    {
+      "index": 28,
+      "name": "Basara",
+      "image": "https://telegra.ph/file/24126e011c821ee38b7fc.jpg"
+    },
+    {
+      "index": 29,
+      "name": "Mortal Combat Shaolin Monks",
+      "image": "https://telegra.ph/file/72f55035f68a6e347dd13.jpg"
+    },
+    {
+      "index": 30,
+      "name": "Metal Slug",
+      "image": "https://telegra.ph/file/9ddfcde7a04cfbe7ffb5b.jpg"
+    },
+    {
+      "index": 31,
+      "name": "Downhill",
+      "image": "https://telegra.ph/file/876178b79b966f51f2ae3.jpg"
+    },
+    {
+      "index": 32,
+      "name": "Plants Vs Zombie",
+      "image": "https://telegra.ph/file/7bd6e614346b295267d2c.jpg"
+    },
+    {
+      "index": 33,
+      "name": "Zuma",
+      "image": "https://telegra.ph/file/a23466ade02fb4139eb56.jpg"
+    },
+    {
+      "index": 34,
+      "name": "Insaniquarium",
+      "image": "https://telegra.ph/file/47f581c076bdad5b3d139.jpg"
+    },
+    {
+      "index": 35,
+      "name": "Platypus",
+      "image": "https://telegra.ph/file/83d16a4600502050c3f6f.jpg"
+    },
+    {
+      "index": 36,
+      "name": "Rumble Racing",
+      "image": "https://telegra.ph/file/5b817550f7e9445395835.jpg"
+    },
+    {
+      "index": 37,
+      "name": "Arena Of Valor",
+      "image": "https://telegra.ph/file/ab5a235f96da96b162f22.jpg"
+    },
+    {
+      "index": 38,
+      "name": "Onmyoji Arena",
+      "image": "https://telegra.ph/file/f5446bba0b0d2eab2aefd.jpg"
+    },
+    {
+      "index": 39,
+      "name": "League Of Legend",
+      "image": "https://telegra.ph/file/90dfdd375571b3a3d6b77.jpg"
+    },
+    {
+      "index": 40,
+      "name": "Legend Of Ace",
+      "image": "https://telegra.ph/file/296338833bb6281e6a524.jpg"
+    },
+    {
+      "index": 41,
+      "name": "CarX Street",
+      "image": "https://telegra.ph/file/532dd38f2a16ff98e646d.jpg"
+    },
+    {
+      "index": 42,
+      "name": "Honor Of King",
+      "image": "https://telegra.ph/file/e40bc54f7d6fc71a01d83.jpg"
+    },
+    {
+      "index": 43,
+      "name": "Dead By Deadlight Mobile",
+      "image": "https://telegra.ph/file/1f5af576eba039024750e.jpg"
+    },
+    {
+      "index": 44,
+      "name": "Dynasty Legends 2",
+      "image": "https://telegra.ph/file/e4a2bbb81b60b39a33118.jpg"
+    },
+    {
+      "index": 45,
+      "name": "Mobile Legend Adventure",
+      "image": "https://telegra.ph/file/e387071b67170eca4a384.jpg"
+    },
+    {
+      "index": 46,
+      "name": "PUBG Mobile",
+      "image": "https://telegra.ph/file/95100a9d6614118685440.jpg"
+    },
+    {
+      "index": 47,
+      "name": "Hill Climb",
+      "image": "https://telegra.ph/file/e5211b6c9665c97afe2a2.jpg"
+    },
+    {
+      "index": 48,
+      "name": "Honkai Star Rail",
+      "image": "https://telegra.ph/file/29404918330550b4019fb.jpg"
+    },
+    {
+      "index": 49,
+      "name": "Talking Angela",
+      "image": "https://telegra.ph/file/3fba2768aa227ef3196de.jpg"
+    },
+    {
+      "index": 50,
+      "name": "https://telegra.ph/file/d83850ff85019ed5c1c54.jpg",
+      "image": "PGR"
+    },
+    {
+      "index": 51,
+      "name": "Free Fire",
+      "image": "https://telegra.ph/file/f1bab763f7576977a1b38.jpg"
+    },
+    {
+      "index": 52,
+      "name": "Temple Run 2",
+      "image": "https://telegra.ph/file/44b31590ec1d34af9da93.jpg"
+    },
+    {
+      "index": 53,
+      "name": "Zona Cacing.io",
+      "image": "https://telegra.ph/file/e303da362f06632981722.jpg"
+    },
+    {
+      "index": 54,
+      "name": "Astral Guardians",
+      "image": "https://telegra.ph/file/9cd682a8fa684043e83f4.jpg"
+    },
+    {
+      "index": 55,
+      "name": "Angry Bird 2",
+      "image": "https://telegra.ph/file/f5131df0f0229fc1ea2f9.jpg"
+    },
+    {
+      "index": 56,
+      "name": "Free Fire MAX",
+      "image": "https://telegra.ph/file/ec29fd2f9b3e58de2193c.jpg"
+    },
+    {
+      "index": 57,
+      "name": "Subway Surfers",
+      "image": "https://telegra.ph/file/76e215aa89798f5c3972a.jpg"
+    },
+    {
+      "index": 58,
+      "name": "Super Mario Run",
+      "image": "https://telegra.ph/file/336485d0a7ffd7f028396.jpg"
+    },
+    {
+      "index": 59,
+      "name": "Zombie Tsunami",
+      "image": "https://telegra.ph/file/29c10c800e19cd9754519.jpg"
+    },
+    {
+      "index": 60,
+      "name": "Robbery Bob",
+      "image": "https://telegra.ph/file/015e1d35d271ed84d7fe7.jpg"
+    },
+    {
+      "index": 61,
+      "name": "Sonic Dash",
+      "image": "https://telegra.ph/file/a152847d9cef190c8a88a.jpg"
+    },
+    {
+      "index": 62,
+      "name": "Anger Of Stick 5",
+      "image": "https://telegra.ph/file/c7d8bca8f2193911a7db4.jpg"
+    }
+  ]
+}

@@ -1,0 +1,901 @@
+{
+  "creator": "@krniwnstria",
+  "total_soal": 179,
+  "result": [
+    {
+      "index": 1,
+      "soal": "🇨🇬",
+      "jawaban": "Kongo - Brazzaville"
+    },
+    {
+      "index": 2,
+      "soal": "🇦🇽",
+      "jawaban": "Kepulauan Åland"
+    },
+    {
+      "index": 3,
+      "soal": "🇰🇲",
+      "jawaban": "Komoro"
+    },
+    {
+      "index": 4,
+      "soal": "🇨🇦",
+      "jawaban": "Kanada"
+    },
+    {
+      "index": 5,
+      "soal": "🇬🇾",
+      "jawaban": "Guyana"
+    },
+    {
+      "index": 6,
+      "soal": "🇦🇸",
+      "jawaban": "Samoa Amerika"
+    },
+    {
+      "index": 7,
+      "soal": "🇸🇴",
+      "jawaban": "Somalia"
+    },
+    {
+      "index": 8,
+      "soal": "🇰🇷",
+      "jawaban": "Korea Selatan"
+    },
+    {
+      "index": 9,
+      "soal": "🇲🇩",
+      "jawaban": "Moldova"
+    },
+    {
+      "index": 10,
+      "soal": "🇳🇷",
+      "jawaban": "Nauru"
+    },
+    {
+      "index": 11,
+      "soal": "🇩🇪",
+      "jawaban": "Jerman"
+    },
+    {
+      "index": 12,
+      "soal": "🇵🇲",
+      "jawaban": "St. Pierre & Miquelon"
+    },
+    {
+      "index": 13,
+      "soal": "🇲🇹",
+      "jawaban": "Malta"
+    },
+    {
+      "index": 14,
+      "soal": "🇱🇸",
+      "jawaban": "Lesotho"
+    },
+    {
+      "index": 15,
+      "soal": "🇱🇦",
+      "jawaban": "Laos"
+    },
+    {
+      "index": 16,
+      "soal": "🇵🇱",
+      "jawaban": "Polandia"
+    },
+    {
+      "index": 17,
+      "soal": "🇦🇷",
+      "jawaban": "Argentina"
+    },
+    {
+      "index": 18,
+      "soal": "🇻🇮",
+      "jawaban": "Kepulauan Virgin AS"
+    },
+    {
+      "index": 19,
+      "soal": "🇵🇬",
+      "jawaban": "Papua Nugini"
+    },
+    {
+      "index": 20,
+      "soal": "🇹🇯",
+      "jawaban": "Tajikistan"
+    },
+    {
+      "index": 21,
+      "soal": "🇸🇻",
+      "jawaban": "El Salvador"
+    },
+    {
+      "index": 22,
+      "soal": "🇹🇴",
+      "jawaban": "Tonga"
+    },
+    {
+      "index": 23,
+      "soal": "🇪🇪",
+      "jawaban": "Estonia"
+    },
+    {
+      "index": 24,
+      "soal": "🇨🇰",
+      "jawaban": "Kepulauan Cook"
+    },
+    {
+      "index": 25,
+      "soal": "🇲🇼",
+      "jawaban": "Malawi"
+    },
+    {
+      "index": 26,
+      "soal": "🇵🇪",
+      "jawaban": "Peru"
+    },
+    {
+      "index": 27,
+      "soal": "🇧🇯",
+      "jawaban": "Benin"
+    },
+    {
+      "index": 28,
+      "soal": "🇲🇦",
+      "jawaban": "Maroko"
+    },
+    {
+      "index": 29,
+      "soal": "🇸🇲",
+      "jawaban": "San Marino"
+    },
+    {
+      "index": 30,
+      "soal": "🇬🇷",
+      "jawaban": "Yunani"
+    },
+    {
+      "index": 31,
+      "soal": "🇺🇸",
+      "jawaban": "Amerika Serikat"
+    },
+    {
+      "index": 32,
+      "soal": "🇮🇪",
+      "jawaban": "Irlandia"
+    },
+    {
+      "index": 33,
+      "soal": "🇪🇹",
+      "jawaban": "Ethiopia"
+    },
+    {
+      "index": 34,
+      "soal": "🇹🇰",
+      "jawaban": "Tokelau"
+    },
+    {
+      "index": 35,
+      "soal": "🇯🇪",
+      "jawaban": "Jersey"
+    },
+    {
+      "index": 36,
+      "soal": "🇦🇬",
+      "jawaban": "Antigua & Barbuda"
+    },
+    {
+      "index": 37,
+      "soal": "🇩🇯",
+      "jawaban": "Djibouti"
+    },
+    {
+      "index": 38,
+      "soal": "🇦🇩",
+      "jawaban": "Andorra"
+    },
+    {
+      "index": 39,
+      "soal": "🇦🇫",
+      "jawaban": "Afganistan"
+    },
+    {
+      "index": 40,
+      "soal": "🇻🇪",
+      "jawaban": "Venezuela"
+    },
+    {
+      "index": 41,
+      "soal": "🇹🇿",
+      "jawaban": "Tanzania"
+    },
+    {
+      "index": 42,
+      "soal": "🇦🇶",
+      "jawaban": "Antartika"
+    },
+    {
+      "index": 43,
+      "soal": "🇭🇺",
+      "jawaban": "Hongaria"
+    },
+    {
+      "index": 44,
+      "soal": "🇹🇲",
+      "jawaban": "Turkmenistan"
+    },
+    {
+      "index": 45,
+      "soal": "🇧🇸",
+      "jawaban": "Bahama"
+    },
+    {
+      "index": 46,
+      "soal": "🇬🇩",
+      "jawaban": "Grenada"
+    },
+    {
+      "index": 47,
+      "soal": "🇨🇿",
+      "jawaban": "Republik Ceko"
+    },
+    {
+      "index": 48,
+      "soal": "🇵🇦",
+      "jawaban": "Panama"
+    },
+    {
+      "index": 49,
+      "soal": "🇵🇫",
+      "jawaban": "Polinesia Prancis"
+    },
+    {
+      "index": 50,
+      "soal": "🇳🇨",
+      "jawaban": "Kaledonia Baru"
+    },
+    {
+      "index": 51,
+      "soal": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+      "jawaban": "Skotlandia"
+    },
+    {
+      "index": 52,
+      "soal": "🇯🇲",
+      "jawaban": "Jamaika"
+    },
+    {
+      "index": 53,
+      "soal": "🇩🇲",
+      "jawaban": "Dominika"
+    },
+    {
+      "index": 54,
+      "soal": "🇪🇺",
+      "jawaban": "Uni Eropa"
+    },
+    {
+      "index": 55,
+      "soal": "🇧🇦",
+      "jawaban": "Bosnia & Herzegovina"
+    },
+    {
+      "index": 56,
+      "soal": "🇸🇨",
+      "jawaban": "Seychelles"
+    },
+    {
+      "index": 57,
+      "soal": "🇦🇴",
+      "jawaban": "Angola"
+    },
+    {
+      "index": 58,
+      "soal": "🇧🇳",
+      "jawaban": "Brunei"
+    },
+    {
+      "index": 59,
+      "soal": "🇧🇭",
+      "jawaban": "Bahrain"
+    },
+    {
+      "index": 60,
+      "soal": "🇬🇹",
+      "jawaban": "Guatemala"
+    },
+    {
+      "index": 61,
+      "soal": "🇻🇬",
+      "jawaban": "Kepulauan Virgin Britania Raya"
+    },
+    {
+      "index": 62,
+      "soal": "🇭🇷",
+      "jawaban": "Kroasia"
+    },
+    {
+      "index": 63,
+      "soal": "🇲🇿",
+      "jawaban": "Mozambik"
+    },
+    {
+      "index": 64,
+      "soal": "🇷🇺",
+      "jawaban": "Rusia"
+    },
+    {
+      "index": 65,
+      "soal": "🇵🇳",
+      "jawaban": "Kepulauan Pitcairn"
+    },
+    {
+      "index": 66,
+      "soal": "🇬🇸",
+      "jawaban": "Georgia Selatan & Kepulauan Sandwich Selatan"
+    },
+    {
+      "index": 67,
+      "soal": "🇺🇬",
+      "jawaban": "Uganda"
+    },
+    {
+      "index": 68,
+      "soal": "🇹🇫",
+      "jawaban": "Teritori Prancis Selatan"
+    },
+    {
+      "index": 69,
+      "soal": "🇱🇮",
+      "jawaban": "Liechtenstein"
+    },
+    {
+      "index": 70,
+      "soal": "🇬🇼",
+      "jawaban": "Guinea-Bissau"
+    },
+    {
+      "index": 71,
+      "soal": "🇸🇹",
+      "jawaban": "Sao Tome & Principe"
+    },
+    {
+      "index": 72,
+      "soal": "🇮🇩",
+      "jawaban": "Indonesia"
+    },
+    {
+      "index": 73,
+      "soal": "🇸🇽",
+      "jawaban": "Sint Maarten"
+    },
+    {
+      "index": 74,
+      "soal": "🇫🇲",
+      "jawaban": "Mikronesia"
+    },
+    {
+      "index": 75,
+      "soal": "🇰🇵",
+      "jawaban": "Korea Utara"
+    },
+    {
+      "index": 76,
+      "soal": "🇧🇷",
+      "jawaban": "Brazil"
+    },
+    {
+      "index": 77,
+      "soal": "🇦🇱",
+      "jawaban": "Albania"
+    },
+    {
+      "index": 78,
+      "soal": "🇧🇮",
+      "jawaban": "Burundi"
+    },
+    {
+      "index": 79,
+      "soal": "🇩🇿",
+      "jawaban": "Aljazar"
+    },
+    {
+      "index": 80,
+      "soal": "🇧🇫",
+      "jawaban": "Burkina Faso"
+    },
+    {
+      "index": 81,
+      "soal": "🇧🇬",
+      "jawaban": "Bulgaria"
+    },
+    {
+      "index": 82,
+      "soal": "🇧🇹",
+      "jawaban": "Bhutan"
+    },
+    {
+      "index": 83,
+      "soal": "🇧🇩",
+      "jawaban": "Bangladesh"
+    },
+    {
+      "index": 84,
+      "soal": "🇧🇧",
+      "jawaban": "Barbados"
+    },
+    {
+      "index": 85,
+      "soal": "🇦🇿",
+      "jawaban": "Ajerbazan"
+    },
+    {
+      "index": 86,
+      "soal": "🇧🇼",
+      "jawaban": "Botswana"
+    },
+    {
+      "index": 87,
+      "soal": "🇧🇾",
+      "jawaban": "Belarus"
+    },
+    {
+      "index": 88,
+      "soal": "🇧🇿",
+      "jawaban": "Belize"
+    },
+    {
+      "index": 89,
+      "soal": "🇨🇫",
+      "jawaban": "Republik afrika tengah"
+    },
+    {
+      "index": 90,
+      "soal": "🇳🇵",
+      "jawaban": "Nepal"
+    },
+    {
+      "index": 91,
+      "soal": "🇲🇴",
+      "jawaban": "Macau"
+    },
+    {
+      "index": 92,
+      "soal": "🇹🇳",
+      "jawaban": "Tunisia"
+    },
+    {
+      "index": 93,
+      "soal": "🇦🇲",
+      "jawaban": "Armenia"
+    },
+    {
+      "index": 94,
+      "soal": "🇦🇹",
+      "jawaban": "Austria"
+    },
+    {
+      "index": 95,
+      "soal": "🇨🇭",
+      "jawaban": "Swiss"
+    },
+    {
+      "index": 96,
+      "soal": "🇸🇮",
+      "jawaban": "Slovenia"
+    },
+    {
+      "index": 97,
+      "soal": "🇸🇰",
+      "jawaban": "Slovakia"
+    },
+    {
+      "index": 98,
+      "soal": "🇧🇪",
+      "jawaban": "Belgium"
+    },
+    {
+      "index": 99,
+      "soal": "🇫🇮",
+      "jawaban": "Finlandia"
+    },
+    {
+      "index": 100,
+      "soal": "🇱🇧",
+      "jawaban": "Lebanon"
+    },
+    {
+      "index": 101,
+      "soal": "🇮🇱",
+      "jawaban": "Israel"
+    },
+    {
+      "index": 102,
+      "soal": "🇳🇱",
+      "jawaban": "Netherland"
+    },
+    {
+      "index": 103,
+      "soal": "🇩🇰",
+      "jawaban": "Denmark"
+    },
+    {
+      "index": 104,
+      "soal": "🇳🇬",
+      "jawaban": "Nigeria"
+    },
+    {
+      "index": 105,
+      "soal": "🇲🇳",
+      "jawaban": "Mongolia"
+    },
+    {
+      "index": 106,
+      "soal": "🇸🇪",
+      "jawaban": "Swedia"
+    },
+    {
+      "index": 107,
+      "soal": "🇳🇦",
+      "jawaban": "Namibia"
+    },
+    {
+      "index": 108,
+      "soal": "🇬🇦",
+      "jawaban": "Gabon"
+    },
+    {
+      "index": 109,
+      "soal": "🇿🇲",
+      "jawaban": "Zambia"
+    },
+    {
+      "index": 110,
+      "soal": "🇿🇼",
+      "jawaban": "Zimbabwe"
+    },
+    {
+      "index": 111,
+      "soal": "🇷🇴",
+      "jawaban": "Romania"
+    },
+    {
+      "index": 112,
+      "soal": "🇴🇲",
+      "jawaban": "Oman"
+    },
+    {
+      "index": 113,
+      "soal": "🇵🇸",
+      "jawaban": "Palestina"
+    },
+    {
+      "index": 114,
+      "soal": "🇯🇵",
+      "jawaban": "Jepang"
+    },
+    {
+      "index": 115,
+      "soal": "🇲🇾",
+      "jawaban": "Malaysia"
+    },
+    {
+      "index": 116,
+      "soal": "🇸🇦",
+      "jawaban": "Arab Saudi"
+    },
+    {
+      "index": 117,
+      "soal": "🇱🇺",
+      "jawaban": "Belanda"
+    },
+    {
+      "index": 118,
+      "soal": "🇰🇪",
+      "jawaban": "Kenya"
+    },
+    {
+      "index": 119,
+      "soal": "🇰🇮",
+      "jawaban": "Kiribati"
+    },
+    {
+      "index": 120,
+      "soal": "🇨🇴",
+      "jawaban": "Kolombia"
+    },
+    {
+      "index": 121,
+      "soal": "🇧🇴",
+      "jawaban": "Bolivia"
+    },
+    {
+      "index": 122,
+      "soal": "🇹🇩",
+      "jawaban": "Chad"
+    },
+    {
+      "index": 123,
+      "soal": "🇨🇵",
+      "jawaban": "Chili"
+    },
+    {
+      "index": 124,
+      "soal": "🇩🇴",
+      "jawaban": "Republik Dominika"
+    },
+    {
+      "index": 125,
+      "soal": "🇪🇷",
+      "jawaban": "Eritrea"
+    },
+    {
+      "index": 126,
+      "soal": "🇫🇯",
+      "jawaban": "Fiji"
+    },
+    {
+      "index": 127,
+      "soal": "🇬🇲",
+      "jawaban": "Gambia"
+    },
+    {
+      "index": 128,
+      "soal": "🇬🇪",
+      "jawaban": "Georgia"
+    },
+    {
+      "index": 129,
+      "soal": "🇬🇶",
+      "jawaban": "Guinea Khatulistiwa"
+    },
+    {
+      "index": 130,
+      "soal": "🇭🇹",
+      "jawaban": "Haiti"
+    },
+    {
+      "index": 131,
+      "soal": "🇭🇳",
+      "jawaban": "Honduras"
+    },
+    {
+      "index": 132,
+      "soal": "🇨🇷",
+      "jawaban": "Kosta Rika"
+    },
+    {
+      "index": 133,
+      "soal": "🇨🇺",
+      "jawaban": "Kuba"
+    },
+    {
+      "index": 134,
+      "soal": "🇰🇼",
+      "jawaban": "Kuwait"
+    },
+    {
+      "index": 135,
+      "soal": "🇱🇻",
+      "jawaban": "Latvia"
+    },
+    {
+      "index": 136,
+      "soal": "🇱🇷",
+      "jawaban": "Liberia"
+    },
+    {
+      "index": 137,
+      "soal": "🇱🇾",
+      "jawaban": "Libya"
+    },
+    {
+      "index": 138,
+      "soal": "🇱🇹",
+      "jawaban": "Lituania"
+    },
+    {
+      "index": 139,
+      "soal": "🇲🇬",
+      "jawaban": "Madagaskar"
+    },
+    {
+      "index": 140,
+      "soal": "🇲🇱",
+      "jawaban": "Mali"
+    },
+    {
+      "index": 141,
+      "soal": "🇲🇭",
+      "jawaban": "Kepulauan Marshall"
+    },
+    {
+      "index": 142,
+      "soal": "🇲🇷",
+      "jawaban": "Mauritania"
+    },
+    {
+      "index": 143,
+      "soal": "🇲🇺",
+      "jawaban": "Mauritius"
+    },
+    {
+      "index": 144,
+      "soal": "🇲🇽",
+      "jawaban": "Meksiko"
+    },
+    {
+      "index": 145,
+      "soal": "🇪🇬",
+      "jawaban": "Mesir"
+    },
+    {
+      "index": 146,
+      "soal": "🇲🇨",
+      "jawaban": "Monako"
+    },
+    {
+      "index": 147,
+      "soal": "🇳🇪",
+      "jawaban": "Niger"
+    },
+    {
+      "index": 148,
+      "soal": "🇳🇮",
+      "jawaban": "Nikaragua"
+    },
+    {
+      "index": 149,
+      "soal": "🇵🇰",
+      "jawaban": "Pakistan"
+    },
+    {
+      "index": 150,
+      "soal": "🇵🇼",
+      "jawaban": "Palau"
+    },
+    {
+      "index": 151,
+      "soal": "🇵🇾",
+      "jawaban": "Paraguay"
+    },
+    {
+      "index": 152,
+      "soal": "🇶🇦",
+      "jawaban": "Qatar"
+    },
+    {
+      "index": 153,
+      "soal": "🇷🇼",
+      "jawaban": "Rwanda"
+    },
+    {
+      "index": 154,
+      "soal": "🇰🇳",
+      "jawaban": "Saint Kitts Nevis"
+    },
+    {
+      "index": 155,
+      "soal": "🇱🇨",
+      "jawaban": "Saint Lucia"
+    },
+    {
+      "index": 156,
+      "soal": "🇻🇨",
+      "jawaban": "Saint Vincent & Grenadines"
+    },
+    {
+      "index": 157,
+      "soal": "🇼🇸",
+      "jawaban": "Samoa"
+    },
+    {
+      "index": 158,
+      "soal": "🇸🇳",
+      "jawaban": "Senegal"
+    },
+    {
+      "index": 159,
+      "soal": "🇸🇱",
+      "jawaban": "Sierra leone"
+    },
+    {
+      "index": 160,
+      "soal": "🇸🇬",
+      "jawaban": "Singapore"
+    },
+    {
+      "index": 161,
+      "soal": "🇪🇸",
+      "jawaban": "Spanyol"
+    },
+    {
+      "index": 162,
+      "soal": "🇱🇰",
+      "jawaban": "Sri Lanka"
+    },
+    {
+      "index": 163,
+      "soal": "🇸🇩",
+      "jawaban": "Sudan"
+    },
+    {
+      "index": 164,
+      "soal": "🇸🇷",
+      "jawaban": "Suriname"
+    },
+    {
+      "index": 165,
+      "soal": "🇸🇾",
+      "jawaban": "Suriah"
+    },
+    {
+      "index": 166,
+      "soal": "🇸🇿",
+      "jawaban": "Swaziland"
+    },
+    {
+      "index": 167,
+      "soal": "🇨🇻",
+      "jawaban": "Tanjung Verde"
+    },
+    {
+      "index": 168,
+      "soal": "🇹🇭",
+      "jawaban": "Thailand"
+    },
+    {
+      "index": 169,
+      "soal": "🇹🇱",
+      "jawaban": "Timor Leste"
+    },
+    {
+      "index": 170,
+      "soal": "🇨🇳",
+      "jawaban": "Republik Rakyat Tiongkok"
+    },
+    {
+      "index": 171,
+      "soal": "🇹🇬",
+      "jawaban": "Togo"
+    },
+    {
+      "index": 172,
+      "soal": "🇹🇹",
+      "jawaban": "Trinida & Tobango"
+    },
+    {
+      "index": 173,
+      "soal": "🇹🇷",
+      "jawaban": "Turki"
+    },
+    {
+      "index": 174,
+      "soal": "🇹🇻",
+      "jawaban": "Tuvalu"
+    },
+    {
+      "index": 175,
+      "soal": "🇦🇪",
+      "jawaban": "Uni Emirat Arab"
+    },
+    {
+      "index": 176,
+      "soal": "🇺🇿",
+      "jawaban": "Uzbekistan"
+    },
+    {
+      "index": 177,
+      "soal": "🇻🇺",
+      "jawaban": "Vanuatu"
+    },
+    {
+      "index": 178,
+      "soal": "🇻🇦",
+      "jawaban": "Vatikan"
+    },
+    {
+      "index": 179,
+      "soal": "🇻🇳",
+      "jawaban": "Vietnam"
+    }
+  ]
+}

@@ -1,0 +1,1226 @@
+{
+  "creator": "@krniwnstria",
+  "number": 20,
+  "name": "Taha",
+  "type": "Makkiyyah",
+  "translation_id": "Katakanlah (Muhammad), “Masing-masing (kita) menanti, maka nantikanlah olehmu! Dan kelak kamu akan mengetahui, siapa yang menempuh jalan yang lurus, dan siapa yang telah mendapat petunjuk.”",
+  "translation_en": "Say, \"Each [of us] is waiting; so wait. For you will know who are the companions of the sound path and who is guided.\"",
+  "jumlah_ayat": 135,
+  "ayat": [
+    {
+      "no": 1,
+      "arab": "طه",
+      "latin": "Taa-Haa",
+      "id": "Thaha",
+      "en": "Ta, Ha.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2349",
+      "tafsir": "Bila surah sebelumnya ditutup dengan berita kebinasaan umat terdahulu karena kedurhakaan mereka, surah ini diawali dengan penjelasan bahwa Al-Qur’an turun untuk kebaikan, bukan kesusahan, bagi umat. Taha."
+    },
+    {
+      "no": 2,
+      "arab": "مَا أَنزَلْنَا عَلَيْكَ الْقُرْآنَ لِتَشْقَىٰ",
+      "latin": "Maaa anzalnaa 'alaikal Qur-aana litashqaaa",
+      "id": "Kami tidak menurunkan Al-Qur'an ini kepadamu (Muhammad) agar engkau menjadi susah;",
+      "en": "We have not sent down to you the Qur'an that you be distressed",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2350",
+      "tafsir": "Wahai Nabi Muhammad, Kami, yakni Allah melalui Jibril, tidak menurunkan Al-Qur’an ini kepadamu agar engkau menjadi susah akibat ditolak dan dimusuhi kaummu atau dituntut untuk melaksanakan kewajiban di luar batas kemampuanmu."
+    },
+    {
+      "no": 3,
+      "arab": "إِلَّا تَذْكِرَةً لِّمَن يَخْشَىٰ",
+      "latin": "Illaa tazkiratal limany yakshaa",
+      "id": "melainkan sebagai peringatan bagi orang yang takut (kepada Allah),",
+      "en": "But only as a reminder for those who fear [Allah] -",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2351",
+      "tafsir": "Kami tidak menurunkan Al-Qur’an kepadamu melainkan sebagai peringatan bagi orang yang takut kepada Allah dan ikhlas menaati ajaran dan perintah-Nya."
+    },
+    {
+      "no": 4,
+      "arab": "تَنزِيلًا مِّمَّنْ خَلَقَ الْأَرْضَ وَالسَّمَاوَاتِ الْعُلَى",
+      "latin": "Tanzeelam mimman khalaqal arda was samaawaatil 'ulaa",
+      "id": "diturunkan dari (Allah) yang menciptakan bumi dan langit yang tinggi,",
+      "en": "A revelation from He who created the earth and highest heavens,",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2352",
+      "tafsir": "Wahai Nabi, Al-Qur’an ini diturunkan kepadamu dari Allah Yang Mahaagung yang menciptakan bumi dan langit yang tinggi. Kandungannya merupakan petunjuk bagi mereka yang mau meyakini."
+    },
+    {
+      "no": 5,
+      "arab": "الرَّحْمَٰنُ عَلَى الْعَرْشِ اسْتَوَىٰ",
+      "latin": "Ar-Rahmaanu 'alal 'Arshis tawaa",
+      "id": "(yaitu) Yang Maha Pengasih, yang bersemayam di atas ‘Arsy.",
+      "en": "The Most Merciful [who is] above the Throne established.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2353",
+      "tafsir": "Tuhan yang menurunkan Al-Qur’an ini adalah Yang Maha Pengasih terhadap semua makhuk tanpa terkecuali; yang bersemayam di atas ‘Arsy untuk mengatur semua urusan makhluk-Nya."
+    },
+    {
+      "no": 6,
+      "arab": "لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَمَا بَيْنَهُمَا وَمَا تَحْتَ الثَّرَىٰ",
+      "latin": "Lahoo maa fis samaawaati wa maa fil ardi wa maa bainahumaa wa maa tahtassaraa",
+      "id": "Milik-Nyalah apa yang ada di langit, apa yang ada di bumi, apa yang ada di antara keduanya, dan apa yang ada di bawah tanah.",
+      "en": "To Him belongs what is in the heavens and what is on the earth and what is between them and what is under the soil.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2354",
+      "tafsir": "Allah adalah Pencipta semua yang ada, karena itu milik-Nya lah apa saja yang ada di langit seperti matahari, bulan, dan planet, serta apa saja yang ada di bumi seperti tumbuhan, hewan, dan manusia, apa saja yang ada di antara keduanya seperti awan, dan apa saja yang ada di bawah tanah, seperti bahan tambang dan sumber mineral."
+    },
+    {
+      "no": 7,
+      "arab": "وَإِن تَجْهَرْ بِالْقَوْلِ فَإِنَّهُ يَعْلَمُ السِّرَّ وَأَخْفَى",
+      "latin": "Wa in tajhar bilqawli fainnahoo ya'lamus sirra wa akhfaa",
+      "id": "Dan jika engkau mengeraskan ucapanmu, sungguh, Dia mengetahui rahasia dan yang lebih tersembunyi.",
+      "en": "And if you speak aloud - then indeed, He knows the secret and what is [even] more hidden.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2355",
+      "tafsir": "Dia mengetahui apa saja yang terjadi di alam semesta. Dan jika engkau mengeraskan ucapanmu saat menyampaikan sesuatu, sungguh Dia mengetahui apa yang engkau ucapkan. Dia juga mengetahui apa saja yang rahasia atau yang sengaja kausembunyikan dalam hatimu, dan apa saja yang lebih tersembunyi, yang tidak kausadari dan tidak kauketahui lagi setelah lama mengendap di dasar hatimu."
+    },
+    {
+      "no": 8,
+      "arab": "اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ ۖ لَهُ الْأَسْمَاءُ الْحُسْنَىٰ",
+      "latin": "Allaahu laaa ilasha illaa Huwa lahul Asmaaa'ul Husnaa",
+      "id": "(Dialah) Allah, tidak ada tuhan selain Dia, yang mempunyai nama-nama yang terbaik.",
+      "en": "Allah - there is no deity except Him. To Him belong the best names.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2356",
+      "tafsir": "Dialah Allah yang tidak ada tuhan penguasa alam semesta yang patut disembah selain Dia. Hanya Dia pula yang mempunyai nama-nama yang terbaik."
+    },
+    {
+      "no": 9,
+      "arab": "وَهَلْ أَتَاكَ حَدِيثُ مُوسَىٰ",
+      "latin": "Wa hal ataaka hadeesu Moosa",
+      "id": "Dan apakah telah sampai kepadamu kisah Musa?",
+      "en": "And has the story of Moses reached you? -",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2357",
+      "tafsir": "Usai menjelaskan keagungan Al-Qur’an dan tugas berat yang diamanahkan kepada Rasulullah, pada ayat-ayat berikut Allah menguraikan kisah Nabi Musa yang juga diberi amanah berat, yaitu berdakwah kepada Fir‘aun yang sangat ingkar. Kisah ini dimaksudkan untuk menguatkan Nabi Muhammad dalam berdakwah. Dan apakah telah sampai kepadamu, wahai Nabi Muhammad, kisah Musa saat akan menerima tugas kerasulan?"
+    },
+    {
+      "no": 10,
+      "arab": "إِذْ رَأَىٰ نَارًا فَقَالَ لِأَهْلِهِ امْكُثُوا إِنِّي آنَسْتُ نَارًا لَّعَلِّي آتِيكُم مِّنْهَا بِقَبَسٍ أَوْ أَجِدُ عَلَى النَّارِ هُدًى",
+      "latin": "Iz ra aa naaran faqaala li alhlihim kusooo inneee aanastu naaral la'alleee aateekum minhaa biqabasin aw ajidu 'alan naari hudaa",
+      "id": "Ketika dia (Musa) melihat api, lalu dia berkata kepada keluarganya, “Tinggallah kamu (di sini), sesungguhnya aku melihat api, mudah-mudahan aku dapat membawa sedikit nyala api kepadamu atau aku akan mendapat petunjuk di tempat api itu.”",
+      "en": "When he saw a fire and said to his family, \"Stay here; indeed, I have perceived a fire; perhaps I can bring you a torch or find at the fire some guidance.\"",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2358",
+      "tafsir": "Ketika dalam perjalanan menuju Mesir, dia melihat api yang menyala terang, lalu dia berkata kepada keluarganya yang menyertainya dalam perjalanan itu,“Tinggallah kamu di sini sampai aku kembali. Sesungguhnya aku melihat api. Mudah-mudahan aku dapat membawa sedikit nyala api kepadamu agar kita dapat menghangatkan badan pada malam yang dingin ini, atau aku akan mendapat petunjuk dari seseorang yang ada di sekitar tempat api itu.”"
+    },
+    {
+      "no": 11,
+      "arab": "فَلَمَّا أَتَاهَا نُودِيَ يَا مُوسَىٰ",
+      "latin": "Falammaaa ataahaa noodiya yaa Moosaa",
+      "id": "Maka ketika dia mendatanginya (ke tempat api itu) dia dipanggil, “Wahai Musa!",
+      "en": "And when he came to it, he was called, \"O Moses,",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2359",
+      "tafsir": "Usai berpesan kepada keluarganya, maka Musa berjalan mendekati api itu. Ketika dia mendatanginya, tiba-tiba dia dipanggil oleh suara yang berasal dari arah api itu, “Wahai Musa!”"
+    },
+    {
+      "no": 12,
+      "arab": "إِنِّي أَنَا رَبُّكَ فَاخْلَعْ نَعْلَيْكَ ۖ إِنَّكَ بِالْوَادِ الْمُقَدَّسِ طُوًى",
+      "latin": "Inneee Ana Rabbuka fakhla' na'laika innaka bilwaadil muqaddasi Tuwaa",
+      "id": "Sungguh, Aku adalah Tuhanmu, maka lepaskan kedua terompahmu. Karena sesungguhnya engkau berada di lembah yang suci, Tuwa.",
+      "en": "Indeed, I am your Lord, so remove your sandals. Indeed, you are in the sacred valley of Tuwa.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2360",
+      "tafsir": "“Sungguh, Aku yang memanggilmu adalah Tuhanmu yang memelihara dan membimbingmu. Maka, sebagai penghormatan, hendaknya engkau lepaskan kedua terompahmu karena saat ini sesungguhnya engkau berada di lembah yang suci, Tuwa.”"
+    },
+    {
+      "no": 13,
+      "arab": "وَأَنَا اخْتَرْتُكَ فَاسْتَمِعْ لِمَا يُوحَىٰ",
+      "latin": "Wa anakhtartuka fastami' limaa yoohaa",
+      "id": "Dan Aku telah memilih engkau, maka dengarkanlah apa yang akan diwahyukan (kepadamu).",
+      "en": "And I have chosen you, so listen to what is revealed [to you].",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2361",
+      "tafsir": "Begitu Musa melepas terompahnya, Allah berfirman, “Dan ketahuilah, wahai Musa, sesungguhnya Aku telah memilih engkau sebagai nabi dan rasul untuk memberi peringatan kepada mereka yang ingkar. Maka, dengarkanlah apa yang akan diwahyukan kepadamu, lalu laksanakanlah untuk memberi pengajaran kepada kaummu."
+    },
+    {
+      "no": 14,
+      "arab": "إِنَّنِي أَنَا اللَّهُ لَا إِلَٰهَ إِلَّا أَنَا فَاعْبُدْنِي وَأَقِمِ الصَّلَاةَ لِذِكْرِي",
+      "latin": "Innaneee Anal laahu laaa ilaaha illaa Ana fa'budnee wa aqimis-salaata lizikree",
+      "id": "Sungguh, Aku ini Allah, tidak ada tuhan selain Aku, maka sembahlah Aku dan laksanakanlah salat untuk mengingat Aku.",
+      "en": "Indeed, I am Allah. There is no deity except Me, so worship Me and establish prayer for My remembrance.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2362",
+      "tafsir": "Wahai Musa, ketahuilah sesungguhnya Aku ini adalah Allah, Tuhanmu, dan sungguh tidak ada tuhan pencipta alam raya yang layak disembah selain Aku, maka berimanlah kepada-Ku, sembahlah Aku, dan laksanakanlah salat untuk mengingat-Ku dan bersyukur kepada-Ku.” Inilah prinsip pertama akidah, yaitu keesaan Tuhan."
+    },
+    {
+      "no": 15,
+      "arab": "إِنَّ السَّاعَةَ آتِيَةٌ أَكَادُ أُخْفِيهَا لِتُجْزَىٰ كُلُّ نَفْسٍ بِمَا تَسْعَىٰ",
+      "latin": "Innas Saa'ata aatiyatun akaadu ukhfeehaa litujzaa kullu nafsim bimaa tas'aa",
+      "id": "Sungguh, hari Kiamat itu akan datang, Aku merahasiakan (waktunya) agar setiap orang dibalas sesuai dengan apa yang telah dia usahakan.",
+      "en": "Indeed, the Hour is coming - I almost conceal it - so that every soul may be recompensed according to that for which it strives.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2363",
+      "tafsir": "Allah lalu menyusuli dengan prinsip berikutnya, yaitu keniscayaan kiamat. \"Sungguh, hari kiamat itu akan datang tanpa ada keraguan sedikit pun tentangnya, namun Aku merahasiakan waktu kedatangannya. Karena itu, siapkanlah dirimu untuk menghadapinya. Hari kiamat itu merupakan suatu keniscayaan agar setiap orang yang mukalaf dibalas sesuai dengan apa yang telah dia usahakan dalam kehidupannya di dunia ini.”"
+    },
+    {
+      "no": 16,
+      "arab": "فَلَا يَصُدَّنَّكَ عَنْهَا مَن لَّا يُؤْمِنُ بِهَا وَاتَّبَعَ هَوَاهُ فَتَرْدَىٰ",
+      "latin": "Falaa yasuddannnaka 'anhaa mal laa yu'minu bihaa wattaba'a hawaahu fatardaa",
+      "id": "Maka janganlah engkau dipalingkan dari (Kiamat itu) oleh orang yang tidak beriman kepadanya dan oleh orang yang mengikuti keinginannya, yang menyebabkan engkau binasa.”",
+      "en": "So do not let one avert you from it who does not believe in it and follows his desire, for you [then] would perish.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2364",
+      "tafsir": "Maka setelah engkau mengetahui keniscayaan kiamat, janganlah sekali-kali engkau dipalingkan dari-nya oleh orang yang tidak beriman kepadanya dan oleh orang yang mengikuti keinginannya, sehingga engkau menjadi lengah dan tidak siap menghadapinya. Ketahuilah, jika engkau dipalingkan, hal itulah yang menyebabkan engkau binasa.”"
+    },
+    {
+      "no": 17,
+      "arab": "وَمَا تِلْكَ بِيَمِينِكَ يَا مُوسَىٰ",
+      "latin": "Wa maa tilka bi yamee nika yaa Moosaa",
+      "id": "”Dan apakah yang ada di tangan kananmu, wahai Musa? ”",
+      "en": "And what is that in your right hand, O Moses?\"",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2365",
+      "tafsir": "Allah menunjukkan kuasa-Nya dengan memberi mukjizat kepada Nabi Musa. Dan apakah yang ada di tangan kananmu, wahai Musa?"
+    },
+    {
+      "no": 18,
+      "arab": "قَالَ هِيَ عَصَايَ أَتَوَكَّأُ عَلَيْهَا وَأَهُشُّ بِهَا عَلَىٰ غَنَمِي وَلِيَ فِيهَا مَآرِبُ أُخْرَىٰ",
+      "latin": "Qaala hiya 'asaaya atawakka'u alaihaa wa ahushshu bihaa 'alaa ghanamee wa liya feehaa ma aaribu ukhraa",
+      "id": "Dia (Musa) berkata, “Ini adalah tongkatku, aku bertumpu padanya, dan aku merontokkan (daun-daun) dengannya untuk (makanan) kambingku, dan bagiku masih ada lagi manfaat yang lain.”",
+      "en": "He said, \"It is my staff; I lean upon it, and I bring down leaves for my sheep and I have therein other uses.\"",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2366",
+      "tafsir": "Dia berkata, “Ini adalah tongkatku. Aku bertumpu padanya saat letih atau ingin bersandar, dan aku merontokkan daun dari ranting-ranting pohon dengannya untuk pakan kambingku atau menghalaunya pergi dan pulang kandang. Dan selain itu, bagiku masih ada lagi manfaat yang lain dari tongkat ini.”"
+    },
+    {
+      "no": 19,
+      "arab": "قَالَ أَلْقِهَا يَا مُوسَىٰ",
+      "latin": "Qaala alqihaa yaa Moosaa",
+      "id": "Dia (Allah) berfirman, “Lemparkanlah ia, wahai Musa!”",
+      "en": "[Allah] said, \"Throw it down, O Moses.\"",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2367",
+      "tafsir": "Dia berfirman, “Lemparkanlah ia, yaitu tongkatmu itu, wahai Musa!”"
+    },
+    {
+      "no": 20,
+      "arab": "فَأَلْقَاهَا فَإِذَا هِيَ حَيَّةٌ تَسْعَىٰ",
+      "latin": "Fa-alqaahaa fa -izaa hiya haiyatun tas'aa",
+      "id": "Lalu (Musa) melemparkan tongkat itu, maka tiba-tiba ia menjadi seekor ular yang merayap dengan cepat.",
+      "en": "So he threw it down, and thereupon it was a snake, moving swiftly.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2368",
+      "tafsir": "Tanpa menunggu lama, selanjutnya Nabi Musa segera melemparkan tongkat itu ke tanah, maka tiba-tiba ia menjadi seekor ular yang merayap ke sana ke mari dengan cepat."
+    },
+    {
+      "no": 21,
+      "arab": "قَالَ خُذْهَا وَلَا تَخَفْ ۖ سَنُعِيدُهَا سِيرَتَهَا الْأُولَىٰ",
+      "latin": "Qaala khuzhaa wa laa ta khaf sanu'eeduhaa seeratahal oolaa",
+      "id": "Dia (Allah) berfirman, “Peganglah ia dan jangan takut, Kami akan mengembalikannya kepada keadaannya semula,",
+      "en": "[Allah] said, \"Seize it and fear not; We will return it to its former condition.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2369",
+      "tafsir": "Melihat perubahan wujud tongkatnya menjadi ular, Nabi Musa merasa takut. Dia berfirman untuk menenangkan hati Nabi Musa, “Wahai Musa, peganglah ia. Ambillah ular itu dan jangan takut. Kami akan mengembalikan wujud-nya kepada keadaannya semula, dari ular menjadi tongkat kembali.”"
+    },
+    {
+      "no": 22,
+      "arab": "وَاضْمُمْ يَدَكَ إِلَىٰ جَنَاحِكَ تَخْرُجْ بَيْضَاءَ مِنْ غَيْرِ سُوءٍ آيَةً أُخْرَىٰ",
+      "latin": "Wadmum yadaka ilaa janaahika takhruj baidaaa'a min ghairi sooo'in Aayatan ukhraa",
+      "id": "dan kepitlah tanganmu ke ketiakmu, niscaya ia keluar menjadi putih (bercahaya) tanpa cacat, sebagai mukjizat yang lain,",
+      "en": "And draw in your hand to your side; it will come out white without disease - another sign,",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2370",
+      "tafsir": "Allah juga memberi Nabi Musa mukjizat yang lain. Dia berfirman, “Dan kepitlah tangan kanan-mu melalui leher bajumu ke ketiak kiri-mu, kemudian tariklah keluar, niscaya ia keluar menjadi putih cemerlang dan bercahaya tanpa cacat, bagai sinar matahari yang benderang. Kami berikan itu kepadamu sebagai mukjizat yang lain, selain tongkat yang berubah menjadi ular."
+    },
+    {
+      "no": 23,
+      "arab": "لِنُرِيَكَ مِنْ آيَاتِنَا الْكُبْرَى",
+      "latin": "Linuriyaka min Aayaatinal Kubra",
+      "id": "untuk Kami perlihatkan kepadamu (sebagian) dari tanda-tanda kebesaran Kami yang sangat besar,",
+      "en": "That We may show you [some] of Our greater signs.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2371",
+      "tafsir": "Wahai Nabi Musa, kedua mukjizat Kami anugerahkan untuk Kami perlihatkan kepadamu sebagian dari tanda-tanda kebesaran Kami yang sangat besar. Kami juga menjadikan keduanya sebagai penguat hatimu dalam berdakwah.”"
+    },
+    {
+      "no": 24,
+      "arab": "اذْهَبْ إِلَىٰ فِرْعَوْنَ إِنَّهُ طَغَىٰ",
+      "latin": "Izhab ilaa Fir'awna innahoo taghaa",
+      "id": "Pergilah kepada Fir‘aun; dia benar-benar telah melampaui batas.”",
+      "en": "Go to Pharaoh. Indeed, he has transgressed.\"",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2372",
+      "tafsir": "Usai membekali Nabi Musa dengan dua mukjizat, Allah memerintahnya untuk berdakwah. Wahai Nabi Musa, pergilah kepada Fir‘aun. Sesungguhnya dia benar-benar telah melampaui batas dalam kedurhakaannya kepada-Ku dan kesewenangan terhadap sesama manusia.”"
+    },
+    {
+      "no": 25,
+      "arab": "قَالَ رَبِّ اشْرَحْ لِي صَدْرِي",
+      "latin": "Qaala Rabbish rah lee sadree",
+      "id": "Dia (Musa) berkata, “Ya Tuhanku, lapangkanlah dadaku,",
+      "en": "[Moses] said, \"My Lord, expand for me my breast [with assurance]",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2373",
+      "tafsir": "Nabi Musa menyadari betapa berat tugas yang Allah amanahkan kepadanya. Dia memohon kepada-Nya seraya berkata, “Ya Tuhanku, lapangkanlah dadaku sehingga jiwaku mampu menanggung tantangan tugasku, dan mudahkanlah untukku urusanku sehingga dakwahku tidak menemui kesulitan, dan lepaskanlah kekakuan dari lidahku yang menghalangi kelancaranku dalam menyampaikan pesan-Mu agar mereka mengerti perkataanku dengan baik. ”"
+    },
+    {
+      "no": 26,
+      "arab": "وَيَسِّرْ لِي أَمْرِي",
+      "latin": "Wa yassir leee amree",
+      "id": "dan mudahkanlah untukku urusanku,",
+      "en": "And ease for me my task",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2374",
+      "tafsir": "Nabi Musa menyadari betapa berat tugas yang Allah amanahkan kepadanya. Dia memohon kepada-Nya seraya berkata, “Ya Tuhanku, lapangkanlah dadaku sehingga jiwaku mampu menanggung tantangan tugasku, dan mudahkanlah untukku urusanku sehingga dakwahku tidak menemui kesulitan, dan lepaskanlah kekakuan dari lidahku yang menghalangi kelancaranku dalam menyampaikan pesan-Mu agar mereka mengerti perkataanku dengan baik. ”"
+    },
+    {
+      "no": 27,
+      "arab": "وَاحْلُلْ عُقْدَةً مِّن لِّسَانِي",
+      "latin": "Wahlul 'uqdatam milli saanee",
+      "id": "dan lepaskanlah kekakuan dari lidahku,",
+      "en": "And untie the knot from my tongue",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2375",
+      "tafsir": "Nabi Musa menyadari betapa berat tugas yang Allah amanahkan kepadanya. Dia memohon kepada-Nya seraya berkata, “Ya Tuhanku, lapangkanlah dadaku sehingga jiwaku mampu menanggung tantangan tugasku, dan mudahkanlah untukku urusanku sehingga dakwahku tidak menemui kesulitan, dan lepaskanlah kekakuan dari lidahku yang menghalangi kelancaranku dalam menyampaikan pesan-Mu agar mereka mengerti perkataanku dengan baik. ”"
+    },
+    {
+      "no": 28,
+      "arab": "يَفْقَهُوا قَوْلِي",
+      "latin": "Yafqahoo qawlee",
+      "id": "agar mereka mengerti perkataanku,",
+      "en": "That they may understand my speech.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2376",
+      "tafsir": "Nabi Musa menyadari betapa berat tugas yang Allah amanahkan kepadanya. Dia memohon kepada-Nya seraya berkata, “Ya Tuhanku, lapangkanlah dadaku sehingga jiwaku mampu menanggung tantangan tugasku, dan mudahkanlah untukku urusanku sehingga dakwahku tidak menemui kesulitan, dan lepaskanlah kekakuan dari lidahku yang menghalangi kelancaranku dalam menyampaikan pesan-Mu agar mereka mengerti perkataanku dengan baik. ”"
+    },
+    {
+      "no": 29,
+      "arab": "وَاجْعَل لِّي وَزِيرًا مِّنْ أَهْلِي",
+      "latin": "Waj'al lee wazeeram min ahlee",
+      "id": "dan jadikanlah untukku seorang pembantu dari keluargaku,",
+      "en": "And appoint for me a minister from my family -",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2377",
+      "tafsir": "Sesudah memohon penyempurnaan dirinya, Nabi Musa memohon pengukuhan diri melalui keluarganya. Dia berkata, “Wahai Tuhanku, dan jadikanlah untukku seorang pembantu dari keluargaku guna meringankan tugasku menyampaikan risalah-Mu. Aku berharap Engkau mengangkat Harun, saudaraku, sebagai penyokongku. Teguhkanlah kekuatanku dalam berdakwah dengan adanya dia di sampingku, dan jadikanlah dia teman dalam urusanku menyampaikan risalah kepada Fir‘aun dan kaumnya."
+    },
+    {
+      "no": 30,
+      "arab": "هَارُونَ أَخِي",
+      "latin": "Haaroona akhee",
+      "id": "(yaitu) Harun, saudaraku,",
+      "en": "Aaron, my brother.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2378",
+      "tafsir": "Sesudah memohon penyempurnaan dirinya, Nabi Musa memohon pengukuhan diri melalui keluarganya. Dia berkata, “Wahai Tuhanku, dan jadikanlah untukku seorang pembantu dari keluargaku guna meringankan tugasku menyampaikan risalah-Mu. Aku berharap Engkau mengangkat Harun, saudaraku, sebagai penyokongku. Teguhkanlah kekuatanku dalam berdakwah dengan adanya dia di sampingku, dan jadikanlah dia teman dalam urusanku menyampaikan risalah kepada Fir‘aun dan kaumnya."
+    },
+    {
+      "no": 31,
+      "arab": "اشْدُدْ بِهِ أَزْرِي",
+      "latin": "Ushdud biheee azree",
+      "id": "teguhkanlah kekuatanku dengan (adanya) dia,",
+      "en": "Increase through him my strength",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2379",
+      "tafsir": "Sesudah memohon penyempurnaan dirinya, Nabi Musa memohon pengukuhan diri melalui keluarganya. Dia berkata, “Wahai Tuhanku, dan jadikanlah untukku seorang pembantu dari keluargaku guna meringankan tugasku menyampaikan risalah-Mu. Aku berharap Engkau mengangkat Harun, saudaraku, sebagai penyokongku. Teguhkanlah kekuatanku dalam berdakwah dengan adanya dia di sampingku, dan jadikanlah dia teman dalam urusanku menyampaikan risalah kepada Fir‘aun dan kaumnya."
+    },
+    {
+      "no": 32,
+      "arab": "وَأَشْرِكْهُ فِي أَمْرِي",
+      "latin": "Wa ashrik hu feee amree",
+      "id": "dan jadikanlah dia teman dalam urusanku,",
+      "en": "And let him share my task",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2380",
+      "tafsir": "Sesudah memohon penyempurnaan dirinya, Nabi Musa memohon pengukuhan diri melalui keluarganya. Dia berkata, “Wahai Tuhanku, dan jadikanlah untukku seorang pembantu dari keluargaku guna meringankan tugasku menyampaikan risalah-Mu. Aku berharap Engkau mengangkat Harun, saudaraku, sebagai penyokongku. Teguhkanlah kekuatanku dalam berdakwah dengan adanya dia di sampingku, dan jadikanlah dia teman dalam urusanku menyampaikan risalah kepada Fir‘aun dan kaumnya."
+    },
+    {
+      "no": 33,
+      "arab": "كَيْ نُسَبِّحَكَ كَثِيرًا",
+      "latin": "Kai nusabbihaka kaseeraa",
+      "id": "agar kami banyak bertasbih kepada-Mu,",
+      "en": "That we may exalt You much",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2381",
+      "tafsir": "Ya Allah, aku ajukan permohonan itu kepada-Mu agar kami banyak bertasbih kepada-Mu, menyucikan-Mu dari segala hal yang tidak layak bagi-Mu, dan banyak mengingat-Mu atas anugerah dan nikmat yang Engkau limpahkan kepada kami. Sesungguhnya Engkau Maha Melihat dan Mengetahui keadaan kami.”"
+    },
+    {
+      "no": 34,
+      "arab": "وَنَذْكُرَكَ كَثِيرًا",
+      "latin": "Wa nazkuraka kaseeraa",
+      "id": "dan banyak mengingat-Mu,",
+      "en": "And remember You much.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2382",
+      "tafsir": "Ya Allah, aku ajukan permohonan itu kepada-Mu agar kami banyak bertasbih kepada-Mu, menyucikan-Mu dari segala hal yang tidak layak bagi-Mu, dan banyak mengingat-Mu atas anugerah dan nikmat yang Engkau limpahkan kepada kami. Sesungguhnya Engkau Maha Melihat dan Mengetahui keadaan kami.”"
+    },
+    {
+      "no": 35,
+      "arab": "إِنَّكَ كُنتَ بِنَا بَصِيرًا",
+      "latin": "Innaka kunta binaa baseeraa",
+      "id": "sesungguhnya Engkau Maha Melihat (keadaan) kami.”",
+      "en": "Indeed, You are of us ever Seeing.\"",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2383",
+      "tafsir": "Ya Allah, aku ajukan permohonan itu kepada-Mu agar kami banyak bertasbih kepada-Mu, menyucikan-Mu dari segala hal yang tidak layak bagi-Mu, dan banyak mengingat-Mu atas anugerah dan nikmat yang Engkau limpahkan kepada kami. Sesungguhnya Engkau Maha Melihat dan Mengetahui keadaan kami.”"
+    },
+    {
+      "no": 36,
+      "arab": "قَالَ قَدْ أُوتِيتَ سُؤْلَكَ يَا مُوسَىٰ",
+      "latin": "Qaala qad ooteeta su'laka yaa Moosaa",
+      "id": "Dia (Allah) berfirman, “Sungguh, telah diperkenankan permintaanmu, wahai Musa!",
+      "en": "[Allah] said, \"You have been granted your request, O Moses.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2384",
+      "tafsir": "Mengabulkan permohonan Nabi Musa, Dia berfirman, “Sungguh, telah diperkenankan semua permintaanmu itu, wahai Musa. Terimalah anugerah besar Kami itu kepadamu."
+    },
+    {
+      "no": 37,
+      "arab": "وَلَقَدْ مَنَنَّا عَلَيْكَ مَرَّةً أُخْرَىٰ",
+      "latin": "Wa laqad manannaa 'alaika marratan ukhraaa",
+      "id": "Dan sungguh, Kami telah memberi nikmat kepadamu pada kesempatan yang lain (sebelum ini),",
+      "en": "And We had already conferred favor upon you another time,",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2385",
+      "tafsir": "Dan wahai Musa, ketahuilah bahwa sesungguhnya tanpa engkau minta pun, Kami telah memberi nikmat kepadamu pada kesempatan yang lain sebelum ini, yaitu ketika Kami mengilhamkan kepada ibumu sesudah kelahiranmu sesuatu yang diilhamkan, yaitu cara menyelamatkanmu dari rencana keji Fir‘aun."
+    },
+    {
+      "no": 38,
+      "arab": "إِذْ أَوْحَيْنَا إِلَىٰ أُمِّكَ مَا يُوحَىٰ",
+      "latin": "Iz awhainaaa ilaaa ummika maa yoohaaa",
+      "id": "(yaitu) ketika Kami mengilhamkan kepada ibumu sesuatu yang diilhamkan,",
+      "en": "When We inspired to your mother what We inspired,",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2386",
+      "tafsir": "Dan wahai Musa, ketahuilah bahwa sesungguhnya tanpa engkau minta pun, Kami telah memberi nikmat kepadamu pada kesempatan yang lain sebelum ini, yaitu ketika Kami mengilhamkan kepada ibumu sesudah kelahiranmu sesuatu yang diilhamkan, yaitu cara menyelamatkanmu dari rencana keji Fir‘aun."
+    },
+    {
+      "no": 39,
+      "arab": "أَنِ اقْذِفِيهِ فِي التَّابُوتِ فَاقْذِفِيهِ فِي الْيَمِّ فَلْيُلْقِهِ الْيَمُّ بِالسَّاحِلِ يَأْخُذْهُ عَدُوٌّ لِّي وَعَدُوٌّ لَّهُ ۚ وَأَلْقَيْتُ عَلَيْكَ مَحَبَّةً مِّنِّي وَلِتُصْنَعَ عَلَىٰ عَيْنِي",
+      "latin": "Aniqzifeehi fit Taabooti faqzifeehi fil yammi fal yul qihil yammu bis saahili yaakhuzhu 'aduwwul lee wa 'aduwwul lah; wa alqaitu 'alaika mahabbatam minnee wa litusna'a 'alaa 'ainee",
+      "id": "(yaitu), letakkanlah dia (Musa) di dalam peti, kemudian hanyutkanlah dia ke sungai (Nil), maka biarlah (arus) sungai itu membawanya ke tepi, dia akan diambil oleh (Fir‘aun) musuh-Ku dan musuhnya. Aku telah melimpahkan kepadamu kasih sayang yang datang dari-Ku; dan agar engkau diasuh di bawah pengawasan-Ku.",
+      "en": "[Saying], 'Cast him into the chest and cast it into the river, and the river will throw it onto the bank; there will take him an enemy to Me and an enemy to him.' And I bestowed upon you love from Me that you would be brought up under My eye.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2387",
+      "tafsir": "Kami ilhamkan kepada ibumu, ‘Letakkanlah dia, yaitu bayi Musa, di dalam peti, kemudian hanyutkanlah dia ke sungai Nil yang mengalir tidak begitu deras. Ketika arus menghanyutkannya, maka biarlah aliran air sungai itu membawanya ke tepi sungai yang melewati istana Fir‘aun. Ketika saat itu tiba, dia akan diambil oleh Fir‘aun, penguasa Mesir yang merupakan musuh-Ku dan musuhnya.’ Wahai Nabi Musa, ketahuilah bahwa Aku telah melimpahkan kepadamu begitu banyak kasih sayang yang datang dari-Ku sehingga siapa saja yang memandangmu akan tertarik dan menyayangimu. Kami anugerahkan itu semua kepadamu untuk kebaikanmu dan agar engkau diasuh dengan cara terhormat di bawah pengawasan-Ku."
+    },
+    {
+      "no": 40,
+      "arab": "إِذْ تَمْشِي أُخْتُكَ فَتَقُولُ هَلْ أَدُلُّكُمْ عَلَىٰ مَن يَكْفُلُهُ ۖ فَرَجَعْنَاكَ إِلَىٰ أُمِّكَ كَيْ تَقَرَّ عَيْنُهَا وَلَا تَحْزَنَ ۚ وَقَتَلْتَ نَفْسًا فَنَجَّيْنَاكَ مِنَ الْغَمِّ وَفَتَنَّاكَ فُتُونًا ۚ فَلَبِثْتَ سِنِينَ فِي أَهْلِ مَدْيَنَ ثُمَّ جِئْتَ عَلَىٰ قَدَرٍ يَا مُوسَىٰ",
+      "latin": "Iz tamsheee ukhtuka fataqoolu hal adullukum 'alaa mai yakfuluhoo faraja 'naaka ilaaa ummika kai taqarra 'ainuhaa wa laa tahzan; wa qatalta nafsan fanajjainaaka minal ghammi wa fatannaaka futoonaa; falabista sineena feee ahli Madyana summa ji'ta 'alaa qadariny yaa Moosa",
+      "id": "(Yaitu) ketika saudara perempuanmu berjalan, lalu dia berkata (kepada keluarga Fir‘aun), ‘Bolehkah saya menunjukkan kepadamu orang yang akan memeliharanya?’ Maka Kami mengembalikanmu kepada ibumu, agar senang hatinya dan tidak bersedih hati. Dan engkau pernah membunuh seseorang, lalu Kami selamatkan engkau dari kesulitan (yang besar) dan Kami telah mencobamu dengan beberapa cobaan (yang berat); lalu engkau tinggal beberapa tahun di antara penduduk Madyan, kemudian engkau, wahai Musa, datang menurut waktu yang ditetapkan,",
+      "en": "[And We favored you] when your sister went and said, 'Shall I direct you to someone who will be responsible for him?' So We restored you to your mother that she might be content and not grieve. And you killed someone, but We saved you from retaliation and tried you with a [severe] trial. And you remained [some] years among the people of Madyan. Then you came [here] at the decreed time, O Moses.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2388",
+      "tafsir": "Wahai Nabi Musa, ingatlah ketika saudara perempuanmu berjalan di sekitar istana tempat engkau berada setelah dipungut dari sungai, untuk mencari berita tentang dirimu. Ketika ia tahu engkau enggan menyusu, lalu dia berkata kepada keluarga Fir‘aun, ‘Bolehkah saya menunjukkan kepadamu orang yang akan menyusui dan memeliharanya?’ Mereka setuju, lalu saudaramu mengajak ibumu untuk menyusuimu. Maka, Kami mengembalikanmu kepada ibumu agar senang hatinya karena dapat memeliharamu dan tidak bersedih hati karena jauh darimu. Dan ingatlah wahai Nabi Musa pada anugerah Kami yang lain, yaitu ketika engkau setelah menginjak dewasa pernah membunuh seseorang dari penduduk Mesir, lalu Kami selamatkan engkau dari kesulitan yang menimpamu akibat pembunuhan itu. Kami keluarkan engkau dari Mesir dan Kami telah mencobamu dengan beberapa cobaan yang berat di tempat tinggalmu yang baru. Dengan rahmat Kami engkau berhasil mengatasinya, lalu engkau tinggal beberapa tahun di antara penduduk Madyan dan menjadi menantu Nabi Syuaib. Kemudian saat ini engkau, wahai Nabi Musa, datang ke tempat ini menurut waktu yang telah ditetapkan oleh Allah."
+    },
+    {
+      "no": 41,
+      "arab": "وَاصْطَنَعْتُكَ لِنَفْسِي",
+      "latin": "Wastana' tuka linafsee",
+      "id": "dan Aku telah memilihmu (menjadi rasul) untuk diri-Ku.",
+      "en": "And I produced you for Myself.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2389",
+      "tafsir": "Dan ketahuilah, wahai Nabi Musa, sungguh Aku telah memilihmu, memeliharamu, dan mempersiapkanmu untuk diri-Ku. Aku jadikan engkau nabi dan rasul-Ku untuk menyampaikan risalah-Ku kepada umatmu.”"
+    },
+    {
+      "no": 42,
+      "arab": "اذْهَبْ أَنتَ وَأَخُوكَ بِآيَاتِي وَلَا تَنِيَا فِي ذِكْرِي",
+      "latin": "Izhab anta wa akhooka bi Aayaatee wa laa taniyaa fee zikree",
+      "id": "Pergilah engkau beserta saudaramu dengan membawa tanda-tanda (kekuasaan)-Ku, dan janganlah kamu berdua lalai mengingat-Ku;",
+      "en": "Go, you and your brother, with My signs and do not slacken in My remembrance.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2390",
+      "tafsir": "Allah melanjutkan perintah-Nya kepada Nabi Musa, “Wahai Nabi Musa, pergilah engkau beserta saudaramu, Harun, dengan membawa tanda-tanda kekuasaan dan kebesaran-Ku, yaitu mukjizat yang pernah engkau saksikan, dan janganlah kamu berdua lalai, bosan, dan enggan mengingat- Ku, baik dalam perjalanan atau saat berada di Mesir."
+    },
+    {
+      "no": 43,
+      "arab": "اذْهَبَا إِلَىٰ فِرْعَوْنَ إِنَّهُ طَغَىٰ",
+      "latin": "Izhabaaa ilaa Fir'awna innahoo taghaa",
+      "id": "pergilah kamu berdua kepada Fir‘aun, karena dia benar-benar telah melampaui batas;",
+      "en": "Go, both of you, to Pharaoh. Indeed, he has transgressed.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2391",
+      "tafsir": "Wahai Nabi Musa dan Harun, pergilah kamu berdua kepada Fir‘aun yang sombong itu dengan bekal mukjizat dari-Ku karena dia benar-benar telah melampaui batas dalam kedurhakannya. Begitu berhadapan dengannya, maka berbicaralah kamu berdua kepadanya dengan kata-kata yang lemah lembut. Ajaklah dia beriman kepada Allah dan serulah pada kebenaran dengan cara yang baik. Mudah-mudahan dengan cara demikian dia menjadi sadar atau takut pada azab Allah bila terus durhaka.”"
+    },
+    {
+      "no": 44,
+      "arab": "فَقُولَا لَهُ قَوْلًا لَّيِّنًا لَّعَلَّهُ يَتَذَكَّرُ أَوْ يَخْشَىٰ",
+      "latin": "Faqoolaa lahoo qawlal laiyinal la allahoo yatazakkkaru 'aw yakhshaa",
+      "id": "maka berbicaralah kamu berdua kepadanya (Fir‘aun) dengan kata-kata yang lemah lembut, mudah-mudahan dia sadar atau takut.",
+      "en": "And speak to him with gentle speech that perhaps he may be reminded or fear [Allah].\"",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2392",
+      "tafsir": "Wahai Nabi Musa dan Harun, pergilah kamu berdua kepada Fir‘aun yang sombong itu dengan bekal mukjizat dari-Ku karena dia benar-benar telah melampaui batas dalam kedurhakannya. Begitu berhadapan dengannya, maka berbicaralah kamu berdua kepadanya dengan kata-kata yang lemah lembut. Ajaklah dia beriman kepada Allah dan serulah pada kebenaran dengan cara yang baik. Mudah-mudahan dengan cara demikian dia menjadi sadar atau takut pada azab Allah bila terus durhaka.”"
+    },
+    {
+      "no": 45,
+      "arab": "قَالَا رَبَّنَا إِنَّنَا نَخَافُ أَن يَفْرُطَ عَلَيْنَا أَوْ أَن يَطْغَىٰ",
+      "latin": "Qaalaa Rabbanaaa innanaa nakhaafu ai yafruta 'alainaaa aw ai yatghaa",
+      "id": "Keduanya berkata, “Ya Tuhan kami, sungguh, kami khawatir dia akan segera menyiksa kami atau akan bertambah melampaui batas,”",
+      "en": "They said, \"Our Lord, indeed we are afraid that he will hasten [punishment] against us or that he will transgress.\"",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2393",
+      "tafsir": "Nabi Musa dan Harun tahu benar kekejaman dan kesombongan Fir‘aun. Karena itu, setelah mendengar perintah ini keduanya berkata, “Ya Tuhan kami, sesungguhnya kami khawatir dia akan segera menyiksa kami sebelum kami selesai mengajaknya beriman kepada-Mu, atau dia justru akan bertambah melampaui batas, melebihi kedurhakaannya selama ini.”"
+    },
+    {
+      "no": 46,
+      "arab": "قَالَ لَا تَخَافَا ۖ إِنَّنِي مَعَكُمَا أَسْمَعُ وَأَرَىٰ",
+      "latin": "Qaala laa takhaafaaa innanee ma'akumaa asma'u wa araa",
+      "id": "Dia (Allah) berfirman, “Janganlah kamu berdua khawatir, sesungguhnya Aku bersama kamu berdua, Aku mendengar dan melihat.",
+      "en": "[Allah] said, \"Fear not. Indeed, I am with you both; I hear and I see.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2394",
+      "tafsir": "Menenangkan Nabi Musa dan Harun, Dia berfirman, “Janganlah kamu berdua khawatir menghadapi Fir‘aun dan para pengikutnya. Sesungguhnya Aku selalu bersama kamu berdua. Aku akan melindungimu dan menolongmu. Aku mendengar ucapan dan ajakanmu serta mendengar pula apa pun yang dikatakan Fir‘aun. Dan Aku juga melihat apa yang kamu lakukan untuk menjalankan perintah-Ku serta melihat apa yang diperbuat oleh Fir‘aun."
+    },
+    {
+      "no": 47,
+      "arab": "فَأْتِيَاهُ فَقُولَا إِنَّا رَسُولَا رَبِّكَ فَأَرْسِلْ مَعَنَا بَنِي إِسْرَائِيلَ وَلَا تُعَذِّبْهُمْ ۖ قَدْ جِئْنَاكَ بِآيَةٍ مِّن رَّبِّكَ ۖ وَالسَّلَامُ عَلَىٰ مَنِ اتَّبَعَ الْهُدَىٰ",
+      "latin": "Faatiyaahu faqoolaaa innaa Rasoolaa Rabbika fa arsil ma'anaa Banee Israaa'eela wa laa tu'azzibhum qad ji'naaka bi Aayatim mir Rabbika wassa laamu 'alaa manit taba'al hudaa",
+      "id": "Maka pergilah kamu berdua kepadanya (Fir‘aun) dan katakanlah, “Sungguh, kami berdua adalah utusan Tuhanmu, maka lepaskanlah Bani Israil bersama kami dan janganlah engkau menyiksa mereka. Sungguh, kami datang kepadamu dengan membawa bukti (atas kerasulan kami) dari Tuhanmu. Dan keselamatan itu dilimpahkan kepada orang yang mengikuti petunjuk.",
+      "en": "So go to him and say, 'Indeed, we are messengers of your Lord, so send with us the Children of Israel and do not torment them. We have come to you with a sign from your Lord. And peace will be upon he who follows the guidance.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2395",
+      "tafsir": "Kamu berdua ada dalam lindungan-Ku, maka janganlah takut. Pergilah kamu berdua kepadanya dan katakanlah, ‘Sesungguhnya kami berdua adalah utusan Tuhanmu yang telah menganugerahkan beragam nikmat kepadamu, wahai Fir‘aun. Dia juga Tuhan kami dan Bani Israil. Kami mengajakmu beriman kepada-Nya, maka lepaskanlah Bani Israil bersama kami agar kita semua menyembah Allah dan tidak mempersekutukan-Nya, dan janganlah engkau menyiksa mereka seperti yang selama ini kaulakukan. Sesungguhnya kami datang kepadamu dengan membawa bukti nyata tentang risalah kami dari Tuhanmu, yakni berupa tongkat yang dapat berubah wujud menjadi ular dan tangan yang bersinar. Dan ketahuilah, wahai Fir‘aun, keselamatan itu akan dilimpahkan kepada orang yang mengikuti petunjuk Allah yang disampaikan oleh rasul-Nya."
+    },
+    {
+      "no": 48,
+      "arab": "إِنَّا قَدْ أُوحِيَ إِلَيْنَا أَنَّ الْعَذَابَ عَلَىٰ مَن كَذَّبَ وَتَوَلَّىٰ",
+      "latin": "Innaa qad oohiya ilainaaa annnal 'azaaba 'alaa man kaz zaba wa tawalla",
+      "id": "Sungguh, telah diwahyukan kepada kami bahwa siksa itu (ditimpakan) pada siapa pun yang mendustakan (ajaran agama yang kami bawa) dan berpaling (tidak mempedulikannya).”",
+      "en": "Indeed, it has been revealed to us that the punishment will be upon whoever denies and turns away.' \"",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2396",
+      "tafsir": "Kami tidak berdusta. Sesungguhnya telah diwahyukan kepada kami bahwa siksa Allah itu akan ditimpakan kepada siapa pun yang tidak beriman pada-Nya, mendustakan ajaran yang kami bawa, dan berpaling darinya serta enggan melaksanakannya.’”"
+    },
+    {
+      "no": 49,
+      "arab": "قَالَ فَمَن رَّبُّكُمَا يَا مُوسَىٰ",
+      "latin": "Qaala famar Rabbu kumaa yaa Moosa",
+      "id": "Dia (Fir‘aun) berkata, “Siapakah Tuhanmu berdua, wahai Musa?”",
+      "en": "[Pharaoh] said, \"So who is the Lord of you two, O Moses?\"",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2397",
+      "tafsir": "Fir‘aun ingin mendapat kejelasan tentang Allah, Tuhan Yang Mahakuasa tersebut. Dia berkata, “Siapakah Tuhanmu berdua yang mengutusmu untuk menyampaikan dakwah itu, wahai Musa?”"
+    },
+    {
+      "no": 50,
+      "arab": "قَالَ رَبُّنَا الَّذِي أَعْطَىٰ كُلَّ شَيْءٍ خَلْقَهُ ثُمَّ هَدَىٰ",
+      "latin": "Qaala Rabbunal lazeee a'taa kulla shai'in khalqahoo summa hadaa",
+      "id": "Dia (Musa) menjawab, “Tuhan kami ialah (Tuhan) yang telah memberikan bentuk kejadian kepada segala sesuatu, kemudian memberinya petunjuk.”",
+      "en": "He said, \"Our Lord is He who gave each thing its form and then guided [it].\"",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2398",
+      "tafsir": "Nabi Musa menjawab, “Tuhan kita semua ialah Tuhan yang telah menciptakan semua makhluk dan memberikan bentuk kejadian kepada segala sesuatu di alam semesta ini, kemudian memberinya petunjuk dan potensi untuk dapat melakukan segala sesuatu sesuai fungsinya.”"
+    },
+    {
+      "no": 51,
+      "arab": "قَالَ فَمَا بَالُ الْقُرُونِ الْأُولَىٰ",
+      "latin": "Qaala famaa baalul quroonil oolaa",
+      "id": "Dia (Fir‘aun) berkata, “Jadi bagaimana keadaan umat-umat yang dahulu?”",
+      "en": "[Pharaoh] said, \"Then what is the case of the former generations?\"",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2399",
+      "tafsir": "Mendengar jawaban Nabi Musa tentang kekuasaan Allah, Fir‘aun berkata, “Jadi, bagaimana keadaan umat-umat yang dahulu yang telah meninggal dunia, seperti kaum Nabi Nuh, Hud, dan Saleh, yang lebih dulu ingkar?”"
+    },
+    {
+      "no": 52,
+      "arab": "قَالَ عِلْمُهَا عِندَ رَبِّي فِي كِتَابٍ ۖ لَّا يَضِلُّ رَبِّي وَلَا يَنسَى",
+      "latin": "Qaala 'ilmuhaa 'inda Rabee fee kitaab, laa yadillu Rabbee wa laa yansaa",
+      "id": "Dia (Musa) menjawab, “Pengetahuan tentang itu ada pada Tuhanku, di dalam sebuah Kitab (Lauh Mahfuzh), Tuhanku tidak akan salah ataupun lupa;",
+      "en": "[Moses] said, \"The knowledge thereof is with my Lord in a record. My Lord neither errs nor forgets.\"",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2400",
+      "tafsir": "Nabi Musa menjawab pertanyaan Fir‘aun, “Pengetahuan tentang itu secara rinci hanya ada pada Tuhanku. Hanya Dia yang mengetahuinya. Semua hal yang berkaitan dengan makhluk tercatat di dalam sebuah Kitab, yaitu Lauh Mahfuz. Tuhanku tidak akan pernah salah ataupun lupa pada apa pun yang terjadi di alam semesta ini."
+    },
+    {
+      "no": 53,
+      "arab": "الَّذِي جَعَلَ لَكُمُ الْأَرْضَ مَهْدًا وَسَلَكَ لَكُمْ فِيهَا سُبُلًا وَأَنزَلَ مِنَ السَّمَاءِ مَاءً فَأَخْرَجْنَا بِهِ أَزْوَاجًا مِّن نَّبَاتٍ شَتَّىٰ",
+      "latin": "Allazee ja'ala lakumul arda mahdanw wa salaka lakum feehaa subulanw wa anzala minas samaaa'i maaa'an fa akhrajnaa biheee azwaajam min nabaatin shatta",
+      "id": "(Tuhan) yang telah menjadikan bumi sebagai hamparan bagimu, dan menjadikan jalan-jalan di atasnya bagimu, dan yang menurunkan air (hujan) dari langit.” Kemudian Kami tumbuhkan dengannya (air hujan itu) berjenis-jenis aneka macam tumbuh-tumbuhan.",
+      "en": "[It is He] who has made for you the earth as a bed [spread out] and inserted therein for you roadways and sent down from the sky, rain and produced thereby categories of various plants.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2401",
+      "tafsir": "Wahai Fir‘aun, Allah adalah Tuhan yang telah menjadikan bumi sebagai hamparan bagimu, juga bagi seluruh manusia, dan menjadikan jalan-jalan yang rata dan lebar di atasnya bagimu agar kamu mudah bepergian, dan Dia pula yang menurunkan air hujan dari langit untuk menyuburkan tanah di sekitarmu.” Allah beralih menggunakan kalimat langsung dari- Nya, “Kemudian, Kami tumbuhkan dengannya, yakni dengan air hujan itu, berjenis-jenis tumbuh-tumbuhan dengan beragam bentuk, rasa, dan kegunaan."
+    },
+    {
+      "no": 54,
+      "arab": "كُلُوا وَارْعَوْا أَنْعَامَكُمْ ۗ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِّأُولِي النُّهَىٰ",
+      "latin": "Kuloo war'aw an'aamakum; inna fee zaalika la Aayaatil li ulin nuhaa",
+      "id": "Makanlah dan gembalakanlah hewan-hewanmu. Sungguh, pada yang demikian itu, terdapat tanda-tanda (kebesaran Allah) bagi orang yang berakal.",
+      "en": "Eat [therefrom] and pasture your livestock. Indeed, in that are signs for those of intelligence.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2402",
+      "tafsir": "Kami telah menganugerahkan kepadamu berjenis-jenis tetumbuhan, maka makanlah dan gembalakanlah hewan-hewanmu. Sesungguhnya pada yang demikian itu terdapat tanda-tanda kebesaran Allah bagi orang yang berakal."
+    },
+    {
+      "no": 55,
+      "arab": "۞ مِنْهَا خَلَقْنَاكُمْ وَفِيهَا نُعِيدُكُمْ وَمِنْهَا نُخْرِجُكُمْ تَارَةً أُخْرَىٰ",
+      "latin": "Minhaa khalaqnaakum wa feehaa nu'eedukum wa minhaa nukhrijukum taaratan ukhraa",
+      "id": "Darinya (tanah) itulah Kami menciptakan kamu dan kepadanyalah Kami akan mengembalikan kamu dan dari sanalah Kami akan mengeluarkan kamu pada waktu yang lain.",
+      "en": "From the earth We created you, and into it We will return you, and from it We will extract you another time.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2403",
+      "tafsir": "Kami hamparkan tanah untuk kamu. Sesungguhnya darinya Kami menciptakan kamu, wahai Fir‘aun dan seluruh manusia, dan kepadanyalah Kami akan mengembalikan kamu setelah mati, dan dari sanalah pula Kami akan mengeluarkan kamu pada waktu yang lain, yaitu pada hari kebangkitan.”"
+    },
+    {
+      "no": 56,
+      "arab": "وَلَقَدْ أَرَيْنَاهُ آيَاتِنَا كُلَّهَا فَكَذَّبَ وَأَبَىٰ",
+      "latin": "Wa laqad arainaahu Aayaatinaa kullahaa fakaz zaba wa abaa",
+      "id": "Dan sungguh, Kami telah memperlihatkan kepadanya (Fir‘aun) tanda-tanda (kebesaran) Kami semuanya, ternyata dia mendustakan dan enggan (menerima kebenaran).",
+      "en": "And We certainly showed Pharaoh Our signs - all of them - but he denied and refused.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2404",
+      "tafsir": "Meski mendapat bukti nyata yang menguatkan dakwah Nabi Musa, Fir‘aun tetap enggan beriman. Dan sungguh, Kami telah memperlihatkan kepadanya tanda-tanda kebesaran dan kekuasaan Kami semuanya. Namun, ternyata dia keras kepala dan terus mendustakan dan enggan menerima kebenaran. Ia pun tidak mau patuh pada risalah yang disampaikan kepadanya."
+    },
+    {
+      "no": 57,
+      "arab": "قَالَ أَجِئْتَنَا لِتُخْرِجَنَا مِنْ أَرْضِنَا بِسِحْرِكَ يَا مُوسَىٰ",
+      "latin": "Qaala aji'tanaa litukhri janaa min ardinaa bisihrika yaa Moosa",
+      "id": "Dia (Fir‘aun) berkata, “Apakah engkau datang kepada kami untuk mengusir kami dari negeri kami dengan sihirmu, wahai Musa?",
+      "en": "He said, \"Have you come to us to drive us out of our land with your magic, O Moses?",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2405",
+      "tafsir": "Kesombongan telah mendorong Fir‘aun mengabaikan peringatan Nabi Musa. Dia berkata, “Apakah engkau datang kepada kami untuk mengusir kami dari negeri kelahiran kami sendiri, yaitu Mesir, dengan sihirmu itu, wahai Musa?"
+    },
+    {
+      "no": 58,
+      "arab": "فَلَنَأْتِيَنَّكَ بِسِحْرٍ مِّثْلِهِ فَاجْعَلْ بَيْنَنَا وَبَيْنَكَ مَوْعِدًا لَّا نُخْلِفُهُ نَحْنُ وَلَا أَنتَ مَكَانًا سُوًى",
+      "latin": "Falanaatiyannaka bisihrim mislihee faj'al bainanaa wa bainaka maw'idal laa nukhlifuhoo nahnu wa laaa anta makaanan suwaa",
+      "id": "Maka kami pun pasti akan mendatangkan sihir semacam itu kepadamu, maka buatlah suatu perjanjian untuk pertemuan antara kami dan engkau yang kami tidak akan menyalahinya dan tidak (pula) engkau, di suatu tempat yang terbuka.”",
+      "en": "Then we will surely bring you magic like it, so make between us and you an appointment, which we will not fail to keep and neither will you, in a place assigned.\"",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2406",
+      "tafsir": "Bila itu tujuanmu, maka kami pun pasti akan mendatangkan sihir semacam itu kepadamu. Kami akan mengumpulkan para penyihir andal untuk mengalahkanmu. Maka, wahai Musa, buatlah suatu perjanjian untuk pertemuan antara kami dan engkau. Tentukanlah waktu dan tempat pertemuan itu. Mari kita buat kesepakatan yang kami tidak akan menyalahinya dan tidak pula engkau. Adakanlah pertemuan itu di suatu tempat yang terbuka sehingga tidak menyulitkan salah satu pihak dari kita atau orang-orang yang ingin menonton.”"
+    },
+    {
+      "no": 59,
+      "arab": "قَالَ مَوْعِدُكُمْ يَوْمُ الزِّينَةِ وَأَن يُحْشَرَ النَّاسُ ضُحًى",
+      "latin": "Qaala maw'idukum yawmuz zeenati wa ai yuhsharan naasu duhaa",
+      "id": "Dia (Musa) berkata, “(Perjanjian) waktu (untuk pertemuan kami dengan kamu itu) ialah pada hari raya dan hendaklah orang-orang dikumpulkan pada pagi hari (duha).”",
+      "en": "[Moses] said, \"Your appointment is on the day of the festival when the people assemble at mid-morning.\"",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2407",
+      "tafsir": "Nabi Musa tidak gentar menghadapi tantangan Fir‘aun. Dia berkata, “Kesepakatan yang menyangkut waktu untuk pertemuan kami dengan para penyihirmu itu ialah pada hari raya, di tempat kamu dan rakyatmu biasa berkumpul, dan hendaklah orang-orang dikumpulkan pada pagi hari supaya mereka dapat menyaksikan sejak awal.”"
+    },
+    {
+      "no": 60,
+      "arab": "فَتَوَلَّىٰ فِرْعَوْنُ فَجَمَعَ كَيْدَهُ ثُمَّ أَتَىٰ",
+      "latin": "Fatawallaa Fir'awnu fajjama'a kaidahoo summa ataa",
+      "id": "Maka Fir‘aun meninggalkan (tempat itu), lalu mengatur tipu dayanya, kemudian dia datang kembali (pada hari yang ditentukan).",
+      "en": "So Pharaoh went away, put together his plan, and then came [to Moses].",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2408",
+      "tafsir": "Kesepakatan untuk mengadu mukjizat Musa dengan sihir para penyihir Fir‘aun terjalin. Maka Fir‘aun meninggalkan tempat pertemuan itu, lalu dengan segera dia mengatur tipu dayanya untuk mengalahkan Nabi Musa. Setelah waktu yang disepakati tiba, kemudian dia datang kembali bersama para penyihir dan orang-orang yang akan menyaksikan peristiwa tersebut."
+    },
+    {
+      "no": 61,
+      "arab": "قَالَ لَهُم مُّوسَىٰ وَيْلَكُمْ لَا تَفْتَرُوا عَلَى اللَّهِ كَذِبًا فَيُسْحِتَكُم بِعَذَابٍ ۖ وَقَدْ خَابَ مَنِ افْتَرَىٰ",
+      "latin": "Qaala lahum Moosaa wailakum laa taftaroo 'alal laahi kaziban fa yus hitakum bi 'azaab, wa qad khaaba manif taraa",
+      "id": "Musa berkata kepada mereka (para pesihir), “Celakalah kamu! Janganlah kamu mengada-adakan kedustaan terhadap Allah, nanti Dia membinasakan kamu dengan azab.” Dan sungguh rugi orang yang mengada-adakan kedustaan.",
+      "en": "Moses said to the magicians summoned by Pharaoh, \"Woe to you! Do not invent a lie against Allah or He will exterminate you with a punishment; and he has failed who invents [such falsehood].\"",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2409",
+      "tafsir": "Setelah berhadapan dengan para penyihir itu, Nabi Musa berkata kepada mereka, “Wahai para penyihir, celakalah kamu! Janganlah kamu mengada-adakan kedustaan terhadap Allah, seperti menuhankan Fir‘aun, meremehkan rasul Allah, dan menganggap mukjizatku sebagai sihir. Ingatlah, nanti Dia akan membinasakan kamu dengan azab yang sangat pedih.” Dan sungguh, akan rugi orang yang mengada-adakan kedustaan terhadap Allah."
+    },
+    {
+      "no": 62,
+      "arab": "فَتَنَازَعُوا أَمْرَهُم بَيْنَهُمْ وَأَسَرُّوا النَّجْوَىٰ",
+      "latin": "Fatanaaza'ooo amrahum bainahum wa asarrun najwaa",
+      "id": "Maka mereka berbantah-bantahan tentang urusan mereka dan mereka merahasiakan percakapan (mereka).",
+      "en": "So they disputed over their affair among themselves and concealed their private conversation.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2410",
+      "tafsir": "Peringatan Nabi Musa membuat sebagian penyihir ketakutan, sementara sebagian yang lain tetap tidak acuh. Maka mereka pun berbantah- bantahan tentang urusan mereka. Masing-masing mengemukakan pendapatnya terkait peringatan Nabi Musa dan cara menghadapinya, dan mereka merahasiakan percakapan mereka agar Fir‘aun dan para pembesarnya tidak mendengarnya."
+    },
+    {
+      "no": 63,
+      "arab": "قَالُوا إِنْ هَٰذَانِ لَسَاحِرَانِ يُرِيدَانِ أَن يُخْرِجَاكُم مِّنْ أَرْضِكُم بِسِحْرِهِمَا وَيَذْهَبَا بِطَرِيقَتِكُمُ الْمُثْلَىٰ",
+      "latin": "Qaalooo in haaazaani lasaahiraani yureedaani ai yukhrijaakum min ardikum bisihrihimaa wa yazhabaa bitareeqatikumul muslaa",
+      "id": "Mereka (para pesihir) berkata, “Sesungguhnya dua orang ini adalah pesihir yang hendak mengusirmu (Fir‘aun) dari negerimu dengan sihir mereka berdua, dan hendak melenyapkan adat kebiasaanmu yang utama.",
+      "en": "They said, \"Indeed, these are two magicians who want to drive you out of your land with their magic and do away with your most exemplary way.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2411",
+      "tafsir": "Sebagian dari mereka berkata, “Wahai penduduk Mesir, sesungguhnya dua orang ini, yaitu Nabi Musa dan Harun, adalah penyihir yang hendak mengusirmu dari Mesir, dari negerimu dan tanah kelahiranmu, dengan menampilkan sihir mereka berdua, dan mereka juga hendak melenyapkan adat kebiasaanmu yang utama dan kamu yakini, yaitu kepercayaan yang kamu anut dan kedudukan yang kamu nikmati."
+    },
+    {
+      "no": 64,
+      "arab": "فَأَجْمِعُوا كَيْدَكُمْ ثُمَّ ائْتُوا صَفًّا ۚ وَقَدْ أَفْلَحَ الْيَوْمَ مَنِ اسْتَعْلَىٰ",
+      "latin": "Fa ajmi'oo kaidakum summma'too saffaa; wa qad aflahal yawma manis ta'laa",
+      "id": "Maka kumpulkanlah segala tipu daya (sihir) kamu, kemudian datanglah dengan berbaris, dan sungguh, beruntung orang yang menang pada hari ini.”",
+      "en": "So resolve upon your plan and then come [forward] in line. And he has succeeded today who overcomes.\"",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2412",
+      "tafsir": "Karena itu, maka bersatulah menghadapi kedua orang itu. Kumpulkanlah segala tipu daya kamu, baik berupa sihir maupun yang lain, kemudian datanglah kamu semua dengan berbaris rapi dan kompak agar kita dapat mengalahkan mereka berdua, dan sesungguhnya beruntung orang yang menang pada hari ini, yaitu hari ketika kita dan mereka berdua unjuk keahlian masing-masing.”"
+    },
+    {
+      "no": 65,
+      "arab": "قَالُوا يَا مُوسَىٰ إِمَّا أَن تُلْقِيَ وَإِمَّا أَن نَّكُونَ أَوَّلَ مَنْ أَلْقَىٰ",
+      "latin": "Qaaloo yaa Moosaaa immaaa an tulqiya wa immaaa an nakoona awala man alqaa",
+      "id": "Mereka berkata, “Wahai Musa! Apakah engkau yang melemparkan (dahulu) atau kami yang lebih dahulu melemparkan?”",
+      "en": "They said, \"O Moses, either you throw or we will be the first to throw.\"",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2413",
+      "tafsir": "Begitu para penyihir berhadapan dengan Nabi Musa, mereka berkata, “Wahai Musa! Apakah engkau yang melemparkan lebih dulu untuk menun-jukkan kemampuanmu, atau kami yang lebih dahulu melemparkan?”"
+    },
+    {
+      "no": 66,
+      "arab": "قَالَ بَلْ أَلْقُوا ۖ فَإِذَا حِبَالُهُمْ وَعِصِيُّهُمْ يُخَيَّلُ إِلَيْهِ مِن سِحْرِهِمْ أَنَّهَا تَسْعَىٰ",
+      "latin": "Qaala bal alqoo fa izaa hibaaluhum wa 'isiyyuhum yuhaiyalu ilaihi min sihrihim annahaa tas'aa",
+      "id": "Dia (Musa) berkata, “Silakan kamu melemparkan!” Maka tiba-tiba tali-tali dan tongkat-tongkat mereka terbayang olehnya (Musa) seakan-akan ia merayap cepat, karena sihir mereka.",
+      "en": "He said, \"Rather, you throw.\" And suddenly their ropes and staffs seemed to him from their magic that they were moving [like snakes].",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2414",
+      "tafsir": "Dia berkata, “Silakan kamu melemparkan lebih dulu!” Para penyihir itu lantas melemparkan alat sihir mereka ke tengah arena, maka tiba-tiba tali-tali dan tongkat-tongkat mereka terbayang olehnya seakan-akan menjadi ular yang merayap dengan cepat, karena sihir mereka."
+    },
+    {
+      "no": 67,
+      "arab": "فَأَوْجَسَ فِي نَفْسِهِ خِيفَةً مُّوسَىٰ",
+      "latin": "Fa awjasa fee nafsihee kheefatam Moosa",
+      "id": "Maka Musa merasa takut dalam hatinya.",
+      "en": "And he sensed within himself apprehension, did Moses.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2415",
+      "tafsir": "Melihat peristiwa mengagetkan itu, maka Nabi Musa merasa takut."
+    },
+    {
+      "no": 68,
+      "arab": "قُلْنَا لَا تَخَفْ إِنَّكَ أَنتَ الْأَعْلَىٰ",
+      "latin": "Qulnaa laa takhaf innaka antal a'laa",
+      "id": "Kami berfirman, “Jangan takut! Sungguh, engkaulah yang unggul (menang).",
+      "en": "Allah said, \"Fear not. Indeed, it is you who are superior.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2416",
+      "tafsir": "Menenangkan hati Nabi Musa, Kami berfirman, “Wahai Nabi Musa, jangan takut pada ular-ular itu! Sungguh, engkaulah yang unggul dan akan menang dalam pertandingan ini."
+    },
+    {
+      "no": 69,
+      "arab": "وَأَلْقِ مَا فِي يَمِينِكَ تَلْقَفْ مَا صَنَعُوا ۖ إِنَّمَا صَنَعُوا كَيْدُ سَاحِرٍ ۖ وَلَا يُفْلِحُ السَّاحِرُ حَيْثُ أَتَىٰ",
+      "latin": "Wa alqi maa fee yamee nika talqaf maa sana'oo; innamaa sana'oo kaidu saahir; wa laa yuflihus saahiru haisu ataa",
+      "id": "Dan lemparkan apa yang ada di tangan kananmu, niscaya ia akan menelan apa yang mereka buat. Apa yang mereka buat itu hanyalah tipu daya pesihir (belaka). Dan tidak akan menang pesihir itu, dari mana pun ia datang.”",
+      "en": "And throw what is in your right hand; it will swallow up what they have crafted. What they have crafted is but the trick of a magician, and the magician will not succeed wherever he is.\"",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2417",
+      "tafsir": "Dan lemparkan apa yang ada di tangan kananmu, yaitu tongkat yang biasa engkau pakai untuk menggembala kambing, niscaya ia akan menelan apa yang mereka buat, yakni ular-ular yang berasal dari sihir mereka. Ketahuilah, apa yang mereka buat itu hanyalah tipu daya penyihir belaka, dan tidak akan menang penyihir itu, dari mana pun ia datang.”"
+    },
+    {
+      "no": 70,
+      "arab": "فَأُلْقِيَ السَّحَرَةُ سُجَّدًا قَالُوا آمَنَّا بِرَبِّ هَارُونَ وَمُوسَىٰ",
+      "latin": "Fa ulqiyas saharatu sujjadan qaalooo aamannaa bi Rabbi Haaroona wa Moosa",
+      "id": "Lalu para pesihir itu merunduk bersujud, seraya berkata, “Kami telah percaya kepada Tuhannya Harun dan Musa.”",
+      "en": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\"",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2418",
+      "tafsir": "Setelah melihat ular-ular hasil sihir mereka ditelan oleh ular yang berasal dari tongkat Nabi Musa, lalu para penyihir itu ditiarapkan oleh rasa takut pada Allah dan kagum pada kehebatan mukjizat Nabi Musa. Mereka segera merunduk bersujud kepada Tuhan Yang Maha Esa seraya berkata, “Kami telah percaya dan beriman kepada Tuhan Harun dan Musa.”"
+    },
+    {
+      "no": 71,
+      "arab": "قَالَ آمَنتُمْ لَهُ قَبْلَ أَنْ آذَنَ لَكُمْ ۖ إِنَّهُ لَكَبِيرُكُمُ الَّذِي عَلَّمَكُمُ السِّحْرَ ۖ فَلَأُقَطِّعَنَّ أَيْدِيَكُمْ وَأَرْجُلَكُم مِّنْ خِلَافٍ وَلَأُصَلِّبَنَّكُمْ فِي جُذُوعِ النَّخْلِ وَلَتَعْلَمُنَّ أَيُّنَا أَشَدُّ عَذَابًا وَأَبْقَىٰ",
+      "latin": "Qaala aamantum lahoo qabla an aazana lakum; innahoo lakabeerukumul lazee 'allama kumus sihra fala uqatti'anna aidiyakum wa arjulakum min khilaafinw wa la usallibannakum fee juzoo'in nakhli wa lata'lamunna aiyunaaa ashaddu 'azaabanw wa abqaa",
+      "id": "Dia (Fir‘aun) berkata, “Apakah kamu telah beriman kepadanya (Musa) sebelum aku memberi izin kepadamu? Sesungguhnya dia itu pemimpinmu yang mengajarkan sihir kepadamu. Maka sungguh, akan kupotong tangan dan kakimu secara bersilang, dan sungguh, akan aku salib kamu pada pangkal pohon kurma dan sungguh, kamu pasti akan mengetahui siapa di antara kita yang lebih pedih dan lebih kekal siksaannya.”",
+      "en": "[Pharaoh] said, \"You believed him before I gave you permission. Indeed, he is your leader who has taught you magic. So I will surely cut off your hands and your feet on opposite sides, and I will crucify you on the trunks of palm trees, and you will surely know which of us is more severe in [giving] punishment and more enduring.\"",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2419",
+      "tafsir": "Fir‘aun murka melihat kekalahan dan keimanan para penyihirnya. Dia berkata, “Wahai para penyihir, apakah kamu telah beriman kepadanya, yaitu kepada Nabi Musa, sebelum aku memberi izin kepadamu? Sesungguhnya dia itu pemimpinmu. Dia tidak lebih dari sekadar penyihir pandai yang mengajarkan sihir kepadamu. Dengan beriman, kamu telah melakukan makar dan melanggar janji setiamu kepadaku, maka sungguh, aku akan memotong tangan kanan dan kaki kiri kamu secara bersilang, dan sungguh akan aku salib kamu pada pangkal pohon kurma. Akan aku gantung tubuh-tubuhmu dan aku ikat kaki dan tanganmu di sana agar orang-orang tahu hukuman bagi orang yang melanggar perintahku. Dan sungguh, kamu pasti akan mengetahui siapa di antara kita, di antara aku dan Tuhan Nabi Musa, yang lebih pedih dan lebih kekal siksaannya.”"
+    },
+    {
+      "no": 72,
+      "arab": "قَالُوا لَن نُّؤْثِرَكَ عَلَىٰ مَا جَاءَنَا مِنَ الْبَيِّنَاتِ وَالَّذِي فَطَرَنَا ۖ فَاقْضِ مَا أَنتَ قَاضٍ ۖ إِنَّمَا تَقْضِي هَٰذِهِ الْحَيَاةَ الدُّنْيَا",
+      "latin": "Qaaloo lan nu'siraka 'alaa maa jaaa'anaa minal baiyinaati wallazee fataranaa faqdi maaa anta qaad; innamaa taqdee haazihil hayaatad dunyaa",
+      "id": "Mereka (para pesihir) berkata, “Kami tidak akan memilih (tunduk) kepadamu atas bukti-bukti nyata (mukjizat), yang telah datang kepada kami dan atas (Allah) yang telah menciptakan kami. Maka putuskanlah yang hendak engkau putuskan. Sesungguhnya engkau hanya dapat memutuskan pada kehidupan di dunia ini.",
+      "en": "They said, \"Never will we prefer you over what has come to us of clear proofs and [over] He who created us. So decree whatever you are to decree. You can only decree for this worldly life.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2420",
+      "tafsir": "Para penyihir tidak takut pada ancaman Fir‘aun. Mereka berkata, “Wahai Fir‘aun, kami tidak akan memilih untuk lebih tunduk kepadamu daripada sebagian bukti-bukti nyata atau mukjizat yang telah datang kepada kami melalui Nabi Musa. Dan kami juga tidak akan mengutamakanmu sebagai sesembahan atas Allah yang telah menciptakan kami. Maka, putuskanlah yang hendak engkau putuskan dan lakukanlah apa saja yang ingin kaulakukan terhadap kami. Sesungguhnya engkau hanya dapat memutuskan pada kehidupan di dunia ini. Kekuasaanmu tidak akan berlanjut hingga akhirat nanti."
+    },
+    {
+      "no": 73,
+      "arab": "إِنَّا آمَنَّا بِرَبِّنَا لِيَغْفِرَ لَنَا خَطَايَانَا وَمَا أَكْرَهْتَنَا عَلَيْهِ مِنَ السِّحْرِ ۗ وَاللَّهُ خَيْرٌ وَأَبْقَىٰ",
+      "latin": "Innaaa aamannaa bi Rabbinaa liyaghfira lanaa khataayaanaa wa maaa akrahtanaa 'alaihi minas sihr; wallaahu khairunw waabqaa",
+      "id": "Kami benar-benar telah beriman kepada Tuhan kami, agar Dia mengampuni kesalahan-kesalahan kami dan sihir yang telah engkau paksakan kepada kami. Dan Allah lebih baik (pahala-Nya) dan lebih kekal (azab-Nya).”",
+      "en": "Indeed, we have believed in our Lord that He may forgive us our sins and what you compelled us [to do] of magic. And Allah is better and more enduring.\"",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2421",
+      "tafsir": "Wahai Fir‘aun, kami benar-benar telah beriman dan akan memegang teguh kepercayaan kami kepada Tuhan Pencipta kami yang selama ini kami durhakai dan ingkari. Kami beriman dengan harapan agar Dia mengampuni kesalahan-kesalahan kami yang telah mempersekutukan-Nya dan mengampuni dosa kami karena telah mempelajari dan mempraktikkan sihir yang telah engkau paksakan kepada kami. Dan Allah lebih baik pahala-Nya kepada orang yang taat daripada balasanmu kepada kami, dan Dia lebih kekal kekuasaan serta azab-Nya bagi pendurhaka dibanding siksamu."
+    },
+    {
+      "no": 74,
+      "arab": "إِنَّهُ مَن يَأْتِ رَبَّهُ مُجْرِمًا فَإِنَّ لَهُ جَهَنَّمَ لَا يَمُوتُ فِيهَا وَلَا يَحْيَىٰ",
+      "latin": "Innahoo mai yaati Rabbahoo mujriman fa inna lahoo Jahannama laa yamotu feehaa wa laa yahyaa",
+      "id": "Sesungguhnya barang siapa datang kepada Tuhannya dalam keadaan berdosa, maka sungguh, baginya adalah neraka Jahanam. Dia tidak mati (terus merasakan azab) di dalamnya dan tidak (pula) hidup (tidak dapat bertobat).",
+      "en": "Indeed, whoever comes to his Lord as a criminal - indeed, for him is Hell; he will neither die therein nor live.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2422",
+      "tafsir": "Sesungguhnya barang siapa meninggal dunia dan datang kepada Tuhannya dalam keadaan berdosa dan tidak bertobat, maka sungguh, baginya adalah neraka Jahanam. Dia tidak mati di dalamnya sehingga akan terus merasakan azab, dan tidak pula hidup dengan nyaman.” Demikianlah kondisi orang yang durhaka dan kafir."
+    },
+    {
+      "no": 75,
+      "arab": "وَمَن يَأْتِهِ مُؤْمِنًا قَدْ عَمِلَ الصَّالِحَاتِ فَأُولَٰئِكَ لَهُمُ الدَّرَجَاتُ الْعُلَىٰ",
+      "latin": "Wa mai yaatihee mu'minan qad 'amilas saalihaati fa ulaaa'ika lahumud dara jaatul 'ulaa",
+      "id": "Tetapi barang siapa datang kepada-Nya dalam keadaan beriman, dan telah mengerjakan kebajikan, maka mereka itulah orang yang memperoleh derajat yang tinggi (mulia),",
+      "en": "But whoever comes to Him as a believer having done righteous deeds - for those will be the highest degrees [in position]:",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2423",
+      "tafsir": "Tetapi, sebaliknya, barang siapa meninggal dunia dan datang kepada-Nya dalam keadaan beriman dan telah mengerjakan kebajikan sesuai tuntunan Allah dan rasul-Nya, maka mereka itulah orang yang memperoleh derajat yang tinggi dan mulia. Mereka akan mendapatkan surga-surga ‘Adn yang mengalir di bawahnya, yaitu di antara pepohonannya, sungai-sungai. Mereka kekal selama-lamanya di dalamnya. Itulah balasan bagi orang yang menyucikan dan menjauhkan diri dari kekafiran dan kemungkaran."
+    },
+    {
+      "no": 76,
+      "arab": "جَنَّاتُ عَدْنٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا ۚ وَذَٰلِكَ جَزَاءُ مَن تَزَكَّىٰ",
+      "latin": "Jannaatu 'Adnin tajree min tahtihal anhaaru khaalideena feehaa; wa zaalika jazaaa'ua man tazakka",
+      "id": "(yaitu) surga-surga ‘Adn, yang mengalir di bawahnya sungai-sungai, mereka kekal di dalamnya. Itulah balasan bagi orang yang menyucikan diri.",
+      "en": "Gardens of perpetual residence beneath which rivers flow, wherein they abide eternally. And that is the reward of one who purifies himself.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2424",
+      "tafsir": "Tetapi, sebaliknya, barang siapa meninggal dunia dan datang kepada-Nya dalam keadaan beriman dan telah mengerjakan kebajikan sesuai tuntunan Allah dan rasul-Nya, maka mereka itulah orang yang memperoleh derajat yang tinggi dan mulia. Mereka akan mendapatkan surga-surga ‘Adn yang mengalir di bawahnya, yaitu di antara pepohonannya, sungai-sungai. Mereka kekal selama-lamanya di dalamnya. Itulah balasan bagi orang yang menyucikan dan menjauhkan diri dari kekafiran dan kemungkaran."
+    },
+    {
+      "no": 77,
+      "arab": "وَلَقَدْ أَوْحَيْنَا إِلَىٰ مُوسَىٰ أَنْ أَسْرِ بِعِبَادِي فَاضْرِبْ لَهُمْ طَرِيقًا فِي الْبَحْرِ يَبَسًا لَّا تَخَافُ دَرَكًا وَلَا تَخْشَىٰ",
+      "latin": "Wa laqad awhainaaa ilaa Moosaaa an asri bi'ibaadee fadrib lahum tareeqan fil bahri yabasal laa takhaafu darakanw wa laa takhshaa",
+      "id": "Dan sungguh, telah Kami wahyukan kepada Musa, “Pergilah bersama hamba-hamba-Ku (Bani Israil) pada malam hari, dan pukullah (buatlah) untuk mereka jalan yang kering di laut itu, (engkau) tidak perlu takut akan tersusul dan tidak perlu khawatir (akan tenggelam).”",
+      "en": "And We had inspired to Moses, \"Travel by night with My servants and strike for them a dry path through the sea; you will not fear being overtaken [by Pharaoh] nor be afraid [of drowning].\"",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2425",
+      "tafsir": "Nabi Musa berhasil mengalahkan para penyihir itu dan mengajak mereka beriman. Dan sungguh, telah Kami wahyukan kepada Musa suatu pesan berisi, “Tinggalkanlah Mesir. Pergilah bersama hamba-hamba-Ku, yaitu Bani Israil, pada malam hari, dan pukullah tongkatmu untuk menyediakan bagi mereka jalan yang kering di laut. Dengan kuasa Allah, terbentanglah jalan yang kering di laut sehingga engkau tidak perlu takut akan tersusul oleh Fir‘aun dan tentaranya, dan juga tidak perlu khawatir akan tenggelam di laut itu.”"
+    },
+    {
+      "no": 78,
+      "arab": "فَأَتْبَعَهُمْ فِرْعَوْنُ بِجُنُودِهِ فَغَشِيَهُم مِّنَ الْيَمِّ مَا غَشِيَهُمْ",
+      "latin": "Fa atba'ahum Fir'awnu bijunoodihee faghashiyahum minal yammmi maa ghashi yahum",
+      "id": "Kemudian Fir‘aun dengan bala tentaranya mengejar mereka, tetapi mereka digulung ombak laut yang menenggelamkan mereka.",
+      "en": "So Pharaoh pursued them with his soldiers, and there covered them from the sea that which covered them,",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2426",
+      "tafsir": "Mengetahui Nabi Musa dan Bani Israil meninggalkan Mesir, kemudian Fir‘aun dengan bala tentaranya mengejar mereka melalui jalan kering di laut itu, tetapi sebelum berhasil menyusul Nabi Musa dan Bani Israil, mereka digulung ombak laut yang datang tiba-tiba dan kemudian menenggelamkan mereka. Itulah balasan bagi orang yang sesat dan durhaka kepada Tuhan."
+    },
+    {
+      "no": 79,
+      "arab": "وَأَضَلَّ فِرْعَوْنُ قَوْمَهُ وَمَا هَدَىٰ",
+      "latin": "wa adalla fir'awnu qawmahoo wa maa hadaa",
+      "id": "Dan Fir‘aun telah menyesatkan kaumnya dan tidak memberi petunjuk.",
+      "en": "And Pharaoh led his people astray and did not guide [them].",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2427",
+      "tafsir": "Dan sejak dulu sampai meninggalnya Fir‘aun memang telah menyesatkan kaumnya dan tidak pernah memberi petunjuk ke jalan yang benar."
+    },
+    {
+      "no": 80,
+      "arab": "يَا بَنِي إِسْرَائِيلَ قَدْ أَنجَيْنَاكُم مِّنْ عَدُوِّكُمْ وَوَاعَدْنَاكُمْ جَانِبَ الطُّورِ الْأَيْمَنَ وَنَزَّلْنَا عَلَيْكُمُ الْمَنَّ وَالسَّلْوَىٰ",
+      "latin": "Yaa Baneee Israaa'eela qad anjainaakum min 'aduw wikum wa wa'adnaakum jaanibat Tooril aimana wa nazzalnaa 'alaikumul Manna was Salwaa",
+      "id": "Wahai Bani Israil! Sungguh, Kami telah menyelamatkan kamu dari musuhmu, dan Kami telah mengadakan perjanjian dengan kamu (untuk bermunajat) di sebelah kanan gunung itu (gunung Sinai) dan Kami telah menurunkan kepada kamu mann dan salwa.",
+      "en": "O Children of Israel, We delivered you from your enemy, and We made an appointment with you at the right side of the mount, and We sent down to you manna and quails,",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2428",
+      "tafsir": "Mengingatkan betapa besar nikmat-Nya kepada Bani Israil, Allah berfirman, “Wahai Bani Israil! Sungguh, Kami telah menyelamatkan kamu dari musuhmu, yaitu Fir‘aun dan tentaranya, dan Kami telah mengadakan perjanjian dengan kamu melalui Nabi Musa untuk bermunajat dan berada di tempat yang telah ditetapkan, yaitu di sebelah kanan gunung Sinai, dan Kami telah menurunkan kepada kamu mann dan salwa sebagai bahan akanan untuk kelangsungan hidupmu."
+    },
+    {
+      "no": 81,
+      "arab": "كُلُوا مِن طَيِّبَاتِ مَا رَزَقْنَاكُمْ وَلَا تَطْغَوْا فِيهِ فَيَحِلَّ عَلَيْكُمْ غَضَبِي ۖ وَمَن يَحْلِلْ عَلَيْهِ غَضَبِي فَقَدْ هَوَىٰ",
+      "latin": "Kuloo min taiyibaati maa razaqnaakum wa laa tatghaw feehi fa yahilla 'alaikum ghadabee wa mai yahlil 'alaihi ghadabee faqad hawaa",
+      "id": "Makanlah dari rezeki yang baik-baik yang telah Kami berikan kepadamu, dan janganlah melampaui batas, yang menyebabkan kemurkaan-Ku menimpamu. Barangsiapa ditimpa kemurkaan-Ku, maka sungguh, binasalah dia.",
+      "en": "[Saying], \"Eat from the good things with which We have provided you and do not transgress [or oppress others] therein, lest My anger should descend upon you. And he upon whom My anger descends has certainly fallen.\"",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2429",
+      "tafsir": "Dengan semua anugerah itu, makanlah dari rezeki yang baik-baik yang telah Kami berikan kepadamu, yaitu mann dan salwa, dan janganlah melampaui batas. Jangan langgar tuntunan-Ku yang pada akhirnya menyebabkan kemurkaan-Ku akan menimpamu. Ketahuilah, barang siapa ditimpa kemurkaan-Ku, maka sungguh binasalah dia akibat siksa itu."
+    },
+    {
+      "no": 82,
+      "arab": "وَإِنِّي لَغَفَّارٌ لِّمَن تَابَ وَآمَنَ وَعَمِلَ صَالِحًا ثُمَّ اهْتَدَىٰ",
+      "latin": "Wa innee la Ghaffaarul liman taaba wa aamana wa 'amila saalihan summah tadaa",
+      "id": "Dan sungguh, Aku Maha Pengampun bagi yang bertobat, beriman dan berbuat kebajikan, kemudian tetap dalam petunjuk.",
+      "en": "But indeed, I am the Perpetual Forgiver of whoever repents and believes and does righteousness and then continues in guidance.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2430",
+      "tafsir": "Dan sungguh, Aku Maha Pengampun bagi siapa saja yang bertobat dari kekafiran yang dilakukannya, dan beriman kepada-Ku serta selalu berbuat kebajikan sesuai tuntunan-Ku dan rasul-Ku, kemudian tetap konsisten dalam petunjuk dan teguh melaksanakannya.”"
+    },
+    {
+      "no": 83,
+      "arab": "۞ وَمَا أَعْجَلَكَ عَن قَوْمِكَ يَا مُوسَىٰ",
+      "latin": "Wa maaa a'jalaka 'an qawmika yaa Moosa",
+      "id": "“Dan mengapa engkau datang lebih cepat daripada kaummu, wahai Musa?”",
+      "en": "[Allah] said, \"And what made you hasten from your people, O Moses?\"",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2431",
+      "tafsir": "Allah menegur Nabi Musa karena tergesa-gesa meninggalkan kaumnya. Mendapat janji Allah yang sangat menggembirakan itu, Nabi Musa bergegas menuju tempat yang ditetapkan sehingga Allah menegurnya, “Dan mengapa engkau datang lebih cepat daripada kaummu, wahai Musa? Bukanlah akan lebih baik bila engkau datang bersama mereka?”"
+    },
+    {
+      "no": 84,
+      "arab": "قَالَ هُمْ أُولَاءِ عَلَىٰ أَثَرِي وَعَجِلْتُ إِلَيْكَ رَبِّ لِتَرْضَىٰ",
+      "latin": "Qaala hum ulaaa'i 'alaaa asaree wa 'ajiltu ilaika Rabbi litardaa",
+      "id": "Dia (Musa) berkata, “Itu mereka sedang menyusul aku dan aku bersegera kepada-Mu, Ya Tuhanku, agar Engkau rida (kepadaku).”",
+      "en": "He said, \"They are close upon my tracks, and I hastened to You, my Lord, that You be pleased.\"",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2432",
+      "tafsir": "Nabi Musa menduga Bani Israil mengikutinya di belakang. Dia berkata, “Itu mereka sedang menyusul aku. Tidak lama lagi mereka akan tiba. Dan aku bersegera datang kepada-Mu, Ya Tuhanku, agar Engkau rida dan memberiku restu-Mu.”"
+    },
+    {
+      "no": 85,
+      "arab": "قَالَ فَإِنَّا قَدْ فَتَنَّا قَوْمَكَ مِن بَعْدِكَ وَأَضَلَّهُمُ السَّامِرِيُّ",
+      "latin": "Qaala fa innaa qad fatannaa qawmaka mim ba'dika wa adallahumus Saamiriyy",
+      "id": "Dia (Allah) berfirman, “Sungguh, Kami telah menguji kaummu setelah engkau tinggalkan, dan mereka telah disesatkan oleh Samiri.”",
+      "en": "[Allah] said, \"But indeed, We have tried your people after you [departed], and the Samiri has led them astray.\"",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2433",
+      "tafsir": "Dia berfirman, “Begitu engkau pergi mendahului mereka, sungguh, Kami telah menguji kaummu setelah engkau tinggalkan mereka. Mereka gagal melalui ujian-Ku sehingga terjerumus dalam kesesatan dengan menyembah patung anak sapi. Dan mereka menjadi kafir karena telah disesatkan oleh Samiri.”"
+    },
+    {
+      "no": 86,
+      "arab": "فَرَجَعَ مُوسَىٰ إِلَىٰ قَوْمِهِ غَضْبَانَ أَسِفًا ۚ قَالَ يَا قَوْمِ أَلَمْ يَعِدْكُمْ رَبُّكُمْ وَعْدًا حَسَنًا ۚ أَفَطَالَ عَلَيْكُمُ الْعَهْدُ أَمْ أَرَدتُّمْ أَن يَحِلَّ عَلَيْكُمْ غَضَبٌ مِّن رَّبِّكُمْ فَأَخْلَفْتُم مَّوْعِدِي",
+      "latin": "Faraja's Moosaaa ilaa qawmihee ghadbaana asifaa; qaala yaa qawmi alam ya'idkum Rabbukum wa'dan hasanaa; afataala 'alaikumul 'ahdu am arattum ai yahilla 'alaikum ghadabum mir Rabbikum fa akhlaftum maw'idee",
+      "id": "Kemudian Musa kembali kepada kaumnya dengan marah dan bersedih hati. Dia (Musa) berkata, “Wahai kaumku! Bukankah Tuhanmu telah menjanjikan kepadamu suatu janji yang baik? Apakah terlalu lama masa perjanjian itu bagimu atau kamu menghendaki agar kemurkaan Tuhan menimpamu, mengapa kamu melanggar perjanjianmu dengan aku?”",
+      "en": "So Moses returned to his people, angry and grieved. He said, \"O my people, did your Lord not make you a good promise? Then, was the time [of its fulfillment] too long for you, or did you wish that wrath from your Lord descend upon you, so you broke your promise [of obedience] to me?\"",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2434",
+      "tafsir": "Kemudian Nabi Musa kembali kepada kaumnya dengan marah karena menyaksikan mereka menyembah patung anak sapi. Dia marah dan bersedih hati karena kekafiran mereka setelah dia berusaha memberi mereka petunjuk. Dia berkata, “Wahai kaumku! Bukankah Tuhanmu telah menjanjikan kepadamu suatu janji yang baik bila kamu beriman, yaitu dengan menjamin keselamatanmu di dunia dan kebahagiaanmu di akhirat? Apakah terlalu lama masa perjanjian itu bagimu sehingga kamu tidak sabar dan akhirnya menyembah patung anak sapi ini, atau kamu memang sengaja menghendaki agar kemurkaan Tuhan menimpamu? Mengapa kamu melanggar perjanjianmu dengan aku yang telah kamu teguhkan sebelumnya?”"
+    },
+    {
+      "no": 87,
+      "arab": "قَالُوا مَا أَخْلَفْنَا مَوْعِدَكَ بِمَلْكِنَا وَلَٰكِنَّا حُمِّلْنَا أَوْزَارًا مِّن زِينَةِ الْقَوْمِ فَقَذَفْنَاهَا فَكَذَٰلِكَ أَلْقَى السَّامِرِيُّ",
+      "latin": "Qaaloo maaa akhlafnaa maw'idaka bimalkinna wa laakinna hummilnaaa awzaaram min zeenatil qawmi faqazafnaahaa fakazaalika alqas Saamiriyy",
+      "id": "Mereka berkata, “Kami tidak melanggar perjanjianmu dengan kemauan kami sendiri, tetapi kami harus membawa beban berat dari perhiasan kaum (Fir‘aun) itu, kemudian kami melemparkannya (ke dalam api), dan demikian pula Samiri melemparkannya,",
+      "en": "They said, \"We did not break our promise to you by our will, but we were made to carry burdens from the ornaments of the people [of Pharaoh], so we threw them [into the fire], and thus did the Samiri throw.\"",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2435",
+      "tafsir": "Dengan penuh penyesalan mereka berkata, “Wahai Nabi Musa, kami memang bersalah, namun kami tidak melanggar perjanjianmu dengan kemauan kami sendiri, tetapi kami harus membawa beban berat ketika meninggalkan Mesir yang terdiri dari perhiasan kaum itu, yaitu orang-orang Mesir, kemudian kami melemparkannya ke dalam api, dan demikian pula Samiri melemparkannya ke api itu.”"
+    },
+    {
+      "no": 88,
+      "arab": "فَأَخْرَجَ لَهُمْ عِجْلًا جَسَدًا لَّهُ خُوَارٌ فَقَالُوا هَٰذَا إِلَٰهُكُمْ وَإِلَٰهُ مُوسَىٰ فَنَسِيَ",
+      "latin": "Fa akhraja lahum 'ijlan jasadal lahoo khuwaarun faqaaloo haazaaa ilaahukum wa ilaahu Moosaa fanasee",
+      "id": "kemudian (dari lubang api itu) dia (Samiri) mengeluarkan (patung) anak sapi yang bertubuh dan bersuara untuk mereka, maka mereka berkata, “Inilah Tuhanmu dan Tuhannya Musa, tetapi dia (Musa) telah lupa.”",
+      "en": "And he extracted for them [the statue of] a calf which had a lowing sound, and they said, \"This is your god and the god of Moses, but he forgot.\"",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2436",
+      "tafsir": "Kemudian dia, yaitu Samiri, mengeluarkan dan menciptakan patung anak sapi yang bertubuh dan bersuara dari perhiasan itu untuk mereka, maka mereka berkata sambil menunjuk ke arah patung anak sapi itu, “Inilah Tuhanmu dan Tuhan Musa, tetapi dia pergi dan telah lupa bila Tuhannya ada di sini.”"
+    },
+    {
+      "no": 89,
+      "arab": "أَفَلَا يَرَوْنَ أَلَّا يَرْجِعُ إِلَيْهِمْ قَوْلًا وَلَا يَمْلِكُ لَهُمْ ضَرًّا وَلَا نَفْعًا",
+      "latin": "Afalaa yarawna allaa yarji'u ilaihim qawlanw wa laa yamliku lahum darranw wa laa naf'aa",
+      "id": "Maka tidakkah mereka memperhatikan bahwa (patung anak sapi itu) tidak dapat memberi jawaban kepada mereka, dan tidak kuasa menolak mudarat mau-pun mendatangkan manfaat kepada mereka?",
+      "en": "Did they not see that it could not return to them any speech and that it did not possess for them any harm or benefit?",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2437",
+      "tafsir": "Sikap mereka itu sungguh sangat buruk. Maka tidakkah mereka memperhatikan bahwa patung anak sapi itu tidak dapat memberi jawaban kepada mereka atas pertanyaan yang mereka ajukan dan tidak pula kuasa menolak mudarat yang menimpa mereka maupun mendatangkan manfaat yang diinginkan kepada mereka?"
+    },
+    {
+      "no": 90,
+      "arab": "وَلَقَدْ قَالَ لَهُمْ هَارُونُ مِن قَبْلُ يَا قَوْمِ إِنَّمَا فُتِنتُم بِهِ ۖ وَإِنَّ رَبَّكُمُ الرَّحْمَٰنُ فَاتَّبِعُونِي وَأَطِيعُوا أَمْرِي",
+      "latin": "Wa laqad qaala lahum Haaroonu min qablu yaa qawmi innamaa futintum bihee wa inna Rabbakumur Rahmaanu fattabi'oonee wa atee'ooo amree",
+      "id": "Dan sungguh, sebelumnya Harun telah berkata kepada mereka, “Wahai kaumku! Sesungguhnya kamu hanya sekedar diberi cobaan (dengan patung anak sapi) itu dan sungguh, Tuhanmu ialah (Allah) Yang Maha Pengasih, maka ikutilah aku dan taatilah perintahku.”",
+      "en": "And Aaron had already told them before [the return of Moses], \"O my people, you are only being tested by it, and indeed, your Lord is the Most Merciful, so follow me and obey my order.\"",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2438",
+      "tafsir": "Dan sungguh, sebelumnya, yaitu sebelum kepulangan Nabi Musa, Nabi Harun telah mengingatkan dan berkata kepada mereka yang menyembah patung anak sapi itu, “Wahai kaumku! Sesungguhnya kamu hanya sekadar diberi cobaan dengan patung anak sapi itu. Dan sungguh Tuhanmu yang hakiki ialah Allah Yang Maha Pengasih, maka ikutilah dengan sungguh-sungguh nasihat dan peringatan yang aku berikan kepadamu dan taatilah perintahku untuk beriman dan beribadah hanya kepada Tuhan Yang Maha Esa.”"
+    },
+    {
+      "no": 91,
+      "arab": "قَالُوا لَن نَّبْرَحَ عَلَيْهِ عَاكِفِينَ حَتَّىٰ يَرْجِعَ إِلَيْنَا مُوسَىٰ",
+      "latin": "Qaaloo lan nabraha 'alaihi 'aakifeena hattaa yarji'a ilainaa Moosaa",
+      "id": "Mereka menjawab, “Kami tidak akan meninggalkannya (dan) tetap menyembahnya (patung anak sapi) sampai Musa kembali kepada kami.”",
+      "en": "They said, \"We will never cease being devoted to the calf until Moses returns to us.\"",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2439",
+      "tafsir": "Mereka tidak menghiraukan nasihat Nabi Harun seraya menjawab, “Sungguh, kami tidak akan meninggalkannya, yaitu patung anak sapi itu. Kami tetap akan menyembahnya sampai Musa kembali kepada kami.”"
+    },
+    {
+      "no": 92,
+      "arab": "قَالَ يَا هَارُونُ مَا مَنَعَكَ إِذْ رَأَيْتَهُمْ ضَلُّوا",
+      "latin": "Qaala Yaa Haaroonu maa mana 'aka iz ra aitahum dallooo",
+      "id": "Dia (Musa) berkata, “Wahai Harun! Apa yang menghalangimu ketika engkau melihat mereka telah sesat,",
+      "en": "[Moses] said, \"O Aaron, what prevented you, when you saw them going astray,",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2440",
+      "tafsir": "Melihat kesesatan kaumnya, Nabi Musa marah dan menegur Nabi Harun karena dianggap tidak mampu memimpin Bani Israil dengan baik. Sambil memegang kepala dan janggut saudaranya itu, dia berkata, “Wahai Harun! Allah mengutusmu untuk membantuku. Apa yang menghalangimu untuk menegur ketika engkau melihat mereka telah sesat dengan menyembah patung anak sapi? Apa yang menyebabkan engkau tidak mengikuti aku dalam berdakwah dan mengajak mereka untuk mengesakan Allah? Apakah engkau telah sengaja melanggar perintahku sehingga engkau membiarkan mereka sesat?”"
+    },
+    {
+      "no": 93,
+      "arab": "أَلَّا تَتَّبِعَنِ ۖ أَفَعَصَيْتَ أَمْرِي",
+      "latin": "Allaa tattabi'ani afa'asaita amree",
+      "id": "(sehingga) engkau tidak mengikuti aku? Apakah engkau telah (sengaja) melanggar perintahku?”",
+      "en": "From following me? Then have you disobeyed my order?\"",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2441",
+      "tafsir": "Melihat kesesatan kaumnya, Nabi Musa marah dan menegur Nabi Harun karena dianggap tidak mampu memimpin Bani Israil dengan baik. Sambil memegang kepala dan janggut saudaranya itu, dia berkata, “Wahai Harun! Allah mengutusmu untuk membantuku. Apa yang menghalangimu untuk menegur ketika engkau melihat mereka telah sesat dengan menyembah patung anak sapi? Apa yang menyebabkan engkau tidak mengikuti aku dalam berdakwah dan mengajak mereka untuk mengesakan Allah? Apakah engkau telah sengaja melanggar perintahku sehingga engkau membiarkan mereka sesat?”"
+    },
+    {
+      "no": 94,
+      "arab": "قَالَ يَا ابْنَ أُمَّ لَا تَأْخُذْ بِلِحْيَتِي وَلَا بِرَأْسِي ۖ إِنِّي خَشِيتُ أَن تَقُولَ فَرَّقْتَ بَيْنَ بَنِي إِسْرَائِيلَ وَلَمْ تَرْقُبْ قَوْلِي",
+      "latin": "Qaala yabna'umma laa taakhuz bilihyatee wa laa biraasee innee khashetu an taqoola farraqta baina Baneee Israaa'eela wa lam tarqub qawlee",
+      "id": "Dia (Harun) menjawab, “Wahai putra ibuku! Janganlah engkau pegang janggutku dan jangan (pula) kepalaku. Aku sungguh khawatir engkau akan berkata (kepadaku), ‘Engkau telah memecah belah antara Bani Israil dan engkau tidak memelihara amanatku.’”",
+      "en": "[Aaron] said, \"O son of my mother, do not seize [me] by my beard or by my head. Indeed, I feared that you would say, 'You caused division among the Children of Israel, and you did not observe [or await] my word.' \"",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2442",
+      "tafsir": "Menghadapi kemarahan Nabi Musa, dia dengan lembut menjawab, “Wahai putra ibuku! Jangan marah kepadaku. Janganlah engkau pegang janggutku dan jangan pula engkau tarik kepalaku. Aku sungguh khawatir bila bersikap keras kepada para penyembah patung anak sapi itu, akan terjadi pertumpahan darah di antara mereka. Ketika itu terjadi, pasti engkau akan berkata kepadaku, ‘Wahai Harun, engkau telah memecah belah antara Bani Israil dan engkau tidak memelihara amanatku untuk menggantikanku memimpin Bani Israil dan menjaga mereka dari kesesatan.’”"
+    },
+    {
+      "no": 95,
+      "arab": "قَالَ فَمَا خَطْبُكَ يَا سَامِرِيُّ",
+      "latin": "Qaala famaa khatbuka yaa Saamiriyy",
+      "id": "Dia (Musa) berkata, “Apakah yang mendorongmu (berbuat demikian) wahai Samiri?”",
+      "en": "[Moses] said, \"And what is your case, O Samiri?\"",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2443",
+      "tafsir": "Usai menegur Nabi Harun, Nabi Musa meluapkan kemarahannya kepada Samiri yang telah menyesatkan Bani Israil. Dia berkata, “Apakah yang mendorongmu menyesatkan Bani Israil dengan membuat patung anak sapi untuk disembah, wahai Samiri?”"
+    },
+    {
+      "no": 96,
+      "arab": "قَالَ بَصُرْتُ بِمَا لَمْ يَبْصُرُوا بِهِ فَقَبَضْتُ قَبْضَةً مِّنْ أَثَرِ الرَّسُولِ فَنَبَذْتُهَا وَكَذَٰلِكَ سَوَّلَتْ لِي نَفْسِي",
+      "latin": "Qaala basurtu bimaa lam yabsuroo bihee faqabadtu qabdatam min asarir Rasooli fanabaztuhaa wa kazaalika sawwalat lee nafsee",
+      "id": "Dia (Samiri) menjawab, “Aku mengetahui sesuatu yang tidak mereka ketahui, jadi aku ambil segenggam (tanah dari) jejak rasul lalu aku melemparkannya (ke dalam api itu), demikianlah nafsuku membujukku.”",
+      "en": "He said, \"I saw what they did not see, so I took a handful [of dust] from the track of the messenger and threw it, and thus did my soul entice me.\"",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2444",
+      "tafsir": "Mendapat pertanyaan dari Nabi Musa, dia menjawab, “Aku melihat dan mengetahui sesuatu yang tidak mereka ketahui. Aku melihat Jibril menunggang kuda ketika Bani Israil keluar dari laut dan Fir‘aun tenggelam. Jadi, aku ambil segenggam tanah dari jejak tapal kuda rasul itu, lalu aku melemparkannya ke arah perhiasan-perhiasan yang aku jadikan bahan membuat patung anak sapi itu hingga patung itu mampu mengeluarkan suara. Aku tahu mereka pernah memintamu untuk membuat Tuhan yang berjasad untuk mereka sembah, maka demikianlah nafsuku membujukku untuk menciptakan patung anak sapi ini sebagai tuhan mereka.”"
+    },
+    {
+      "no": 97,
+      "arab": "قَالَ فَاذْهَبْ فَإِنَّ لَكَ فِي الْحَيَاةِ أَن تَقُولَ لَا مِسَاسَ ۖ وَإِنَّ لَكَ مَوْعِدًا لَّن تُخْلَفَهُ ۖ وَانظُرْ إِلَىٰ إِلَٰهِكَ الَّذِي ظَلْتَ عَلَيْهِ عَاكِفًا ۖ لَّنُحَرِّقَنَّهُ ثُمَّ لَنَنسِفَنَّهُ فِي الْيَمِّ نَسْفًا",
+      "latin": "Qaala fazhab fa inna laka fil hayaati an taqoola laa misaasa wa inna laka maw'idal lan tukhlafahoo wanzur ilaaa ilaahikal lazee zalta 'alaihi 'aakifaa; lanuharriqannnahoo summa lanansifanahoo fil yammi nasfaa",
+      "id": "Dia (Musa) berkata, “Pergilah kau! Maka sesungguhnya di dalam kehidupan (di dunia) engkau (hanya dapat) mengatakan, ‘Janganlah menyentuh (aku),’. Dan engkau pasti mendapat (hukuman) yang telah dijanjikan (di akhirat) yang tidak akan dapat engkau hindari, dan lihatlah tuhanmu itu yang engkau tetap menyembahnya. Kami pasti akan membakarnya, kemudian sungguh kami akan menghamburkannya (abunya) ke dalam laut (berserakan).",
+      "en": "[Moses] said, \"Then go. And indeed, it is [decreed] for you in [this] life to say, 'No contact.' And indeed, you have an appointment [in the Hereafter] you will not fail to keep. And look at your 'god' to which you remained devoted. We will surely burn it and blow it into the sea with a blast.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2445",
+      "tafsir": "Nabi Musa semakin marah usai mendengar jawaban Samiri. Dia berkata, “Wahai Samiri, pergilah kau! Maka sebagai hukuman atas perbuatanmu, sesungguhnya engkau akan dikucilkan di dalam kehidupan ini sehingga engkau akan selalu mengatakan kepada orang lain, ‘Janganlah menyentuh atau mendekatiku, sebagaimana aku tidak akan menyentuh atau mendekatimu.’ Dan selain itu engkau pasti akan mendapat hukuman di akhirat yang telah dijanjikan, yang tidak akan dapat engkau hindari. Dan lihatlah tuhanmu itu yang beberapa saat lalu engkau tetap bersikeras menyembahnya. Kami pasti akan membakarnya, kemudian sungguh kami akan menghamburkannya, yaitu abu sisa pembakarannya, ke dalam laut hingga bertebaran dan berserakan.”"
+    },
+    {
+      "no": 98,
+      "arab": "إِنَّمَا إِلَٰهُكُمُ اللَّهُ الَّذِي لَا إِلَٰهَ إِلَّا هُوَ ۚ وَسِعَ كُلَّ شَيْءٍ عِلْمًا",
+      "latin": "Innamaaa ilaahukkumul laahul lazee laa ilaaha illaa Hoo; wasi'a kulla shai'in ilmaa",
+      "id": "Sungguh, Tuhanmu hanyalah Allah, tidak ada tuhan selain Dia. Pengetahuan-Nya meliputi segala sesuatu.”",
+      "en": "Your god is only Allah, except for whom there is no deity. He has encompassed all things in knowledge.\"",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2446",
+      "tafsir": "Setelah memutuskan untuk membakar patung anak sapi itu, Nabi Musa berpidato di depan kaumnya, “Sungguh, Tuhanmu yang layak disembah itu hanyalah Allah Yang Esa. Tidak ada tuhan Pencipta dan Pengatur alam semesta selain Dia. Pengetahuan-Nya meliputi segala sesuatu yang ada di alam ini.”"
+    },
+    {
+      "no": 99,
+      "arab": "كَذَٰلِكَ نَقُصُّ عَلَيْكَ مِنْ أَنبَاءِ مَا قَدْ سَبَقَ ۚ وَقَدْ آتَيْنَاكَ مِن لَّدُنَّا ذِكْرًا",
+      "latin": "Kazaalika naqussu 'alaika min ambaaa'i maa qad sabaq; wa qad aatainaaka mil ladunnaa Zikraa",
+      "id": "Demikianlah Kami kisahkan kepadamu (Muhammad) sebagian kisah (umat) yang telah lalu, dan sungguh, telah Kami berikan kepadamu suatu peringatan (Al-Qur'an) dari sisi Kami.",
+      "en": "Thus, [O Muhammad], We relate to you from the news of what has preceded. And We have certainly given you from Us the Qur'an.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2447",
+      "tafsir": "Wahai Nabi Muhammad, demikianlah Kami kisahkan kepadamu sebagian kisah umat yang telah lalu agar menjadi ibrah dan pelajaran bagi umatmu. Dan selain itu, sesungguhnya telah Kami berikan pula kepadamu dari sisi Kami suatu peringatan, yaitu Al-Qur’an, sebagai tuntunan dan petunjuk menuju kesejahteraan hidup mereka di dunia dan akhirat."
+    },
+    {
+      "no": 100,
+      "arab": "مَّنْ أَعْرَضَ عَنْهُ فَإِنَّهُ يَحْمِلُ يَوْمَ الْقِيَامَةِ وِزْرًا",
+      "latin": "Man a'rada 'anhu, fa innahoo yahmilu Yawmal Qiyaamati wizraa",
+      "id": "Barangsiapa berpaling darinya (Al-Qur'an), maka sesungguhnya dia akan memikul beban yang berat (dosa) pada hari Kiamat,",
+      "en": "Whoever turns away from it - then indeed, he will bear on the Day of Resurrection a burden,",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2448",
+      "tafsir": "Allah menegaskan bahwa Al-Qur’an merupakan tuntunan dan petunjuk bagi mereka yang menginginkan kebaikan dunia dan akhirat. Tuntunan dan petunjuk itu harus mereka ikuti dan pegang teguh. Barang siapa berpaling dari tuntunan dan petunjuk Al-Qur’an, maka sesungguhnya dia akan memikul dosa yang besar di hari kiamat yang akan menyebabkannya menerima azab."
+    },
+    {
+      "no": 101,
+      "arab": "خَالِدِينَ فِيهِ ۖ وَسَاءَ لَهُمْ يَوْمَ الْقِيَامَةِ حِمْلًا",
+      "latin": "Khaalideena feehi wa saaa'a lahum Yawmal Qiyaamati himlaa",
+      "id": "mereka kekal di dalam keadaan itu. Dan sungguh buruk beban dosa itu bagi mereka pada hari Kiamat,",
+      "en": "[Abiding] eternally therein, and evil it is for them on the Day of Resurrection as a load -",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2449",
+      "tafsir": "Mereka yang berpaling dari tuntunan Al-Qur’an itu akan kekal di dalam keadaan yang penuh penderitaan itu, dan ketahuilah bahwa amat buruklah dosa yang telah mereka lakukan itu. Keingkaran itu akan mereka bawa sebagai beban bagi mereka di hari kiamat."
+    },
+    {
+      "no": 102,
+      "arab": "يَوْمَ يُنفَخُ فِي الصُّورِ ۚ وَنَحْشُرُ الْمُجْرِمِينَ يَوْمَئِذٍ زُرْقًا",
+      "latin": "Yawma yunfakhu fissoori wa nahshurul mujrimeena Yawma 'izin zurqaa",
+      "id": "pada hari (Kiamat) sangkakala ditiup (yang kedua kali) dan pada hari itu Kami kumpulkan orang-orang yang berdosa dengan (wajah) biru muram,",
+      "en": "The Day the Horn will be blown. And We will gather the criminals, that Day, blue-eyed.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2450",
+      "tafsir": "Hari kiamat itu adalah hari ketika ditiup sangkakala yang kedua kali sebagai pertanda dibangkitkannya seluruh manusia dari kubur, dan selanjutnya Kami akan mengumpulkan pada hari itu orang-orang yang berdosa dengan muka yang biru muram, menandakan kecemasan dan ketakutan mereka terhadap balasan atas keingkarannya."
+    },
+    {
+      "no": 103,
+      "arab": "يَتَخَافَتُونَ بَيْنَهُمْ إِن لَّبِثْتُمْ إِلَّا عَشْرًا",
+      "latin": "Yatakhaafatoona bainahum il labistum illaa 'ashraa",
+      "id": "mereka saling berbisik satu sama lain, “Kamu tinggal (di dunia) tidak lebih dari sepuluh (hari).”",
+      "en": "They will murmur among themselves, \"You remained not but ten [days in the world].\"",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2451",
+      "tafsir": "Menunggu giliran untuk penimbangan amal perbuatan masing-masing, mereka saling berbisik-bisik di antara mereka untuk meringankan ketakutan dan kekalutan, “Kamu tidak berdiam di dunia melainkan hanyalah sepuluh hari, dan ini merupakan waktu yang sangat singkat.”"
+    },
+    {
+      "no": 104,
+      "arab": "نَّحْنُ أَعْلَمُ بِمَا يَقُولُونَ إِذْ يَقُولُ أَمْثَلُهُمْ طَرِيقَةً إِن لَّبِثْتُمْ إِلَّا يَوْمًا",
+      "latin": "nahnu a'lamu bimaa yaqooloona iz yaqoolu amsaluhum tareeqatan illabistum illaa yawmaa",
+      "id": "Kami lebih mengetahui apa yang akan mereka katakan, ketika orang yang paling lurus jalannya mengatakan, “Kamu tinggal (di dunia), tidak lebih dari sehari saja.”",
+      "en": "We are most knowing of what they say when the best of them in manner will say, \"You remained not but one day.\"",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2452",
+      "tafsir": "Allah Maha Mendengar perkataan makhluk-Nya. Kami lebih mengetahui dari siapa saja tentang apa yang mereka katakan, walaupun dengan cara berbisik. Demikian pula ketika orang yang paling lurus jalannya diantara mereka, yaitu mereka yang ucapannya paling mendekati kebenaran, berkata, “Kamu tidak hidup dan tinggal di dunia melainkan hanyalah sehari saja.”"
+    },
+    {
+      "no": 105,
+      "arab": "وَيَسْأَلُونَكَ عَنِ الْجِبَالِ فَقُلْ يَنسِفُهَا رَبِّي نَسْفًا",
+      "latin": "Wa yas'aloonaka 'anil jibaali faqul yansifuhaa Rabbee nasfaa",
+      "id": "Dan mereka bertanya kepadamu (Muhammad) tentang gunung-gunung, maka katakanlah, “Tuhanku akan menghancurkannya (pada hari Kiamat) sehancur-hancurnya,",
+      "en": "And they ask you about the mountains, so say, \"My Lord will blow them away with a blast.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2453",
+      "tafsir": "Orang-orang yang mengingkari hari kiamat menyatakan keraguan mereka dengan bertanya tentang gunung-gunung yang kukuh. Dan mereka bertanya kepadamu, wahai Nabi Muhammad, tentang gunung- gunung di sekitar mereka. Maka katakanlah, “Tuhanku akan menghancurkannya sehancur-hancurnya di hari kiamat sehingga tidak ada satu pun yang masih utuh.”"
+    },
+    {
+      "no": 106,
+      "arab": "فَيَذَرُهَا قَاعًا صَفْصَفًا",
+      "latin": "Fa yazaruhaa qaa'an safsafaa",
+      "id": "kemudian Dia akan menjadikan (bekas gunung-gunung) itu rata sama sekali,",
+      "en": "And He will leave the earth a level plain;",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2454",
+      "tafsir": "Sesudah itu maka Dia akan menjadikan area bekas gunung-gunung itu datar sama sekali sehingga kondisinya berbeda dari sebelumnya. Pada saat itu permukaan bumi menjadi rata; tidak ada sedikit pun kamu lihat padanya tempat yang rendah karena adanya lembah, dan tidak pula tempat yang tinggi-tinggi karena adanya perbukitan."
+    },
+    {
+      "no": 107,
+      "arab": "لَّا تَرَىٰ فِيهَا عِوَجًا وَلَا أَمْتًا",
+      "latin": "Laa taraa feehaa 'iwajanw wa laaa amtaa",
+      "id": "(sehingga) kamu tidak akan melihat lagi ada tempat yang rendah dan yang tinggi di sana.”",
+      "en": "You will not see therein a depression or an elevation.\"",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2455",
+      "tafsir": "Sesudah itu maka Dia akan menjadikan area bekas gunung-gunung itu datar sama sekali sehingga kondisinya berbeda dari sebelumnya. Pada saat itu permukaan bumi menjadi rata; tidak ada sedikit pun kamu lihat padanya tempat yang rendah karena adanya lembah, dan tidak pula tempat yang tinggi-tinggi karena adanya perbukitan."
+    },
+    {
+      "no": 108,
+      "arab": "يَوْمَئِذٍ يَتَّبِعُونَ الدَّاعِيَ لَا عِوَجَ لَهُ ۖ وَخَشَعَتِ الْأَصْوَاتُ لِلرَّحْمَٰنِ فَلَا تَسْمَعُ إِلَّا هَمْسًا",
+      "latin": "Yawma iziny yattabi'oonad daa'iya laa 'iwaja lahoo wa khasha'atil aswaatu lir Rahmaani falaa tasma'u illaa hamsaa",
+      "id": "Pada hari itu mereka mengikuti (panggilan) penyeru (malaikat) tanpa berbelok-belok (membantah); dan semua suara tunduk merendah kepada Tuhan Yang Maha Pengasih, sehingga yang kamu dengar hanyalah bisik-bisik.",
+      "en": "That Day, everyone will follow [the call of] the Caller [with] no deviation therefrom, and [all] voices will be stilled before the Most Merciful, so you will not hear except a whisper [of footsteps].",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2456",
+      "tafsir": "Pada hari kiamat itu seluruh manusia bergerak mengikuti penyeru yang menggiring mereka ke satu arah dengan lurus, tidak berbelok-belok; semua begitu tenang dan khusyuk, dan merendahlah semua suara yang mengagungkan dan memohon kepada Tuhan yang Maha Pemurah, maka pada saat itu kamu tidak mendengar kecuali bisikan saja."
+    },
+    {
+      "no": 109,
+      "arab": "يَوْمَئِذٍ لَّا تَنفَعُ الشَّفَاعَةُ إِلَّا مَنْ أَذِنَ لَهُ الرَّحْمَٰنُ وَرَضِيَ لَهُ قَوْلًا",
+      "latin": "Yawma 'izil laa tanfa'ush shafaa'atu illaa man azina lahur Rahmaanu wa radiya lahoo qawlaa",
+      "id": "Pada hari itu tidak berguna syafaat (pertolongan), kecuali dari orang yang telah diberi izin oleh Tuhan Yang Maha Pengasih, dan Dia ridai perkataannya.",
+      "en": "That Day, no intercession will benefit except [that of] one to whom the Most Merciful has given permission and has accepted his word.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2457",
+      "tafsir": "Pada hari itu juga tidak berguna syafaat dan pertolongan orang tua, anak, atau kerabat, kecuali syafaat dari orang yang dicintai dan telah diberi izin oleh Tuhan Yang Maha Pengasih, dan orang itu juga telah Dia ridai perkataannya."
+    },
+    {
+      "no": 110,
+      "arab": "يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلَا يُحِيطُونَ بِهِ عِلْمًا",
+      "latin": "Ya'lamu maa bainaa aideehim wa maa khalfahum wa laa yauheetoona bihee 'ilmaa",
+      "id": "Dia (Allah) mengetahui apa yang di hadapan mereka (yang akan terjadi) dan apa yang di belakang mereka (yang telah terjadi), sedang ilmu mereka tidak dapat meliputi ilmu-Nya.",
+      "en": "Allah knows what is [presently] before them and what will be after them, but they do not encompass it in knowledge.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2458",
+      "tafsir": "Itulah Tuhan Yang Maha Pengasih. Dia mengetahui apa yang ada di hadapan mereka, yaitu kehidupan duniawi, dan apa yang ada di belakang mereka, yaitu kondisi mereka di akhirat. Dia juga mengetahui apa saja yang belum terjadi, sedang ilmu mereka sangat terbatas sehingga tidak dapat meliputi ilmu-Nya yang serba terinci."
+    },
+    {
+      "no": 111,
+      "arab": "۞ وَعَنَتِ الْوُجُوهُ لِلْحَيِّ الْقَيُّومِ ۖ وَقَدْ خَابَ مَنْ حَمَلَ ظُلْمًا",
+      "latin": "Wa 'anatil wujoohu lil Haiiyil Qaiyoomi wa qad khaaba man hamala zulmaa",
+      "id": "Dan semua wajah tertunduk di hadapan (Allah) Yang Hidup dan Yang Berdiri Sendiri. Sungguh rugi orang yang melakukan kezaliman.",
+      "en": "And [all] faces will be humbled before the Ever-Living, the Sustainer of existence. And he will have failed who carries injustice.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2459",
+      "tafsir": "Orang yang beriman mengakui keagungan Allah tersebut dan tunduklah semua muka dengan rendah diri kepada Tuhan yang hidup kekal lagi berdiri sendiri dalam mengurus makhluk-Nya. Sesungguhnya telah merugilah orang yang melakukan kezaliman dengan mengingkari petunjuk Allah dan tuntunan rasul-Nya."
+    },
+    {
+      "no": 112,
+      "arab": "وَمَن يَعْمَلْ مِنَ الصَّالِحَاتِ وَهُوَ مُؤْمِنٌ فَلَا يَخَافُ ظُلْمًا وَلَا هَضْمًا",
+      "latin": "Wa mai ya'mal minas saalihaati wa huwa mu'minun falaa yakhaafu zulmanw wa laa hadmaa",
+      "id": "Dan barang siapa mengerjakan kebajikan sedang dia (dalam keadaan) beriman, maka dia tidak khawatir akan perlakuan zalim (terhadapnya) dan tidak (pula khawatir) akan pengurangan haknya.",
+      "en": "But he who does of righteous deeds while he is a believer - he will neither fear injustice nor deprivation.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2460",
+      "tafsir": "Dan siapa saja mengerjakan amal-amal yang saleh dengan niat tulus dan ia dalam keadaan beriman, maka dia tidak akan merasa khawatir akan perlakuan yang tidak adil terhadapnya dan tidak pula dia akan merasa takut terhadap pengurangan haknya sesuai apa yang telah ditetapkan dan dilakukannya."
+    },
+    {
+      "no": 113,
+      "arab": "وَكَذَٰلِكَ أَنزَلْنَاهُ قُرْآنًا عَرَبِيًّا وَصَرَّفْنَا فِيهِ مِنَ الْوَعِيدِ لَعَلَّهُمْ يَتَّقُونَ أَوْ يُحْدِثُ لَهُمْ ذِكْرًا",
+      "latin": "Wa kazaalika anzalnaahu Qur-aanan 'Arabiyyanw wa sarrafnaa fee hi minal wa'eedi la'allahum yattaqoona aw yuhdisu lahum zikraa",
+      "id": "Dan demikianlah Kami menurunkan Al-Qur'an dalam bahasa Arab, dan Kami telah menjelaskan berulang-ulang di dalamnya sebagian dari ancaman, agar mereka bertakwa, atau agar (Al-Qur'an) itu memberi pengajaran bagi mereka.",
+      "en": "And thus We have sent it down as an Arabic Qur'an and have diversified therein the warnings that perhaps they will avoid [sin] or it would cause them remembrance.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2461",
+      "tafsir": "Al-Qur’an mengandung ancaman bagi orang kafir dan tuntunan bagi semua manusia. Dan demikianlah Kami menurunkan Al-Qur’an dalam bahasa Arab sebagai pengingat, dan Kami telah menerangkan pula dengan berulang kali di dalamnya sebagian dari ancaman yang telah disebutkan. Yang demikian ini dimaksudkan agar mereka bertakwa atau agar Al-Qur’an itu menimbulkan pengajaran bagi mereka yang membaca dan melaksanakan petunjuknya."
+    },
+    {
+      "no": 114,
+      "arab": "فَتَعَالَى اللَّهُ الْمَلِكُ الْحَقُّ ۗ وَلَا تَعْجَلْ بِالْقُرْآنِ مِن قَبْلِ أَن يُقْضَىٰ إِلَيْكَ وَحْيُهُ ۖ وَقُل رَّبِّ زِدْنِي عِلْمًا",
+      "latin": "Fata'aalal laahul Malikul Haqq; wa laa ta'jal bil Quraani min qabli ai yuqdaaa ilaika wahyuhoo wa qur Rabbi zidnee 'ilmaa",
+      "id": "Maka Mahatinggi Allah, Raja yang sebenar-benarnya. Dan janganlah engkau (Muhammad) tergesa-gesa (membaca) Al-Qur'an sebelum selesai diwahyukan kepadamu, dan katakanlah, “Ya Tuhanku, tambahkanlah ilmu kepadaku. ”",
+      "en": "So high [above all] is Allah, the Sovereign, the Truth. And, [O Muhammad], do not hasten with [recitation of] the Qur'an before its revelation is completed to you, and say, \"My Lord, increase me in knowledge.\"",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2462",
+      "tafsir": "Dengan semua sifat itu, maka sesungguhnya Mahatinggi Allah, Raja yang sebenar-benarnya. Dan karena itu, janganlah kamu, wahai Nabi Muhammad, tergesa-gesa membaca Al-Qur’an sebelum disempurnakan pewahyuannya kepadamu agar kamu tidak salah memahami dan mengajarkannya, dan katakanlah, “Ya Tuhanku, tambahkanlah kepadaku ilmu pengetahuan yang bermanfaat.”"
+    },
+    {
+      "no": 115,
+      "arab": "وَلَقَدْ عَهِدْنَا إِلَىٰ آدَمَ مِن قَبْلُ فَنَسِيَ وَلَمْ نَجِدْ لَهُ عَزْمًا",
+      "latin": "Wa laqad 'ahidnaaa ilaaa Aadama min qablu fanasiya wa lam najid lahoo 'azmaa",
+      "id": "Dan sungguh telah Kami pesankan kepada Adam dahulu, tetapi dia lupa, dan Kami tidak dapati kemauan yang kuat padanya.",
+      "en": "And We had already taken a promise from Adam before, but he forgot; and We found not in him determination.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2463",
+      "tafsir": "Ayat-ayat berikut mengisahkan peristiwa yang terjadi pada Adam dan pembangkangan Iblis terhadap perintah Allah. Kisah ini diawali dengan peringatan Allah atas tipu daya iblis. Dan sesungguhnya telah Kami perintahkan kepada Adam dahulu untuk menjauhi iblis yang selalu berusaha menyesatkannya. Tetapi karena iblis pandai merayu maka dia lupa akan perintah itu. Dia lalu mengikuti ajakan iblis dan terjerumus sehingga melanggar larangan Allah. Dan saat itu tidak Kami dapati padanya kemauan yang kuat untuk menolak rayuan iblis.”"
+    },
+    {
+      "no": 116,
+      "arab": "وَإِذْ قُلْنَا لِلْمَلَائِكَةِ اسْجُدُوا لِآدَمَ فَسَجَدُوا إِلَّا إِبْلِيسَ أَبَىٰ",
+      "latin": "Wa iz qulnaa lilma laaa'ikatis judoo li Aadama fasajadooo illaaa Iblees; abaa",
+      "id": "Dan (ingatlah) ketika Kami berfirman kepada para malaikat, “Sujudlah kamu kepada Adam!” Lalu mereka pun sujud kecuali Iblis; dia menolak.",
+      "en": "And [mention] when We said to the angels, \"Prostrate to Adam,\" and they prostrated, except Iblees; he refused.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2464",
+      "tafsir": "Allah menjelaskan awal peristiwa ini. Dan ingatlah ketika Kami berkata kepada malaikat, “Sujudlah kamu kepada Adam!” lalu mereka pun sujud sebagai bentuk ketaatan kepada-Nya, kecuali iblis. Dengan takabur dia menolak perintah Allah tersebut."
+    },
+    {
+      "no": 117,
+      "arab": "فَقُلْنَا يَا آدَمُ إِنَّ هَٰذَا عَدُوٌّ لَّكَ وَلِزَوْجِكَ فَلَا يُخْرِجَنَّكُمَا مِنَ الْجَنَّةِ فَتَشْقَىٰ",
+      "latin": "Faqulnaa yaaa Aadamu inna haazaa 'aduwwul laka wa lizawjika falaa yukhrijan nakumaa minal Jannati fatashqaa",
+      "id": "Kemudian Kami berfirman, “Wahai Adam! Sungguh ini (Iblis) musuh bagimu dan bagi istrimu, maka sekali-kali jangan sampai dia mengeluarkan kamu berdua dari surga, nanti kamu celaka.",
+      "en": "So We said, \"O Adam, indeed this is an enemy to you and to your wife. Then let him not remove you from Paradise so you would suffer.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2465",
+      "tafsir": "Untuk memperingatkan Adam tentang penolakan iblis, kemudian Kami berfirman, “Wahai Adam! Sungguh iblis ini adalah musuh nyata bagimu dan bagi istrimu. Maka, sekali-kali janganlah sampai dia berhasil menggelincirkan dan mengeluarkan kamu berdua dari surga. Ketahuilah, hal itulah yang menyebabkan kamu menjadi celaka."
+    },
+    {
+      "no": 118,
+      "arab": "إِنَّ لَكَ أَلَّا تَجُوعَ فِيهَا وَلَا تَعْرَىٰ",
+      "latin": "Innaa laka allaa tajoo'a feeha wa laa ta'raa",
+      "id": "Sungguh, ada (jaminan) untukmu di sana, engkau tidak akan kelaparan dan tidak akan telanjang.",
+      "en": "Indeed, it is [promised] for you not to be hungry therein or be unclothed.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2466",
+      "tafsir": "Wahai Adam, sungguh, ada jaminan untukmu di surga sana bahwa engkau tidak akan kelaparan di dalamnya. Allah telah menyediakan bagimu di sana buah-buahan dan makanan lain. Dan kamu di surga itu juga tidak akan telanjang karena Allah telah menyiapkan pakaian untukmu. Dan sungguh, di surga sana engkau tidak akan merasa dahaga karena ada mata air yang selalu memancarkan air yang jernih di sana. Dan di sana tidak pula kamu akan ditimpa panas matahari di dalamnya karena rimbunnya dedaunan dari beragam pepohonan di sana.”"
+    },
+    {
+      "no": 119,
+      "arab": "وَأَنَّكَ لَا تَظْمَأُ فِيهَا وَلَا تَضْحَىٰ",
+      "latin": "Wa annaka laa tazma'u feehaa wa laa tadhaa",
+      "id": "Dan sungguh, di sana engkau tidak akan merasa dahaga dan tidak akan ditimpa panas matahari.”",
+      "en": "And indeed, you will not be thirsty therein or be hot from the sun.\"",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2467",
+      "tafsir": "Wahai Adam, sungguh, ada jaminan untukmu di surga sana bahwa engkau tidak akan kelaparan di dalamnya. Allah telah menyediakan bagimu di sana buah-buahan dan makanan lain. Dan kamu di surga itu juga tidak akan telanjang karena Allah telah menyiapkan pakaian untukmu. Dan sungguh, di surga sana engkau tidak akan merasa dahaga karena ada mata air yang selalu memancarkan air yang jernih di sana. Dan di sana tidak pula kamu akan ditimpa panas matahari di dalamnya karena rimbunnya dedaunan dari beragam pepohonan di sana.”"
+    },
+    {
+      "no": 120,
+      "arab": "فَوَسْوَسَ إِلَيْهِ الشَّيْطَانُ قَالَ يَا آدَمُ هَلْ أَدُلُّكَ عَلَىٰ شَجَرَةِ الْخُلْدِ وَمُلْكٍ لَّا يَبْلَىٰ",
+      "latin": "Fa waswasa ilaihish Shaitaanu qaala yaaa Aadamu hal adulluka 'alaa shajaratil khuldi wa mulkil laa yablaa",
+      "id": "Kemudian setan membisikkan (pikiran jahat) kepadanya, dengan berkata, “Wahai Adam! Maukah aku tunjukkan kepadamu pohon keabadian (khuldi) dan kerajaan yang tidak akan binasa?”",
+      "en": "Then Satan whispered to him; he said, \"O Adam, shall I direct you to the tree of eternity and possession that will not deteriorate?\"",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2468",
+      "tafsir": "Kemudian setan yang iri pada anugerah besar yang Allah berikan kepada Nabi Adam itu membisikkan pikiran jahat kepadanya dengan berkata, “Wahai Adam, maukah aku tunjukkan kepadamu pohon keabadian yang bisa membuatmu hidup abadi di surga, dan kerajaan yang terus berada dalam genggamanmu sehingga tidak akan binasa?”"
+    },
+    {
+      "no": 121,
+      "arab": "فَأَكَلَا مِنْهَا فَبَدَتْ لَهُمَا سَوْآتُهُمَا وَطَفِقَا يَخْصِفَانِ عَلَيْهِمَا مِن وَرَقِ الْجَنَّةِ ۚ وَعَصَىٰ آدَمُ رَبَّهُ فَغَوَىٰ",
+      "latin": "Fa akalaa minhaa fabadat lahumaa saw aatuhumaa wa tafiqaa yakhsifaani 'alaihimaa minw waraqil jannah; wa 'asaaa Aadamu Rabbahoo faghawaa",
+      "id": "Lalu keduanya memakannya, lalu tampaklah oleh keduanya aurat mereka dan mulailah keduanya menutupinya dengan daun-daun (yang ada di) surga, dan telah durhakalah Adam kepada Tuhannya, dan sesatlah dia.",
+      "en": "And Adam and his wife ate of it, and their private parts became apparent to them, and they began to fasten over themselves from the leaves of Paradise. And Adam disobeyed his Lord and erred.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2469",
+      "tafsir": "Bujuk rayu iblis berhasil melenakan Adam dan Hawa. Lalu keduanya memakan buah-nya. Begitu mereka memakannya, lalu tampaklah oleh keduanya aurat mereka dan ketika itu muncullah rasa malu sehingga mulailah keduanya menutupinya dengan daun-daun dari pepohonan surga. Dan akibat dari kelenaan ini telah durhakalah Adam kepada Tuhan dan sesatlah dia karenanya."
+    },
+    {
+      "no": 122,
+      "arab": "ثُمَّ اجْتَبَاهُ رَبُّهُ فَتَابَ عَلَيْهِ وَهَدَىٰ",
+      "latin": "Summaj tabbahu Rabbuhoo fataaba 'alaihi wa hadaa",
+      "id": "Kemudian Tuhannya memilih dia, maka Dia menerima tobatnya dan memberinya petunjuk.",
+      "en": "Then his Lord chose him and turned to him in forgiveness and guided [him].",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2470",
+      "tafsir": "Allah Maha Pengasih kepada makhluk-Nya, tidak terkecuali kepada Adam. Meski dia telah melakukan kesalahan karena terbujuk setan, namun kemudian Tuhannya tetap memilih dia sebagai khalifah. Ketika dia bertobat dan memohon ampun, maka Dia menerima tobatnya dan memberinya petunjuk."
+    },
+    {
+      "no": 123,
+      "arab": "قَالَ اهْبِطَا مِنْهَا جَمِيعًا ۖ بَعْضُكُمْ لِبَعْضٍ عَدُوٌّ ۖ فَإِمَّا يَأْتِيَنَّكُم مِّنِّي هُدًى فَمَنِ اتَّبَعَ هُدَايَ فَلَا يَضِلُّ وَلَا يَشْقَىٰ",
+      "latin": "Qaalah bita minhaa jamee'am ba'dukum liba'din 'aduww; fa immaa yaati yannakum minnee hudan famanit taba'a hudaaya falaa yadillu wa laa yashhqaa",
+      "id": "Dia (Allah) berfirman, “Turunlah kamu berdua dari surga bersama-sama, sebagian kamu menjadi musuh bagi sebagian yang lain. Jika datang kepadamu petunjuk dari-Ku, maka (ketahuilah) barang siapa mengikuti petunjuk-Ku, dia tidak akan sesat dan tidak akan celaka.",
+      "en": "[Allah] said, \"Descend from Paradise - all, [your descendants] being enemies to one another. And if there should come to you guidance from Me - then whoever follows My guidance will neither go astray [in the world] nor suffer [in the Hereafter].",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2471",
+      "tafsir": "Allah berfirman, “Wahai Adam dan Hawa, turunlah kamu berdua dari surga bersama-sama. Ketahuilah, sebagian dari kamu akan menjadi musuh bagi sebagian yang lain. Maka, jika datang kepadamu petunjuk dari-Ku untuk menjadi pedoman dalam kehidupanmu, lalu siapa saja yang mengikuti petunjuk-Ku dan melaksanakan ajaran-Ku, dia tidak akan sesat di dunia dan tidak akan pula celaka dalam kehidupan akhirat.”"
+    },
+    {
+      "no": 124,
+      "arab": "وَمَنْ أَعْرَضَ عَن ذِكْرِي فَإِنَّ لَهُ مَعِيشَةً ضَنكًا وَنَحْشُرُهُ يَوْمَ الْقِيَامَةِ أَعْمَىٰ",
+      "latin": "Wa man a'rada 'an Zikree fa inna lahoo ma'eeshatan dankanw wa nahshuruhoo Yawmal Qiyaamati a'maa",
+      "id": "Dan barang siapa berpaling dari peringatan-Ku, maka sungguh, dia akan menjalani kehidupan yang sempit, dan Kami akan mengumpulkannya pada hari Kiamat dalam keadaan buta.”",
+      "en": "And whoever turns away from My remembrance - indeed, he will have a depressed life, and We will gather him on the Day of Resurrection blind.\"",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2472",
+      "tafsir": "Pada ayat ini Allah memberi peringatan dan ancaman bagi mereka yang berpaling dari petunjuk-Nya. Dan barang siapa yang berpaling dari peringatan-Ku dan enggan mengikuti petunjuk-Ku, maka sungguh dia akan mendapat balasan dengan menjalani kehidupan yang sempit sehingga selalu merasa kurang meski sudah memperoleh banyak rezeki di dunia, dan Kami akan mengumpulkannya kelak pada hari kiamat dalam keadaan buta sehingga tidak dapat meniti jalan ke surga."
+    },
+    {
+      "no": 125,
+      "arab": "قَالَ رَبِّ لِمَ حَشَرْتَنِي أَعْمَىٰ وَقَدْ كُنتُ بَصِيرًا",
+      "latin": "Qaala Rabbi lima hashar tanee a'maa wa qad kuntu baseeraa",
+      "id": "Dia berkata, “Ya Tuhanku, mengapa Engkau kumpulkan aku dalam keadaan buta, padahal dahulu aku dapat melihat?”",
+      "en": "He will say, \"My Lord, why have you raised me blind while I was [once] seeing?\"",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2473",
+      "tafsir": "Ketika orang yang ingkar itu merasakan balasan Allah, dia berkata, “Ya Tuhanku, mengapa Engkau kumpulkan aku dalam keadaan buta sehingga tidak dapat melihat, padahal di dunia dahulu aku dapat melihat?”"
+    },
+    {
+      "no": 126,
+      "arab": "قَالَ كَذَٰلِكَ أَتَتْكَ آيَاتُنَا فَنَسِيتَهَا ۖ وَكَذَٰلِكَ الْيَوْمَ تُنسَىٰ",
+      "latin": "Qaala kazaalika atatka Aayaatunaa fanaseetahaa wa kazaalikal Yawma tunsaa",
+      "id": "Dia (Allah) berfirman, “Demikianlah, dahulu telah datang kepadamu ayat-ayat Kami, dan kamu mengabaikannya, jadi begitu (pula) pada hari ini kamu diabaikan.”",
+      "en": "[Allah] will say, \"Thus did Our signs come to you, and you forgot them; and thus will you this Day be forgotten.\"",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2474",
+      "tafsir": "Menjawab aduan itu Allah berfirman, “Demikianlah yang terjadi. Dahulu telah datang kepadamu ayat-ayat Kami untuk mengajakmu mengikuti petunjuk Kami, maka kamu melupakannya dan enggan menaati perintah Kami, dan sebagai balasannya, begitu pula pada hari ini kamu pun dilupakan.”"
+    },
+    {
+      "no": 127,
+      "arab": "وَكَذَٰلِكَ نَجْزِي مَنْ أَسْرَفَ وَلَمْ يُؤْمِن بِآيَاتِ رَبِّهِ ۚ وَلَعَذَابُ الْآخِرَةِ أَشَدُّ وَأَبْقَىٰ",
+      "latin": "Wa kazaalika najzee man asrafa wa lam yu'mim bi Aayaati Rabbih; wa la'azaabul Aakhirati ashaddu wa abqaa",
+      "id": "Dan demikianlah Kami membalas orang yang melampaui batas dan tidak percaya kepada ayat-ayat Tuhannya. Sungguh, azab di akhirat itu lebih berat dan lebih kekal.",
+      "en": "And thus do We recompense he who transgressed and did not believe in the signs of his Lord. And the punishment of the Hereafter is more severe and more enduring.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2475",
+      "tafsir": "Dan demikianlah, sebagai hukuman atas keengganan itu, Kami membalas orang yang melampaui batas dan tidak menghiraukan petunjuk yang datang kepadanya dan tidak pula mau percaya kepada ayat-ayat Tuhannya. Dan ketahuilah, sesungguhnya azab di akhirat itu lebih berat daripada hukuman di dunia dan selain itu, azab di akhirat juga lebih kekal."
+    },
+    {
+      "no": 128,
+      "arab": "أَفَلَمْ يَهْدِ لَهُمْ كَمْ أَهْلَكْنَا قَبْلَهُم مِّنَ الْقُرُونِ يَمْشُونَ فِي مَسَاكِنِهِمْ ۗ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِّأُولِي النُّهَىٰ",
+      "latin": "Afalam yahdi lahum kam ahlaknaa qablahum minal qurooni yamshoona fee masaakinihim; inna fee zaalika la Aayaatil li ulinnuhaa",
+      "id": "Maka tidakkah menjadi petunjuk bagi mereka (orang-orang musyrik) berapa banyak (generasi) sebelum mereka yang telah Kami binasakan, padahal mereka melewati (bekas-bekas) tempat tinggal mereka (umat-umat itu)? Sungguh, pada yang demikian itu terdapat tanda-tanda (kekuasaan Allah) bagi orang-orang yang berakal.",
+      "en": "Then, has it not become clear to them how many generations We destroyed before them as they walk among their dwellings? Indeed in that are signs for those of intelligence.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2476",
+      "tafsir": "Pada ayat-ayat berikut Allah menerangkan peringatan-Nya kepada orang kafir dan enggan mengikuti petunjuk-Nya. Sungguh, semua ancaman itu pasti terjadi, maka tidakkah apa yang terjadi pada kaum kafir terdahulu menjadi petunjuk bagi mereka yang musyrik itu; berapa banyaknya Kami membinasakan umat-umat sebelum mereka. Sungguh mengherankan bila mereka tidak mengambil pelajaran dari peristiwa itu, padahal mereka telah berjalan di lokasi tersebut dan melihat bekas-bekas tempat tinggal umat-umat yang dibinasakan itu? Sesungguhnya pada yang demikian itu, yaitu bukti-bukti yang dapat disaksikan, terdapat tanda-tanda bagi orang yang berakal dan mau memperhatikan kejadian di masa lalu."
+    },
+    {
+      "no": 129,
+      "arab": "وَلَوْلَا كَلِمَةٌ سَبَقَتْ مِن رَّبِّكَ لَكَانَ لِزَامًا وَأَجَلٌ مُّسَمًّى",
+      "latin": "Wa law laa Kalimatun sabaqat mir Rabbika lakaana lizaamanw wa ajalum musammaa",
+      "id": "Dan kalau tidak ada suatu ketetapan terdahulu dari Tuhanmu serta tidak ada batas yang telah ditentukan (ajal), pasti (siksaan itu) menimpa mereka.",
+      "en": "And if not for a word that preceded from your Lord, punishment would have been an obligation [due immediately], and [if not for] a specified term [decreed].",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2477",
+      "tafsir": "Apa yang terjadi pada manusia merupakan akibat perbuatan mereka. Dan sekiranya tidak ada suatu ketetapan dari Allah yang telah diputuskan pada masa terdahulu, yaitu sebelum zaman Rasulullah, atau tidak ada ajal dan batas akhir yang telah ditentukan oleh Allah, pasti azab yang serupa juga menimpa mereka yang kafir itu."
+    },
+    {
+      "no": 130,
+      "arab": "فَاصْبِرْ عَلَىٰ مَا يَقُولُونَ وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ الشَّمْسِ وَقَبْلَ غُرُوبِهَا ۖ وَمِنْ آنَاءِ اللَّيْلِ فَسَبِّحْ وَأَطْرَافَ النَّهَارِ لَعَلَّكَ تَرْضَىٰ",
+      "latin": "Fasbir 'alaa maa yaqooloona wa sabbih bihamdi Rabbika qabla tuloo'ish shamsi wa qabla ghuroobihaa wa min aanaaa'il laili fasbbih wa atraafan nahaari la 'allaka tardaa",
+      "id": "Maka sabarlah engkau (Muhammad) atas apa yang mereka katakan, dan bertasbihlah dengan memuji Tuhanmu, sebelum matahari terbit, dan sebelum terbenam; dan bertasbihlah (pula) pada waktu tengah malam dan di ujung siang hari, agar engkau merasa tenang.",
+      "en": "So be patient over what they say and exalt [Allah] with praise of your Lord before the rising of the sun and before its setting; and during periods of the night [exalt Him] and at the ends of the day, that you may be satisfied.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2478",
+      "tafsir": "Wahai Nabi Muhammad, bila orang kafir terus menentang dakwahmu maka sabarlah kamu atas apa yang mereka katakan. Untuk meneguhkan pendirianmu, berdoalah kepada Allah dan bertasbihlah dengan memuji Tuhanmu. Lakukan itu sebelum terbit matahari dan sebelum terbenamnya, dan bertasbih pulalah pada waktu-waktu di malam hari dengan salat lail, dan pada waktu-waktu di siang hari. Yang demikian itu supaya kamu merasa senang dan hatimu tenteram."
+    },
+    {
+      "no": 131,
+      "arab": "وَلَا تَمُدَّنَّ عَيْنَيْكَ إِلَىٰ مَا مَتَّعْنَا بِهِ أَزْوَاجًا مِّنْهُمْ زَهْرَةَ الْحَيَاةِ الدُّنْيَا لِنَفْتِنَهُمْ فِيهِ ۚ وَرِزْقُ رَبِّكَ خَيْرٌ وَأَبْقَىٰ",
+      "latin": "Wa laa tamuddanna 'ainaika ilaa ma matta'na biheee azwajam minhum zahratal hayaatid dunya linaftinahum feeh; wa rizqu Rabbika khairunw wa abqaa",
+      "id": "Dan janganlah engkau tujukan pandangan matamu kepada kenikmatan yang telah Kami berikan kepada beberapa golongan dari mereka, (sebagai) bunga kehidupan dunia agar Kami uji mereka dengan (kesenangan) itu. Karunia Tuhanmu lebih baik dan lebih kekal.",
+      "en": "And do not extend your eyes toward that by which We have given enjoyment to [some] categories of them, [its being but] the splendor of worldly life by which We test them. And the provision of your Lord is better and more enduring.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2479",
+      "tafsir": "Banyak orang kafir yang mendapat rezeki dan kenikmatan duniawi berlimpah. Allah mengingatkan kaum mukmin untuk tergiur dengan hal tersebut. Wahai orang beriman, janganlah kamu terpesona oleh apa yang orang kafir itu peroleh dan janganlah pula kamu tujukan kedua matamu dengan antusias dan penuh harap kepada apa yang telah Kami berikan, berupa kenikmatan duniawi, kepada golongan-golongan dari mereka. Sungguh, semua itu tidak lain sebagai bunga kehidupan dunia untuk Kami uji mereka dengannya, dan ketahuilan bahwa karunia Tuhan kamu adalah lebih baik dan lebih kekal dari segala sisinya."
+    },
+    {
+      "no": 132,
+      "arab": "وَأْمُرْ أَهْلَكَ بِالصَّلَاةِ وَاصْطَبِرْ عَلَيْهَا ۖ لَا نَسْأَلُكَ رِزْقًا ۖ نَّحْنُ نَرْزُقُكَ ۗ وَالْعَاقِبَةُ لِلتَّقْوَىٰ",
+      "latin": "Waamur ahlaka bis Salaati wastabir 'alaihaa la nas'aluka rizqaa; nahnu narzuquk; wal 'aaqibatu littaqwaa",
+      "id": "Dan perintahkanlah keluargamu melaksanakan salat dan sabar dalam mengerjakannya. Kami tidak meminta rezeki kepadamu, Kamilah yang memberi rezeki kepadamu. Dan akibat (yang baik di akhirat) adalah bagi orang yang bertakwa.",
+      "en": "And enjoin prayer upon your family [and people] and be steadfast therein. We ask you not for provision; We provide for you, and the [best] outcome is for [those of] righteousness.",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2480",
+      "tafsir": "Setelah memahami apa yang akan terjadi pada orang musyrik dan kafir, maka taatlah kepada-Nya dan perintahkanlah kepada keluargamu mendirikan salat dan bersabarlah kamu dalam mengerjakannya. Wahai nabi Muhammad, Kami tidak meminta rezeki kepadamu, melainkan Kamilah yang memberi rezeki kepadamu. Orang yang taat akan mendapat pahala, dan akibat yang baik itu adalah balasan yang paling layak bagi orang yang bertakwa."
+    },
+    {
+      "no": 133,
+      "arab": "وَقَالُوا لَوْلَا يَأْتِينَا بِآيَةٍ مِّن رَّبِّهِ ۚ أَوَلَمْ تَأْتِهِم بَيِّنَةُ مَا فِي الصُّحُفِ الْأُولَىٰ",
+      "latin": "Wa qaaloo law laa yaateenaa bi Aayatim mmir Rabbih; awalam taatihim baiyinatu maa fis suhufil oolaa",
+      "id": "Dan mereka berkata, “Mengapa dia tidak membawa tanda (bukti) kepada kami dari Tuhannya?” Bukankah telah datang kepada mereka bukti (yang nyata) sebagaimana yang tersebut di dalam kitab-kitab yang dahulu?",
+      "en": "And they say, \"Why does he not bring us a sign from his Lord?\" Has there not come to them evidence of what was in the former scriptures?",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2481",
+      "tafsir": "Ayat-ayat berikut berisi uraikan tentang tuntutan orang kafir dan peringatan yang Allah sampaikan kepada mereka melalui Rasulullah. Orang kafir mengeluhkan hukuman yang mereka terima dan mereka berkata, “Mengapa dia, Muhammad, tidak membawa tanda bukti kepada kami dari Tuhannya agar kami percaya dan menaati ajaran-Nya?” Sungguh aneh perkataan mereka karena mereka telah diberi peringatan. Bukankan telah datang kepada mereka bukti nyata tentang azab yang Allah timpakan kepada umat-umat terdahulu yang ingkar, sebagaimana yang tersebut di dalam kitab-kitab yang dahulu, yakni Taurat dan Injil?”"
+    },
+    {
+      "no": 134,
+      "arab": "وَلَوْ أَنَّا أَهْلَكْنَاهُم بِعَذَابٍ مِّن قَبْلِهِ لَقَالُوا رَبَّنَا لَوْلَا أَرْسَلْتَ إِلَيْنَا رَسُولًا فَنَتَّبِعَ آيَاتِكَ مِن قَبْلِ أَن نَّذِلَّ وَنَخْزَىٰ",
+      "latin": "Wa law annaaa ahlaknaahum bi'azaabim min qablihee laqaaloo Rabbanaa law laaa arsalta ilainaa Rasoolan fanattabi's Aayaatika min qabli an nazilla wa nakhzaa",
+      "id": "Dan kalau mereka Kami binasakan dengan suatu siksaan sebelumnya (Al-Qur'an itu diturunkan), tentulah mereka berkata, “Ya Tuhan kami, mengapa tidak Engkau utus seorang rasul kepada kami, sehingga kami mengikuti ayat-ayat-Mu sebelum kami menjadi hina dan rendah?”",
+      "en": "And if We had destroyed them with a punishment before him, they would have said, \"Our Lord, why did You not send to us a messenger so we could have followed Your verses before we were humiliated and disgraced?\"",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2482",
+      "tafsir": "Demikianlah sikap orang kafir. Dan kalau mereka Kami binasakan dengan suatu siksaan sebelumnya, yakni sebelum Kami turunkan Al-Qur’an kepada Nabi Muhammad, tentulah mereka di akhirat nanti berkata, “Ya Tuhan kami, mengapa di dunia dulu tidak Engkau utus seorang rasul kepada kami untuk mengingatkan kami sehingga kami mengikuti ayat-ayat-Mu sebelum kami menjadi hina akibat siksa ini dan rendah karena kedurhakaan kami?”"
+    },
+    {
+      "no": 135,
+      "arab": "قُلْ كُلٌّ مُّتَرَبِّصٌ فَتَرَبَّصُوا ۖ فَسَتَعْلَمُونَ مَنْ أَصْحَابُ الصِّرَاطِ السَّوِيِّ وَمَنِ اهْتَدَىٰ",
+      "latin": "Qul kullum mutarabbisun fatarabbasoo fasta'lamoona man Ashaabus Siraatis Sawiyyi wa manih tadaa",
+      "id": "Katakanlah (Muhammad), “Masing-masing (kita) menanti, maka nantikanlah olehmu! Dan kelak kamu akan mengetahui, siapa yang menempuh jalan yang lurus, dan siapa yang telah mendapat petunjuk.”",
+      "en": "Say, \"Each [of us] is waiting; so wait. For you will know who are the companions of the sound path and who is guided.\"",
+      "audio": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2483",
+      "tafsir": "Wahai Nabi Muhammad, tanda keengganan orang kafir mengikuti petunjuk Allah telah jelas. Karena itu, katakanlah kepada mereka, “Masing-masing dari kita, yaitu umat beriman di satu pihak dan kaum kafir di pihak lain, menanti apa yang akan dilakukan Allah kelak. Jika demikian, maka nantikanlah ketetapan Allah itu olehmu! Dan kelak ketika keputusan-Nya datang, kamu akan mengetahui siapa di antara kita yang menempuh jalan yang lurus dan siapa yang telah terhindar dari kesesatan dengan mendapat petunjuk dari Allah Yang Mahabenar.”"
+    }
+  ]
+}
