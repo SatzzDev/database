@@ -1,0 +1,6 @@
+.config/*
+.git/*
+.replit
+.upm/*
+node_modules/*
+app.js
