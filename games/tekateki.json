@@ -1,0 +1,1082 @@
+{
+  "creator": "@krniwnstria",
+  "total_soal": 125,
+  {
+  "result": [
+    {
+      "index": 1,
+      "soal": "Apa yang begitu rapuh hingga pecah bahkan saat disebutkan?",
+      "jawaban": "Sunyi"
+    },
+    {
+      "index": 2,
+      "soal": "Aku tidak hidup, tetapi aku bertumbuh; aku tidak punya paru-paru, tapi aku butuh udara; aku tidak punya mulut, tapi air membunuhku. Aku ini apa?",
+      "jawaban": "Api"
+    },
+    {
+      "index": 3,
+      "soal": "Apa yang naik dan turun tapi tetap di tempat yang sama?",
+      "jawaban": "Tangga"
+    },
+    {
+      "index": 4,
+      "soal": "Aku punya banyak kunci tapi tidak bisa membuka pintu. Aku ini apa?",
+      "jawaban": "Piano"
+    },
+    {
+      "index": 5,
+      "soal": "Semakin banyak kau ambil, semakin besar aku. Aku ini apa?",
+      "jawaban": "Luka"
+    },
+    {
+      "index": 6,
+      "soal": "Aku selalu datang tapi tidak pernah tiba. Aku ini apa?",
+      "jawaban": "Besok"
+    },
+    {
+      "index": 7,
+      "soal": "Apa yang bisa terbang tanpa sayap dan menangis tanpa mata?",
+      "jawaban": "Awan"
+    },
+    {
+      "index": 8,
+      "soal": "Apa yang memiliki wajah dan dua tangan tapi tidak punya tubuh?",
+      "jawaban": "Jam"
+    },
+    {
+      "index": 9,
+      "soal": "Aku punya leher tapi tidak punya kepala, apa aku?",
+      "jawaban": "Botol"
+    },
+    {
+      "index": 10,
+      "soal": "Aku punya rumah tapi tidak bisa tinggal di dalamnya. Apa aku?",
+      "jawaban": "Siput"
+    },
+    {
+      "index": 11,
+      "soal": "Apa yang bisa pecah tanpa disentuh?",
+      "jawaban": "Janji"
+    },
+    {
+      "index": 12,
+      "soal": "Aku berjalan tanpa kaki, aku menangis tanpa mata. Aku ini apa?",
+      "jawaban": "Awan"
+    },
+    {
+      "index": 13,
+      "soal": "Semakin banyak aku diambil, semakin besar aku. Aku ini apa?",
+      "jawaban": "Lubang"
+    },
+    {
+      "index": 14,
+      "soal": "Aku punya kunci tapi tidak bisa membuka pintu, aku bisa dimainkan tapi bukan alat musik. Aku ini apa?",
+      "jawaban": "Piano"
+    },
+    {
+      "index": 15,
+      "soal": "Apa yang selalu di depan tapi tidak pernah bisa dilihat?",
+      "jawaban": "Masa"
+    },
+    {
+      "index": 16,
+      "soal": "Apa yang memiliki jarum tapi tidak bisa menjahit?",
+      "jawaban": "Jam"
+    },
+    {
+      "index": 17,
+      "soal": "Aku selalu basah saat aku kering, aku ini apa?",
+      "jawaban": "Handuk"
+    },
+    {
+      "index": 18,
+      "soal": "Apa yang bisa membuat air menjadi kering?",
+      "jawaban": "Sinar"
+    },
+    {
+      "index": 19,
+      "soal": "Aku punya banyak gigi tapi tidak bisa menggigit, aku ini apa?",
+      "jawaban": "Sisir"
+    },
+    {
+      "index": 20,
+      "soal": "Apa yang selalu bergerak tapi tidak pernah meninggalkan tempat?",
+      "jawaban": "Jarum"
+    },
+    {
+      "index": 21,
+      "soal": "Jika 2 + 3 = 10, 3 + 7 = 30, maka 4 + 5 = ?",
+      "jawaban": "36"
+    },
+    {
+      "index": 22,
+      "soal": "Angka apa yang jika dibalik tetap sama?",
+      "jawaban": "8"
+    },
+    {
+      "index": 23,
+      "soal": "Apa bilangan ganjil terkecil?",
+      "jawaban": "1"
+    },
+    {
+      "index": 24,
+      "soal": "Berapa sisi segitiga?",
+      "jawaban": "3"
+    },
+    {
+      "index": 25,
+      "soal": "Apa hasil dari 5 dikali 0?",
+      "jawaban": "0"
+    },
+    {
+      "index": 26,
+      "soal": "Apa kata yang salah ejaannya selalu benar?",
+      "jawaban": "Salah"
+    },
+    {
+      "index": 27,
+      "soal": "Apa kata yang bisa berdiri sendiri tapi juga bisa jatuh?",
+      "jawaban": "Tegak"
+    },
+    {
+      "index": 28,
+      "soal": "Apa kata yang paling sering dipakai tapi tidak pernah diucapkan?",
+      "jawaban": "Diam"
+    },
+    {
+      "index": 29,
+      "soal": "Apa kata yang panjang tapi tetap pendek saat diucapkan?",
+      "jawaban": "Pendek"
+    },
+    {
+      "index": 30,
+      "soal": "Apa kata yang dimulai dan diakhiri dengan huruf yang sama?",
+      "jawaban": "Ada"
+    },
+    {
+      "index": 31,
+      "soal": "Apa bahasa pemrograman yang namanya sama dengan jenis ular?",
+      "jawaban": "Python"
+    },
+    {
+      "index": 32,
+      "soal": "Apa yang digunakan untuk menyimpan data sementara di komputer?",
+      "jawaban": "Cache"
+    },
+    {
+      "index": 33,
+      "soal": "Sebuah fungsi yang memanggil dirinya sendiri disebut apa?",
+      "jawaban": "Rekursi"
+    },
+    {
+      "index": 34,
+      "soal": "Apa tipe data yang hanya bisa bernilai benar atau salah?",
+      "jawaban": "Boolean"
+    },
+    {
+      "index": 35,
+      "soal": "Apa istilah untuk kesalahan yang terjadi saat program dijalankan?",
+      "jawaban": "Error"
+    },
+    {
+      "index": 36,
+      "soal": "Apa singkatan dari teknologi yang memungkinkan perangkat terhubung secara nirkabel?",
+      "jawaban": "WiFi"
+    },
+    {
+      "index": 37,
+      "soal": "Perangkat keras utama yang menjadi otak komputer?",
+      "jawaban": "CPU"
+    },
+    {
+      "index": 38,
+      "soal": "Apa nama sistem operasi open source yang berbasis Unix?",
+      "jawaban": "Linux"
+    },
+    {
+      "index": 39,
+      "soal": "Teknologi untuk menyimpan data dalam bentuk blok yang terenkripsi dan tersebar?",
+      "jawaban": "Blockchain"
+    },
+    {
+      "index": 40,
+      "soal": "Perangkat yang mengubah sinyal digital menjadi sinyal analog dan sebaliknya?",
+      "jawaban": "Modem"
+    },
+     {
+      "index": 41,
+      "soal": "Apa istilah untuk perangkat lunak jahat yang merusak sistem komputer?",
+      "jawaban": "Virus"
+    },
+    {
+      "index": 42,
+      "soal": "Jaringan komputer yang cakupannya sangat luas dan global?",
+      "jawaban": "Internet"
+    },
+    {
+      "index": 43,
+      "soal": "Apa nama protokol yang digunakan untuk mengirim email?",
+      "jawaban": "SMTP"
+    },
+    {
+      "index": 44,
+      "soal": "Perangkat penyimpanan data portabel yang menggunakan memori flash?",
+      "jawaban": "Flashdisk"
+    },
+    {
+      "index": 45,
+      "soal": "Apa istilah untuk sistem yang menyimpan data di awan?",
+      "jawaban": "Cloud"
+    },
+    {
+      "index": 46,
+      "soal": "Apa nama bahasa pemrograman yang dikembangkan oleh Google?",
+      "jawaban": "Go"
+    },
+    {
+      "index": 47,
+      "soal": "Apa singkatan dari teknologi jaringan 5G?",
+      "jawaban": "5G"
+    },
+    {
+      "index": 48,
+      "soal": "Apa istilah untuk alat yang menghubungkan beberapa perangkat dalam jaringan lokal?",
+      "jawaban": "Switch"
+    },
+    {
+      "index": 49,
+      "soal": "Apa nama sistem operasi dari Apple untuk iPhone?",
+      "jawaban": "iOS"
+    },
+    {
+      "index": 50,
+      "soal": "Apa singkatan dari 'Random Access Memory'?",
+      "jawaban": "RAM"
+    },
+    {
+      "index": 51,
+      "soal": "Perangkat yang menyimpan data secara permanen di komputer?",
+      "jawaban": "Harddisk"
+    },
+    {
+      "index": 52,
+      "soal": "Protokol untuk mengakses halaman web?",
+      "jawaban": "HTTP"
+    },
+    {
+      "index": 53,
+      "soal": "Perangkat yang menampilkan output visual komputer?",
+      "jawaban": "Monitor"
+    },
+    {
+      "index": 54,
+      "soal": "Istilah untuk serangan yang membanjiri server dengan permintaan berlebihan?",
+      "jawaban": "DDoS"
+    },
+    {
+      "index": 55,
+      "soal": "Jenis perangkat lunak yang mengatur perangkat keras komputer?",
+      "jawaban": "Driver"
+    },
+    {
+      "index": 56,
+      "soal": "Apa istilah untuk perangkat yang mengubah energi listrik menjadi sinyal radio?",
+      "jawaban": "Transmitter"
+    },
+    {
+      "index": 57,
+      "soal": "Apa singkatan dari perangkat yang digunakan untuk menghubungkan jaringan lokal ke internet?",
+      "jawaban": "Router"
+    },
+    {
+      "index": 58,
+      "soal": "Apa nama protokol keamanan jaringan yang menggunakan enkripsi?",
+      "jawaban": "SSL"
+    },
+    {
+      "index": 59,
+      "soal": "Apa jenis memori yang kehilangan data saat listrik dimatikan?",
+      "jawaban": "Volatile"
+    },
+    {
+      "index": 60,
+      "soal": "Apa nama bahasa pemrograman yang terkenal untuk pengembangan web frontend?",
+      "jawaban": "JavaScript"
+    },
+    {
+      "index": 56,
+      "soal": "Apa perangkat yang mengubah energi listrik jadi sinyal radio?",
+      "jawaban": "Pemancar"
+    },
+    {
+      "index": 57,
+      "soal": "Apa singkatan perangkat penghubung jaringan lokal ke internet?",
+      "jawaban": "Router"
+    },
+    {
+      "index": 58,
+      "soal": "Protokol keamanan jaringan yang menggunakan enkripsi?",
+      "jawaban": "SSL"
+    },
+    {
+      "index": 59,
+      "soal": "Jenis memori yang kehilangan data saat listrik dimatikan?",
+      "jawaban": "Volatile"
+    },
+    {
+      "index": 60,
+      "soal": "Bahasa pemrograman untuk web frontend?",
+      "jawaban": "JavaScript"
+    },
+    {
+      "index": 61,
+      "soal": "Apa singkatan dari teknologi komunikasi nirkabel jarak dekat?",
+      "jawaban": "NFC"
+    },
+    {
+      "index": 62,
+      "soal": "Perangkat yang memproses grafis di komputer?",
+      "jawaban": "GPU"
+    },
+    {
+      "index": 63,
+      "soal": "Apa singkatan untuk sistem penyimpanan data virtual di internet?",
+      "jawaban": "Cloud"
+    },
+    {
+      "index": 64,
+      "soal": "Perangkat untuk input teks dan perintah di komputer?",
+      "jawaban": "Keyboard"
+    },
+    {
+      "index": 65,
+      "soal": "Sistem operasi open source berbasis Linux?",
+      "jawaban": "Ubuntu"
+    },
+    {
+      "index": 66,
+      "soal": "Apa perangkat yang menghubungkan komputer ke jaringan tanpa kabel?",
+      "jawaban": "WiFi"
+    },
+    {
+      "index": 67,
+      "soal": "Apa singkatan dari Central Processing Unit?",
+      "jawaban": "CPU"
+    },
+    {
+      "index": 68,
+      "soal": "Perangkat untuk menyimpan data sementara saat komputer menyala?",
+      "jawaban": "RAM"
+    },
+    {
+      "index": 69,
+      "soal": "Apa nama jaringan global terbesar di dunia?",
+      "jawaban": "Internet"
+    },
+    {
+      "index": 70,
+      "soal": "Apa singkatan dari Secure Sockets Layer?",
+      "jawaban": "SSL"
+    },
+    {
+      "index": 71,
+      "soal": "Apa singkatan dari bahasa markup untuk membuat halaman web?",
+      "jawaban": "HTML"
+    },
+    {
+      "index": 72,
+      "soal": "Perangkat yang mengarahkan lalu lintas data di jaringan komputer?",
+      "jawaban": "Router"
+    },
+    {
+      "index": 73,
+      "soal": "Apa singkatan dari sistem operasi Android yang dikembangkan oleh Google?",
+      "jawaban": "Android"
+    },
+    {
+      "index": 74,
+      "soal": "Perangkat keras yang berfungsi menyimpan data secara permanen?",
+      "jawaban": "Harddisk"
+    },
+    {
+      "index": 75,
+      "soal": "Apa teknologi yang memungkinkan komunikasi jarak dekat tanpa kabel?",
+      "jawaban": "NFC"
+    },
+    {
+      "index": 76,
+      "soal": "Bahasa pemrograman yang identik dengan logo gajah?",
+      "jawaban": "PHP"
+    },
+    {
+      "index": 77,
+      "soal": "Sistem operasi buatan Microsoft?",
+      "jawaban": "Windows"
+    },
+    {
+      "index": 78,
+      "soal": "Apa singkatan dari Virtual Private Network?",
+      "jawaban": "VPN"
+    },
+    {
+      "index": 79,
+      "soal": "Perangkat lunak yang membantu mengakses internet?",
+      "jawaban": "Browser"
+    },
+    {
+      "index": 80,
+      "soal": "Bahasa pemrograman yang dibuat oleh Sun Microsystems?",
+      "jawaban": "Java"
+    },
+    {
+      "index": 81,
+      "soal": "Perangkat untuk menghubungkan beberapa komputer dalam jaringan lokal?",
+      "jawaban": "Switch"
+    },
+    {
+      "index": 82,
+      "soal": "Apa singkatan dari HyperText Transfer Protocol Secure?",
+      "jawaban": "HTTPS"
+    },
+    {
+      "index": 83,
+      "soal": "Bahasa pemrograman yang terkenal untuk analisis data dan statistik?",
+      "jawaban": "R"
+    },
+    {
+      "index": 84,
+      "soal": "Apa perangkat yang mengubah sinyal digital menjadi analog?",
+      "jawaban": "Modem"
+    },
+    {
+      "index": 85,
+      "soal": "Apa singkatan dari Content Delivery Network?",
+      "jawaban": "CDN"
+    },
+    {
+      "index": 86,
+      "soal": "Apa nama software untuk mengelola basis data?",
+      "jawaban": "MySQL"
+    },
+    {
+      "index": 87,
+      "soal": "Bahasa pemrograman yang digunakan untuk aplikasi iOS dan macOS?",
+      "jawaban": "Swift"
+    },
+    {
+      "index": 88,
+      "soal": "Apa singkatan dari Central Processing Unit?",
+      "jawaban": "CPU"
+    },
+    {
+      "index": 89,
+      "soal": "Apa nama sistem manajemen paket di Linux Debian?",
+      "jawaban": "Apt"
+    },
+    {
+      "index": 90,
+      "soal": "Apa singkatan dari Secure Shell?",
+      "jawaban": "SSH"
+    },
+    {
+      "index": 91,
+      "soal": "Planet apa yang dikenal sebagai planet merah?",
+      "jawaban": "Mars"
+    },
+    {
+      "index": 92,
+      "soal": "Apa ibu kota Indonesia?",
+      "jawaban": "Jakarta"
+    },
+    {
+      "index": 93,
+      "soal": "Apa warna campuran merah dan putih?",
+      "jawaban": "Pink"
+    },
+    {
+      "index": 94,
+      "soal": "Apa nama hewan yang melambangkan kebijaksanaan?",
+      "jawaban": "BurungHantu"
+    },
+    {
+      "index": 95,
+      "soal": "Apa nama logam cair pada suhu kamar?",
+      "jawaban": "Merkuri"
+    },
+    {
+      "index": 96,
+      "soal": "Apa nama gunung tertinggi di dunia?",
+      "jawaban": "Everest"
+    },
+    {
+      "index": 97,
+      "soal": "Apa nama lautan terbesar di dunia?",
+      "jawaban": "Pasifik"
+    },
+    {
+      "index": 98,
+      "soal": "Apa nama benua tempat Mesir berada?",
+      "jawaban": "Afrika"
+    },
+    {
+      "index": 99,
+      "soal": "Apa bahasa resmi PBB yang paling banyak digunakan?",
+      "jawaban": "Inggris"
+    },
+    {
+      "index": 100,
+      "soal": "Apa nama zat yang memberi warna hijau pada tumbuhan?",
+      "jawaban": "Klorofil"
+    },
+    {
+      "index": 101,
+      "soal": "Apa nama burung yang terkenal bisa meniru suara manusia?",
+      "jawaban": "Beo"
+    },
+    {
+      "index": 102,
+      "soal": "Apa nama kota terbesar di dunia berdasarkan jumlah penduduk?",
+      "jawaban": "Tokyo"
+    },
+    {
+      "index": 103,
+      "soal": "Apa nama alat yang digunakan untuk mengukur suhu?",
+      "jawaban": "Termometer"
+    },
+    {
+      "index": 104,
+      "soal": "Apa nama sungai terpanjang di dunia?",
+      "jawaban": "Nile"
+    },
+    {
+      "index": 105,
+      "soal": "Apa nama logam yang paling ringan?",
+      "jawaban": "Aluminium"
+    },
+    {
+      "index": 106,
+      "soal": "Apa nama pulau terbesar di dunia?",
+      "jawaban": "Greenland"
+    },
+    {
+      "index": 107,
+      "soal": "Apa nama bunga yang melambangkan cinta?",
+      "jawaban": "Mawar"
+    },
+    {
+      "index": 108,
+      "soal": "Apa nama planet terbesar di tata surya?",
+      "jawaban": "Jupiter"
+    },
+    {
+      "index": 109,
+      "soal": "Apa nama hewan terbesar di dunia?",
+      "jawaban": "Paus"
+    },
+    {
+      "index": 110,
+      "soal": "Apa nama warna yang merupakan campuran dari biru dan kuning?",
+      "jawaban": "Hijau"
+    },
+    {
+      "index": 111,
+      "soal": "Apa nama logam berwarna kuning yang sering dipakai buat perhiasan?",
+      "jawaban": "Emas"
+    },
+    {
+      "index": 112,
+      "soal": "Apa nama hewan yang bisa berubah warna sesuai lingkungan?",
+      "jawaban": "Kameleon"
+    },
+    {
+      "index": 113,
+      "soal": "Apa nama ibukota Jepang?",
+      "jawaban": "Tokyo"
+    },
+    {
+      "index": 114,
+      "soal": "Apa nama zat yang membuat air laut terasa asin?",
+      "jawaban": "Garam"
+    },
+    {
+      "index": 115,
+      "soal": "Apa nama organ tubuh yang memompa darah?",
+      "jawaban": "Jantung"
+    },
+    {
+      "index": 116,
+      "soal": "Apa nama benua yang dikenal dengan sebutan 'Benua Hitam'?",
+      "jawaban": "Afrika"
+    },
+    {
+      "index": 117,
+      "soal": "Apa nama alat transportasi yang terbang di udara?",
+      "jawaban": "Pesawat"
+    },
+    {
+      "index": 118,
+      "soal": "Apa nama bintang paling dekat dengan bumi?",
+      "jawaban": "Matahari"
+    },
+    {
+      "index": 119,
+      "soal": "Apa nama bahasa yang digunakan di Brasil?",
+      "jawaban": "Portugis"
+    },
+    {
+      "index": 120,
+      "soal": "Apa nama zat yang dibutuhkan tanaman untuk fotosintesis?",
+      "jawaban": "Karbon Dioksida"
+    },
+    {
+      "index": 121,
+      "soal": "Apa nama negara dengan piramida terkenal?",
+      "jawaban": "Mesir"
+    },
+    {
+      "index": 122,
+      "soal": "Apa nama gas yang kita hirup untuk bernapas?",
+      "jawaban": "Oksigen"
+    },
+    {
+      "index": 123,
+      "soal": "Apa nama hewan pengerat kecil yang sering dijadikan peliharaan?",
+      "jawaban": "Hamster"
+    },
+    {
+      "index": 124,
+      "soal": "Apa nama alat musik berdawai yang dimainkan dengan cara dipetik?",
+      "jawaban": "Gitar"
+    },
+    {
+      "index": 125,
+      "soal": "Apa nama kota di Prancis yang terkenal dengan menara Eiffel?",
+      "jawaban": "Paris"
+    },
+    {
+      "index": 126,
+      "soal": "Apa nama zat yang memberi warna oranye pada wortel?",
+      "jawaban": "Beta-karoten"
+    },
+    {
+      "index": 127,
+      "soal": "Apa nama alat yang digunakan untuk mengukur waktu?",
+      "jawaban": "Jam"
+    },
+    {
+      "index": 128,
+      "soal": "Apa nama planet yang paling dekat dengan Matahari?",
+      "jawaban": "Merkurius"
+    },
+    {
+      "index": 129,
+      "soal": "Apa nama hewan yang terkenal bisa melompat sangat jauh dibanding ukuran tubuhnya?",
+      "jawaban": "Kanguru"
+    },
+    {
+      "index": 130,
+      "soal": "Apa nama benda langit yang kita lihat saat malam hari?",
+      "jawaban": "Bintang"
+    },
+    {
+      "index": 131,
+      "soal": "Apa nama sungai terpanjang di Afrika?",
+      "jawaban": "Nil"
+    },
+    {
+      "index": 132,
+      "soal": "Apa nama hewan yang disebut raja hutan?",
+      "jawaban": "Singa"
+    },
+    {
+      "index": 133,
+      "soal": "Apa nama pulau terkenal di Italia yang terkenal dengan menara miringnya?",
+      "jawaban": "Pisa"
+    },
+    {
+      "index": 134,
+      "soal": "Apa nama alat yang digunakan untuk melihat benda kecil?",
+      "jawaban": "Mikroskop"
+    },
+    {
+      "index": 135,
+      "soal": "Apa nama benua terbesar di dunia?",
+      "jawaban": "Asia"
+    },
+    {
+      "index": 136,
+      "soal": "Apa nama gas yang digunakan tanaman untuk fotosintesis?",
+      "jawaban": "Karbon"
+    },
+    {
+      "index": 137,
+      "soal": "Apa nama benda yang mengelilingi Bumi dan mempengaruhi pasang surut laut?",
+      "jawaban": "Bulan"
+    },
+    {
+      "index": 138,
+      "soal": "Apa nama logam yang berwarna merah dan konduktor listrik baik?",
+      "jawaban": "Tembaga"
+    },
+    {
+      "index": 139,
+      "soal": "Apa nama olahraga yang menggunakan bola dan ring di lapangan?",
+      "jawaban": "Basket"
+    },
+    {
+      "index": 140,
+      "soal": "Apa nama alat yang mengubah energi listrik menjadi energi gerak?",
+      "jawaban": "Motor"
+    },
+    {
+      "index": 141,
+      "soal": "Apa nama hewan berkantung yang berasal dari Australia?",
+      "jawaban": "Kanguru"
+    },
+    {
+      "index": 142,
+      "soal": "Apa nama alat yang digunakan untuk mengukur tekanan udara?",
+      "jawaban": "Barometer"
+    },
+    {
+      "index": 143,
+      "soal": "Apa nama logam berwarna putih yang sering dipakai buat perhiasan dan koin?",
+      "jawaban": "Perak"
+    },
+    {
+      "index": 144,
+      "soal": "Apa nama benda yang kita gunakan untuk menulis di papan tulis?",
+      "jawaban": "Kapur"
+    },
+    {
+      "index": 145,
+      "soal": "Apa nama planet yang memiliki cincin terbesar di tata surya?",
+      "jawaban": "Saturnus"
+    },
+    {
+      "index": 146,
+      "soal": "Apa nama protein utama dalam rambut dan kuku manusia?",
+      "jawaban": "Keratina"
+    },
+    {
+      "index": 147,
+      "soal": "Apa nama negara yang terkenal dengan Menara Pisa?",
+      "jawaban": "Italia"
+    },
+    {
+      "index": 148,
+      "soal": "Apa nama alat musik tiup yang terbuat dari logam dan memiliki katup?",
+      "jawaban": "Terompet"
+    },
+    {
+      "index": 149,
+      "soal": "Apa nama alat yang digunakan untuk melihat bintang dan planet di langit?",
+      "jawaban": "Teleskop"
+    },
+    {
+      "index": 150,
+      "soal": "Apa nama negara terbesar di dunia berdasarkan luas wilayah?",
+      "jawaban": "Rusia"
+    },
+    {
+      "index": 151,
+      "soal": "Apa nama ikan yang terkenal bisa mengembang seperti balon?",
+      "jawaban": "Buntal"
+    },
+    {
+      "index": 152,
+      "soal": "Apa nama alat yang digunakan untuk mengukur kecepatan angin?",
+      "jawaban": "Anemometer"
+    },
+    {
+      "index": 153,
+      "soal": "Apa nama hewan terbesar di darat?",
+      "jawaban": "Gajah"
+    },
+    {
+      "index": 154,
+      "soal": "Apa nama zat yang memberi warna oranye pada wortel?",
+      "jawaban": "Beta-karoten"
+    },
+    {
+      "index": 155,
+      "soal": "Apa nama benda langit yang bercahaya di malam hari selain bintang?",
+      "jawaban": "Bulan"
+    },
+    {
+      "index": 156,
+      "soal": "Apa nama alat yang digunakan untuk mengukur suhu badan?",
+      "jawaban": "Termometer"
+    },
+    {
+      "index": 157,
+      "soal": "Apa nama negara yang dikenal sebagai Negeri Matahari Terbit?",
+      "jawaban": "Jepang"
+    },
+    {
+      "index": 158,
+      "soal": "Apa nama alat musik yang memiliki tuts dan dipetik atau dipukul?",
+      "jawaban": "Piano"
+    },
+    {
+      "index": 159,
+      "soal": "Apa nama zat yang membuat darah berwarna merah?",
+      "jawaban": "Hemoglobin"
+    },
+    {
+      "index": 160,
+      "soal": "Apa nama benua yang paling sedikit penduduknya?",
+      "jawaban": "Antartika"
+    },
+    {
+      "index": 161,
+      "soal": "Apa nama alat yang digunakan untuk mengukur kedalaman laut?",
+      "jawaban": "Sonar"
+    },
+    {
+      "index": 162,
+      "soal": "Apa nama hewan yang terkenal dengan leher panjangnya?",
+      "jawaban": "Jerapah"
+    },
+    {
+      "index": 163,
+      "soal": "Apa nama ibukota Inggris?",
+      "jawaban": "London"
+    },
+    {
+      "index": 164,
+      "soal": "Apa nama zat yang membantu darah menggumpal?",
+      "jawaban": "Fibrin"
+    },
+    {
+      "index": 165,
+      "soal": "Apa nama planet yang dikenal sebagai ‘planet biru’?",
+      "jawaban": "Bumi"
+    },
+    {
+      "index": 166,
+      "soal": "Apa nama alat untuk melihat benda yang sangat kecil?",
+      "jawaban": "Mikroskop"
+    },
+    {
+      "index": 167,
+      "soal": "Apa nama benua yang paling kecil?",
+      "jawaban": "Oseania"
+    },
+    {
+      "index": 168,
+      "soal": "Apa nama hewan yang identik dengan cangkang dan lambat bergerak?",
+      "jawaban": "Kura-kura"
+    },
+    {
+      "index": 169,
+      "soal": "Apa nama alat yang mengubah energi listrik menjadi cahaya?",
+      "jawaban": "Lampu"
+    },
+    {
+      "index": 170,
+      "soal": "Apa nama bahan bakar fosil yang sering dipakai kendaraan?",
+      "jawaban": "Bensin"
+    },
+    {
+      "index": 171,
+      "soal": "Apa nama hewan yang dikenal sebagai ‘raja hutan’?",
+      "jawaban": "Singa"
+    },
+    {
+      "index": 172,
+      "soal": "Apa nama alat untuk mengukur tekanan darah?",
+      "jawaban": "Tensimeter"
+    },
+    {
+      "index": 173,
+      "soal": "Apa nama planet yang terdekat dengan Matahari?",
+      "jawaban": "Merkurius"
+    },
+    {
+      "index": 174,
+      "soal": "Apa nama zat yang digunakan untuk memberi warna pada daun?",
+      "jawaban": "Klorofil"
+    },
+    {
+      "index": 175,
+      "soal": "Apa nama ibu kota Amerika Serikat?",
+      "jawaban": "Washington"
+    },
+    {
+      "index": 176,
+      "soal": "Apa nama alat musik petik dengan enam senar?",
+      "jawaban": "Gitar"
+    },
+    {
+      "index": 177,
+      "soal": "Apa nama benua yang paling banyak negara?",
+      "jawaban": "Afrika"
+    },
+    {
+      "index": 178,
+      "soal": "Apa nama zat yang membentuk tulang dan gigi manusia?",
+      "jawaban": "Kalsium"
+    },
+    {
+      "index": 179,
+      "soal": "Apa nama planet terbesar di tata surya?",
+      "jawaban": "Jupiter"
+    },
+    {
+      "index": 180,
+      "soal": "Apa nama proses tumbuhan menghasilkan makanan dengan bantuan cahaya?",
+      "jawaban": "Fotosintesis"
+    },
+    {
+      "index": 171,
+      "soal": "Apa nama hewan yang dikenal sebagai ‘raja hutan’?",
+      "jawaban": "Singa"
+    },
+    {
+      "index": 172,
+      "soal": "Apa nama alat untuk mengukur tekanan darah?",
+      "jawaban": "Tensimeter"
+    },
+    {
+      "index": 173,
+      "soal": "Apa nama planet yang terdekat dengan Matahari?",
+      "jawaban": "Merkurius"
+    },
+    {
+      "index": 174,
+      "soal": "Apa nama zat yang digunakan untuk memberi warna pada daun?",
+      "jawaban": "Klorofil"
+    },
+    {
+      "index": 175,
+      "soal": "Apa nama ibu kota Amerika Serikat?",
+      "jawaban": "Washington"
+    },
+    {
+      "index": 176,
+      "soal": "Apa nama alat musik petik dengan enam senar?",
+      "jawaban": "Gitar"
+    },
+    {
+      "index": 177,
+      "soal": "Apa nama benua yang paling banyak negara?",
+      "jawaban": "Afrika"
+    },
+    {
+      "index": 178,
+      "soal": "Apa nama zat yang membentuk tulang dan gigi manusia?",
+      "jawaban": "Kalsium"
+    },
+    {
+      "index": 179,
+      "soal": "Apa nama planet terbesar di tata surya?",
+      "jawaban": "Jupiter"
+    },
+    {
+      "index": 180,
+      "soal": "Apa nama proses tumbuhan menghasilkan makanan dengan bantuan cahaya?",
+      "jawaban": "Fotosintesis"
+    },
+    {
+      "index": 181,
+      "soal": "Apa nama gas yang membuat bola api membara?",
+      "jawaban": "Oksigen"
+    },
+    {
+      "index": 182,
+      "soal": "Apa nama organ dalam yang memproduksi insulin?",
+      "jawaban": "Pankreas"
+    },
+    {
+      "index": 183,
+      "soal": "Apa nama alat transportasi yang berjalan di rel?",
+      "jawaban": "Kereta"
+    },
+    {
+      "index": 184,
+      "soal": "Apa nama kota terkenal dengan Colosseum?",
+      "jawaban": "Roma"
+    },
+    {
+      "index": 185,
+      "soal": "Apa nama planet yang dikenal dengan warna merah?",
+      "jawaban": "Mars"
+    },
+    {
+      "index": 186,
+      "soal": "Apa nama zat yang membantu mengikat oksigen dalam darah?",
+      "jawaban": "Hemoglobin"
+    },
+    {
+      "index": 187,
+      "soal": "Apa nama alat yang digunakan untuk mengukur intensitas cahaya?",
+      "jawaban": "Luxmeter"
+    },
+    {
+      "index": 188,
+      "soal": "Apa nama benua yang memiliki gurun terbesar dunia?",
+      "jawaban": "Afrika"
+    },
+    {
+      "index": 189,
+      "soal": "Apa nama planet yang memiliki cincin paling indah?",
+      "jawaban": "Saturnus"
+    },
+    {
+      "index": 190,
+      "soal": "Apa nama logam yang cair pada suhu kamar?",
+      "jawaban": "Raksa"
+    },
+    {
+      "index": 191,
+      "soal": "Apa nama benua yang dikenal dengan sebutan ‘Benua Amerika Selatan’?",
+      "jawaban": "Amerika"
+    },
+    {
+      "index": 192,
+      "soal": "Apa nama alat yang digunakan untuk memotong kertas?",
+      "jawaban": "Gunting"
+    },
+    {
+      "index": 193,
+      "soal": "Apa nama hewan laut yang memiliki delapan lengan?",
+      "jawaban": "Gurita"
+    },
+    {
+      "index": 194,
+      "soal": "Apa nama planet yang dikenal dengan cincin yang luas?",
+      "jawaban": "Saturnus"
+    },
+    {
+      "index": 195,
+      "soal": "Apa nama zat yang berfungsi sebagai sumber energi utama tubuh?",
+      "jawaban": "Glukosa"
+    },
+    {
+      "index": 196,
+      "soal": "Apa nama alat yang digunakan untuk mengukur panjang?",
+      "jawaban": "Meteran"
+    },
+    {
+      "index": 197,
+      "soal": "Apa nama hewan tercepat di darat?",
+      "jawaban": "Cheetah"
+    },
+    {
+      "index": 198,
+      "soal": "Apa nama zat yang memberikan warna hijau pada tanaman?",
+      "jawaban": "Klorofil"
+    },
+    {
+      "index": 199,
+      "soal": "Apa nama kota di Italia yang terkenal dengan pizza?",
+      "jawaban": "Napoli"
+    },
+    {
+      "index": 200,
+      "soal": "Apa nama gas yang menyebabkan efek rumah kaca?",
+      "jawaban": "Karbon"
+    }
+  ]
+}
